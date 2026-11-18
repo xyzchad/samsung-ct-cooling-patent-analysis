@@ -54,6 +54,6 @@ try:
 except ImportError:pass
 result={'checked_at':'2026-11-18','passed':all(checks.values()),'checks':checks,'attachment':attachment,
  'visual_review':'8 PNGs inspected; no unreadable labels or clipping found.',
- 'limits':['No full-cohort independent relevance re-screen or recall estimate.','Functional coding covers independent claim 1, not all claims.','Cost/performance/contract inputs remain for results-team evaluation.','Google Doc was not edited; prepared replacement text is supplied.']}
+ 'limits':['No full-cohort independent relevance re-screen or recall estimate.','Functional coding covers independent claim 1, not all claims.','Cost/performance/contract inputs remain for results-team evaluation.','Google Doc editing is verified separately in doc_update_20261118.json.']}
 (OUT/'validation.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
 print(json.dumps({'passed':result['passed'],'checks':len(checks),'attachment':attachment},ensure_ascii=False))

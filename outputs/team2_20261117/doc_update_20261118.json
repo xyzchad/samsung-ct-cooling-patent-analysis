@@ -1,0 +1,36 @@
+{
+  "updated_at": "2026-11-18",
+  "document_url": "https://docs.google.com/document/d/1gdqanemc4TsPONHaqhrfS12931u0uNu7egjQEBJruGs",
+  "status": "updated_and_verified",
+  "scope": [
+    "70 existing paragraphs/cells updated without rebuilding tables",
+    "SWOT opportunity row added",
+    "Results-team alternatives, evaluation inputs, method choices and linked sources added",
+    "8 charts inserted as native inline images"
+  ],
+  "checks": {
+    "table_count": 9,
+    "SWOT_rows": 5,
+    "embedded_images": 8,
+    "image_objects": 8,
+    "all_images_from_repo": true,
+    "placeholder_images_removed": true,
+    "US_waiting_status_removed": true,
+    "claim_counts_present": true,
+    "cpc_corrected": true,
+    "links": 32,
+    "section12": true,
+    "section13": true
+  },
+  "pdf_review": {
+    "pages": 14,
+    "table_rows_kept_together": true,
+    "charts_rendered": true,
+    "local_review_exports_not_published": true
+  },
+  "notes": [
+    "Claim coding remains limited to independent claim 1 of the 20 selected US patents.",
+    "Business ranking still requires cost, performance and contract inputs.",
+    "Google Slides was not edited in this update."
+  ]
+}
