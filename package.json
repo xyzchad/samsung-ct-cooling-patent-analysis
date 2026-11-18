@@ -4,8 +4,12 @@
   "private": true,
   "description": "Samsung C&T data-center cooling patent research and team handoff",
   "scripts": {
-    "validate": "node validate_supplement.mjs",
-    "figures": "node build_figures.mjs"
+    "validate": "python3 src/final/validate.py",
+    "validate:links": "python3 src/maintenance/check_repository.py",
+    "validate:kr": "node src/kr/validate_supplement.mjs",
+    "analyze": "python3 src/final/analyze_patents.py",
+    "figures": "python3 src/final/render_figures.py",
+    "figures:kr": "node src/kr/build_figures.mjs"
   },
   "devDependencies": {"playwright": "1.62.1"}
 }

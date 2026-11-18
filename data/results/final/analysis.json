@@ -1,0 +1,3566 @@
+{
+  "as_of": "2026-11-17",
+  "source_search_date": "2026-11-09",
+  "inputs": [
+    {
+      "file": "data/processed/us_baseline/us_dlc_families.csv",
+      "sha256": "32229851c56efe99643d86083b46a9b059253d4082a898f33d1873f8a57ab842",
+      "rows": 451
+    },
+    {
+      "file": "data/processed/us_baseline/us_imm_families.csv",
+      "sha256": "f30c81ddbc5286f77fce09b4970698dd490130b246a25c80a89dcd729c70f0a1",
+      "rows": 163
+    }
+  ],
+  "metrics": {
+    "DLC": {
+      "original": {
+        "total": 451,
+        "recent": 354,
+        "period1": 56,
+        "period2": 188,
+        "growth_pct": 235.71428571428572,
+        "pair_denominator": 367,
+        "fractional_denominator": 354.0,
+        "hhi_full": 0.06964934033217263,
+        "hhi_fractional": 0.07341041846212774,
+        "cr4": 0.4550408719346049,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 62,
+            "share": 0.16893732970027248,
+            "fractional_count": 61.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 55,
+            "share": 0.14986376021798364,
+            "fractional_count": 55.0
+          },
+          {
+            "name": "DELL",
+            "count": 28,
+            "share": 0.07629427792915532,
+            "fractional_count": 28.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 22,
+            "share": 0.05994550408719346,
+            "fractional_count": 22.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 18,
+            "share": 0.04904632152588556,
+            "fractional_count": 15.5
+          },
+          {
+            "name": "OVH",
+            "count": 15,
+            "share": 0.04087193460490463,
+            "fractional_count": 15.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 12,
+            "share": 0.0326975476839237,
+            "fractional_count": 12.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 10,
+            "share": 0.027247956403269755,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 9,
+            "share": 0.02452316076294278,
+            "fractional_count": 9.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 7,
+            "share": 0.01907356948228883,
+            "fractional_count": 7.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 5,
+            "share": 0.013623978201634877,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "HPE",
+            "count": 5,
+            "share": 0.013623978201634877,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 5,
+            "share": 0.013623978201634877,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "SHENZHEN ENVICOOL TECH CO LTD",
+            "count": 5,
+            "share": 0.013623978201634877,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "IBM",
+            "count": 5,
+            "share": 0.013623978201634877,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "HUAWEI",
+            "count": 4,
+            "share": 0.010899182561307902,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 4,
+            "share": 0.010899182561307902,
+            "fractional_count": 3.5
+          },
+          {
+            "name": "BULL SAS",
+            "count": 4,
+            "share": 0.010899182561307902,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "NORTEK AIR SOLUTIONS CANADA INC",
+            "count": 4,
+            "share": 0.010899182561307902,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 3,
+            "share": 0.008174386920980926,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "VERTIV CORP",
+            "count": 3,
+            "share": 0.008174386920980926,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMD DESIGN LLC",
+            "count": 3,
+            "share": 0.008174386920980926,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMAZON TECH INC",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CMOTION TECH LIMITED",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SEGUENTE INC",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "BEIJING YOUZHUJU NETWORK TECH CO LTD",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "NEXALUS LTD",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SHENZHEN MICROBT ELECTRONICS TECH CO LTD",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "EQUINIX INC",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HOFFMAN ENCLOSURES INC",
+            "count": 2,
+            "share": 0.005449591280653951,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GUANGDONG SHENLING ENV SYSTEMS CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAT UNIV SINGAPORE",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "STRATEGIC THERMAL LABS LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV TIANJIN COMMERCE",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "COOLER MASTER CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUGHES PHILLIP N",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LIPP ROBERT J",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BITMAIN TECH INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INPRO TECH LIMITED LIABILITY COMPANY",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LITE ON TECHNOLOGY CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WISTRON CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "THE DURBIN GROUP LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SILICON GRAPHICS INT CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BAIDUCOM TIMES TECH (BEIJING) CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CISCO TECH INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INT’L INC DBA ZT SYSTEMS",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITAC COMPUTING TECH CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IND TECH RES INST",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LENOVO ENTPR SOLUTIONS SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LENOVO GLOBAL TECH UNITED STATES INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BEIJING BYTEDANCE NETWORK TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "APTIV TECHNOLOGIES AG",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AURAS TECHNOLOGY CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHILLDYNE INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS TRUE LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "META GREEN COOLING TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU KEENCOOL INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "OPENAI OPCO LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MAGCALE ARNOLD CASTILLO",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHAMP TECH OPTICAL FOSHAN CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "COMMSCOPE TECHNOLOGIES LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INTEL CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS DATA TECH INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SHUMATE ENGINEERING PLLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BARROWCLOUGH NICHOLAS BEN",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "KLEIN BRADLEY JOHN",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "WU BANQIU",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "XU MING",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "ADVANCED MICRO DEVICES INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ORACLE INT CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MIKROS TECH INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NIDEC CORP",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NOVOPOWER INT INC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SEAGATE TECHNOLOGY LLC",
+            "count": 1,
+            "share": 0.0027247956403269754,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 5.2,
+        "new_applicants_2020_24": 10.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 4
+          },
+          {
+            "year": 2003,
+            "families": 6
+          },
+          {
+            "year": 2004,
+            "families": 8
+          },
+          {
+            "year": 2005,
+            "families": 3
+          },
+          {
+            "year": 2006,
+            "families": 6
+          },
+          {
+            "year": 2007,
+            "families": 5
+          },
+          {
+            "year": 2008,
+            "families": 15
+          },
+          {
+            "year": 2009,
+            "families": 10
+          },
+          {
+            "year": 2010,
+            "families": 9
+          },
+          {
+            "year": 2011,
+            "families": 10
+          },
+          {
+            "year": 2012,
+            "families": 9
+          },
+          {
+            "year": 2013,
+            "families": 6
+          },
+          {
+            "year": 2014,
+            "families": 6
+          },
+          {
+            "year": 2015,
+            "families": 20
+          },
+          {
+            "year": 2016,
+            "families": 8
+          },
+          {
+            "year": 2017,
+            "families": 16
+          },
+          {
+            "year": 2018,
+            "families": 19
+          },
+          {
+            "year": 2019,
+            "families": 17
+          },
+          {
+            "year": 2020,
+            "families": 36
+          },
+          {
+            "year": 2021,
+            "families": 72
+          },
+          {
+            "year": 2022,
+            "families": 44
+          },
+          {
+            "year": 2023,
+            "families": 67
+          },
+          {
+            "year": 2024,
+            "families": 55
+          }
+        ]
+      },
+      "reviewed": {
+        "total": 447,
+        "recent": 352,
+        "period1": 54,
+        "period2": 186,
+        "growth_pct": 244.44444444444446,
+        "pair_denominator": 364,
+        "fractional_denominator": 352.0,
+        "hhi_full": 0.06982852312522642,
+        "hhi_fractional": 0.07325025826446281,
+        "cr4": 0.45604395604395603,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 61,
+            "share": 0.16758241758241757,
+            "fractional_count": 60.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 55,
+            "share": 0.1510989010989011,
+            "fractional_count": 55.0
+          },
+          {
+            "name": "DELL",
+            "count": 28,
+            "share": 0.07692307692307693,
+            "fractional_count": 28.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 22,
+            "share": 0.06043956043956044,
+            "fractional_count": 22.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 18,
+            "share": 0.04945054945054945,
+            "fractional_count": 15.5
+          },
+          {
+            "name": "OVH",
+            "count": 15,
+            "share": 0.04120879120879121,
+            "fractional_count": 15.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 12,
+            "share": 0.03296703296703297,
+            "fractional_count": 12.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 10,
+            "share": 0.027472527472527472,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 9,
+            "share": 0.024725274725274724,
+            "fractional_count": 9.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 7,
+            "share": 0.019230769230769232,
+            "fractional_count": 7.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 5,
+            "share": 0.013736263736263736,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "HPE",
+            "count": 5,
+            "share": 0.013736263736263736,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 5,
+            "share": 0.013736263736263736,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "SHENZHEN ENVICOOL TECH CO LTD",
+            "count": 5,
+            "share": 0.013736263736263736,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "IBM",
+            "count": 5,
+            "share": 0.013736263736263736,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "HUAWEI",
+            "count": 4,
+            "share": 0.01098901098901099,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 4,
+            "share": 0.01098901098901099,
+            "fractional_count": 3.5
+          },
+          {
+            "name": "BULL SAS",
+            "count": 4,
+            "share": 0.01098901098901099,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "NORTEK AIR SOLUTIONS CANADA INC",
+            "count": 4,
+            "share": 0.01098901098901099,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 3,
+            "share": 0.008241758241758242,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "VERTIV CORP",
+            "count": 3,
+            "share": 0.008241758241758242,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMD DESIGN LLC",
+            "count": 3,
+            "share": 0.008241758241758242,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMAZON TECH INC",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CMOTION TECH LIMITED",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SEGUENTE INC",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "BEIJING YOUZHUJU NETWORK TECH CO LTD",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "NEXALUS LTD",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SHENZHEN MICROBT ELECTRONICS TECH CO LTD",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "EQUINIX INC",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HOFFMAN ENCLOSURES INC",
+            "count": 2,
+            "share": 0.005494505494505495,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GUANGDONG SHENLING ENV SYSTEMS CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAT UNIV SINGAPORE",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "STRATEGIC THERMAL LABS LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV TIANJIN COMMERCE",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "COOLER MASTER CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUGHES PHILLIP N",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LIPP ROBERT J",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BITMAIN TECH INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INPRO TECH LIMITED LIABILITY COMPANY",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LITE ON TECHNOLOGY CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WISTRON CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "THE DURBIN GROUP LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SILICON GRAPHICS INT CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BAIDUCOM TIMES TECH (BEIJING) CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CISCO TECH INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INT’L INC DBA ZT SYSTEMS",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITAC COMPUTING TECH CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IND TECH RES INST",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LENOVO ENTPR SOLUTIONS SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LENOVO GLOBAL TECH UNITED STATES INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BEIJING BYTEDANCE NETWORK TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "APTIV TECHNOLOGIES AG",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AURAS TECHNOLOGY CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHILLDYNE INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS TRUE LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "META GREEN COOLING TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU KEENCOOL INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "OPENAI OPCO LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MAGCALE ARNOLD CASTILLO",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHAMP TECH OPTICAL FOSHAN CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "COMMSCOPE TECHNOLOGIES LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INTEL CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS DATA TECH INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SHUMATE ENGINEERING PLLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BARROWCLOUGH NICHOLAS BEN",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "KLEIN BRADLEY JOHN",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "WU BANQIU",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "XU MING",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "ADVANCED MICRO DEVICES INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ORACLE INT CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MIKROS TECH INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NIDEC CORP",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NOVOPOWER INT INC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SEAGATE TECHNOLOGY LLC",
+            "count": 1,
+            "share": 0.0027472527472527475,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 5.2,
+        "new_applicants_2020_24": 10.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 4
+          },
+          {
+            "year": 2003,
+            "families": 6
+          },
+          {
+            "year": 2004,
+            "families": 8
+          },
+          {
+            "year": 2005,
+            "families": 3
+          },
+          {
+            "year": 2006,
+            "families": 6
+          },
+          {
+            "year": 2007,
+            "families": 5
+          },
+          {
+            "year": 2008,
+            "families": 15
+          },
+          {
+            "year": 2009,
+            "families": 10
+          },
+          {
+            "year": 2010,
+            "families": 9
+          },
+          {
+            "year": 2011,
+            "families": 10
+          },
+          {
+            "year": 2012,
+            "families": 9
+          },
+          {
+            "year": 2013,
+            "families": 5
+          },
+          {
+            "year": 2014,
+            "families": 5
+          },
+          {
+            "year": 2015,
+            "families": 20
+          },
+          {
+            "year": 2016,
+            "families": 8
+          },
+          {
+            "year": 2017,
+            "families": 16
+          },
+          {
+            "year": 2018,
+            "families": 19
+          },
+          {
+            "year": 2019,
+            "families": 17
+          },
+          {
+            "year": 2020,
+            "families": 36
+          },
+          {
+            "year": 2021,
+            "families": 71
+          },
+          {
+            "year": 2022,
+            "families": 43
+          },
+          {
+            "year": 2023,
+            "families": 67
+          },
+          {
+            "year": 2024,
+            "families": 55
+          }
+        ]
+      },
+      "strict_boundary_excluded": {
+        "total": 442,
+        "recent": 349,
+        "period1": 53,
+        "period2": 186,
+        "growth_pct": 250.9433962264151,
+        "pair_denominator": 360,
+        "fractional_denominator": 349.0,
+        "hhi_full": 0.07100308641975309,
+        "hhi_fractional": 0.0741167970706316,
+        "cr4": 0.4583333333333333,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 61,
+            "share": 0.16944444444444445,
+            "fractional_count": 60.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 55,
+            "share": 0.1527777777777778,
+            "fractional_count": 55.0
+          },
+          {
+            "name": "DELL",
+            "count": 28,
+            "share": 0.07777777777777778,
+            "fractional_count": 28.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 21,
+            "share": 0.058333333333333334,
+            "fractional_count": 21.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 18,
+            "share": 0.05,
+            "fractional_count": 15.5
+          },
+          {
+            "name": "OVH",
+            "count": 15,
+            "share": 0.041666666666666664,
+            "fractional_count": 15.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 12,
+            "share": 0.03333333333333333,
+            "fractional_count": 12.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 10,
+            "share": 0.027777777777777776,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 9,
+            "share": 0.025,
+            "fractional_count": 9.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 7,
+            "share": 0.019444444444444445,
+            "fractional_count": 7.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 5,
+            "share": 0.013888888888888888,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "HPE",
+            "count": 5,
+            "share": 0.013888888888888888,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 5,
+            "share": 0.013888888888888888,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "SHENZHEN ENVICOOL TECH CO LTD",
+            "count": 5,
+            "share": 0.013888888888888888,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "IBM",
+            "count": 5,
+            "share": 0.013888888888888888,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "HUAWEI",
+            "count": 4,
+            "share": 0.011111111111111112,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 4,
+            "share": 0.011111111111111112,
+            "fractional_count": 3.5
+          },
+          {
+            "name": "BULL SAS",
+            "count": 4,
+            "share": 0.011111111111111112,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "NORTEK AIR SOLUTIONS CANADA INC",
+            "count": 4,
+            "share": 0.011111111111111112,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 3,
+            "share": 0.008333333333333333,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMD DESIGN LLC",
+            "count": 3,
+            "share": 0.008333333333333333,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "AMAZON TECH INC",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CMOTION TECH LIMITED",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "VERTIV CORP",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SEGUENTE INC",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "BEIJING YOUZHUJU NETWORK TECH CO LTD",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "NEXALUS LTD",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SHENZHEN MICROBT ELECTRONICS TECH CO LTD",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "EQUINIX INC",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HOFFMAN ENCLOSURES INC",
+            "count": 2,
+            "share": 0.005555555555555556,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GUANGDONG SHENLING ENV SYSTEMS CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAT UNIV SINGAPORE",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "STRATEGIC THERMAL LABS LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV TIANJIN COMMERCE",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "COOLER MASTER CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUGHES PHILLIP N",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LIPP ROBERT J",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BITMAIN TECH INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INPRO TECH LIMITED LIABILITY COMPANY",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LITE ON TECHNOLOGY CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WISTRON CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "THE DURBIN GROUP LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SILICON GRAPHICS INT CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BAIDUCOM TIMES TECH (BEIJING) CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CISCO TECH INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INT’L INC DBA ZT SYSTEMS",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITAC COMPUTING TECH CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IND TECH RES INST",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LENOVO ENTPR SOLUTIONS SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "LENOVO GLOBAL TECH UNITED STATES INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "BEIJING BYTEDANCE NETWORK TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "APTIV TECHNOLOGIES AG",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AURAS TECHNOLOGY CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHILLDYNE INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS TRUE LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "META GREEN COOLING TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU KEENCOOL INTELLIGENT TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "OPENAI OPCO LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MAGCALE ARNOLD CASTILLO",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHAMP TECH OPTICAL FOSHAN CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "COMMSCOPE TECHNOLOGIES LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "INTEL CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NAUTILUS DATA TECH INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SHUMATE ENGINEERING PLLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "BARROWCLOUGH NICHOLAS BEN",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "KLEIN BRADLEY JOHN",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "ADVANCED MICRO DEVICES INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ORACLE INT CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MIKROS TECH INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NIDEC CORP",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "NOVOPOWER INT INC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SEAGATE TECHNOLOGY LLC",
+            "count": 1,
+            "share": 0.002777777777777778,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 4.8,
+        "new_applicants_2020_24": 10.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 4
+          },
+          {
+            "year": 2003,
+            "families": 6
+          },
+          {
+            "year": 2004,
+            "families": 8
+          },
+          {
+            "year": 2005,
+            "families": 3
+          },
+          {
+            "year": 2006,
+            "families": 6
+          },
+          {
+            "year": 2007,
+            "families": 5
+          },
+          {
+            "year": 2008,
+            "families": 14
+          },
+          {
+            "year": 2009,
+            "families": 10
+          },
+          {
+            "year": 2010,
+            "families": 9
+          },
+          {
+            "year": 2011,
+            "families": 9
+          },
+          {
+            "year": 2012,
+            "families": 9
+          },
+          {
+            "year": 2013,
+            "families": 5
+          },
+          {
+            "year": 2014,
+            "families": 5
+          },
+          {
+            "year": 2015,
+            "families": 19
+          },
+          {
+            "year": 2016,
+            "families": 8
+          },
+          {
+            "year": 2017,
+            "families": 16
+          },
+          {
+            "year": 2018,
+            "families": 19
+          },
+          {
+            "year": 2019,
+            "families": 17
+          },
+          {
+            "year": 2020,
+            "families": 36
+          },
+          {
+            "year": 2021,
+            "families": 71
+          },
+          {
+            "year": 2022,
+            "families": 43
+          },
+          {
+            "year": 2023,
+            "families": 65
+          },
+          {
+            "year": 2024,
+            "families": 55
+          }
+        ]
+      }
+    },
+    "Immersion": {
+      "original": {
+        "total": 163,
+        "recent": 140,
+        "period1": 21,
+        "period2": 102,
+        "growth_pct": 385.71428571428567,
+        "pair_denominator": 149,
+        "fractional_denominator": 140.0,
+        "hhi_full": 0.05788027566325841,
+        "hhi_fractional": 0.06303571428571428,
+        "cr4": 0.38926174496644295,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 24,
+            "share": 0.1610738255033557,
+            "fractional_count": 24.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 18,
+            "share": 0.12080536912751678,
+            "fractional_count": 18.0
+          },
+          {
+            "name": "OVH",
+            "count": 10,
+            "share": 0.06711409395973154,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 6.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 5.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "LEE CHO HAN",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "LEE FANG SHOU",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 4,
+            "share": 0.026845637583892617,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "TMGCORE LLC",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "DELL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "LIQUIDSTACK HOLDING B V",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SALMON PETER C",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CIS GLOBAL LLC",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 1.5
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "QUANTA ASSOCIATES LP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LEE CHO-HAN",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DELTA ELECTRONICS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IBM",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MODINE LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV SOUTHEAST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "RYKOR ENERGY SOLUTIONS LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASA COMPUTERS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WIWYNN CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "3M INNOVATIVE PROPERTIES COMPANY",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "GRC (GREEN REVOLUTION COOLING)",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SUZHOU A RACK INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU ALICLOUD FEITIAN FEITIAN INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASIA PACIFIC CIS WUXI CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SOLO30 B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "JETCOOL TECH INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECHNOLOGY CO., LTD.",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DATABEAN CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SAMSUNG C&T CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CARRIER CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FIRMUS METAL TECH SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CALYOS SA",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AECORSIS B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 2.4,
+        "new_applicants_2020_24": 7.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 0
+          },
+          {
+            "year": 2003,
+            "families": 0
+          },
+          {
+            "year": 2004,
+            "families": 0
+          },
+          {
+            "year": 2005,
+            "families": 0
+          },
+          {
+            "year": 2006,
+            "families": 0
+          },
+          {
+            "year": 2007,
+            "families": 0
+          },
+          {
+            "year": 2008,
+            "families": 3
+          },
+          {
+            "year": 2009,
+            "families": 1
+          },
+          {
+            "year": 2010,
+            "families": 7
+          },
+          {
+            "year": 2011,
+            "families": 0
+          },
+          {
+            "year": 2012,
+            "families": 3
+          },
+          {
+            "year": 2013,
+            "families": 6
+          },
+          {
+            "year": 2014,
+            "families": 3
+          },
+          {
+            "year": 2015,
+            "families": 4
+          },
+          {
+            "year": 2016,
+            "families": 3
+          },
+          {
+            "year": 2017,
+            "families": 5
+          },
+          {
+            "year": 2018,
+            "families": 3
+          },
+          {
+            "year": 2019,
+            "families": 8
+          },
+          {
+            "year": 2020,
+            "families": 17
+          },
+          {
+            "year": 2021,
+            "families": 36
+          },
+          {
+            "year": 2022,
+            "families": 38
+          },
+          {
+            "year": 2023,
+            "families": 18
+          },
+          {
+            "year": 2024,
+            "families": 8
+          }
+        ]
+      },
+      "reviewed": {
+        "total": 163,
+        "recent": 140,
+        "period1": 21,
+        "period2": 102,
+        "growth_pct": 385.71428571428567,
+        "pair_denominator": 149,
+        "fractional_denominator": 140.0,
+        "hhi_full": 0.05788027566325841,
+        "hhi_fractional": 0.06303571428571428,
+        "cr4": 0.38926174496644295,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 24,
+            "share": 0.1610738255033557,
+            "fractional_count": 24.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 18,
+            "share": 0.12080536912751678,
+            "fractional_count": 18.0
+          },
+          {
+            "name": "OVH",
+            "count": 10,
+            "share": 0.06711409395973154,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 6.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 5.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "LEE CHO HAN",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "LEE FANG SHOU",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 4,
+            "share": 0.026845637583892617,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "TMGCORE LLC",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "DELL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "LIQUIDSTACK HOLDING B V",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SALMON PETER C",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CIS GLOBAL LLC",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 1.5
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "QUANTA ASSOCIATES LP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LEE CHO-HAN",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DELTA ELECTRONICS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IBM",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MODINE LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV SOUTHEAST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "RYKOR ENERGY SOLUTIONS LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASA COMPUTERS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WIWYNN CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "3M INNOVATIVE PROPERTIES COMPANY",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "GRC (GREEN REVOLUTION COOLING)",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SUZHOU A RACK INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU ALICLOUD FEITIAN FEITIAN INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASIA PACIFIC CIS WUXI CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SOLO30 B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "JETCOOL TECH INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECHNOLOGY CO., LTD.",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DATABEAN CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SAMSUNG C&T CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CARRIER CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FIRMUS METAL TECH SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CALYOS SA",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AECORSIS B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 2.4,
+        "new_applicants_2020_24": 7.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 0
+          },
+          {
+            "year": 2003,
+            "families": 0
+          },
+          {
+            "year": 2004,
+            "families": 0
+          },
+          {
+            "year": 2005,
+            "families": 0
+          },
+          {
+            "year": 2006,
+            "families": 0
+          },
+          {
+            "year": 2007,
+            "families": 0
+          },
+          {
+            "year": 2008,
+            "families": 3
+          },
+          {
+            "year": 2009,
+            "families": 1
+          },
+          {
+            "year": 2010,
+            "families": 7
+          },
+          {
+            "year": 2011,
+            "families": 0
+          },
+          {
+            "year": 2012,
+            "families": 3
+          },
+          {
+            "year": 2013,
+            "families": 6
+          },
+          {
+            "year": 2014,
+            "families": 3
+          },
+          {
+            "year": 2015,
+            "families": 4
+          },
+          {
+            "year": 2016,
+            "families": 3
+          },
+          {
+            "year": 2017,
+            "families": 5
+          },
+          {
+            "year": 2018,
+            "families": 3
+          },
+          {
+            "year": 2019,
+            "families": 8
+          },
+          {
+            "year": 2020,
+            "families": 17
+          },
+          {
+            "year": 2021,
+            "families": 36
+          },
+          {
+            "year": 2022,
+            "families": 38
+          },
+          {
+            "year": 2023,
+            "families": 18
+          },
+          {
+            "year": 2024,
+            "families": 8
+          }
+        ]
+      },
+      "strict_boundary_excluded": {
+        "total": 163,
+        "recent": 140,
+        "period1": 21,
+        "period2": 102,
+        "growth_pct": 385.71428571428567,
+        "pair_denominator": 149,
+        "fractional_denominator": 140.0,
+        "hhi_full": 0.05788027566325841,
+        "hhi_fractional": 0.06303571428571428,
+        "cr4": 0.38926174496644295,
+        "top_applicants": [
+          {
+            "name": "BAIDU",
+            "count": 24,
+            "share": 0.1610738255033557,
+            "fractional_count": 24.0
+          },
+          {
+            "name": "MICROSOFT",
+            "count": 18,
+            "share": 0.12080536912751678,
+            "fractional_count": 18.0
+          },
+          {
+            "name": "OVH",
+            "count": 10,
+            "share": 0.06711409395973154,
+            "fractional_count": 10.0
+          },
+          {
+            "name": "FOXCONN (HON HAI)",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 6.0
+          },
+          {
+            "name": "INVENTEC",
+            "count": 6,
+            "share": 0.040268456375838924,
+            "fractional_count": 5.5
+          },
+          {
+            "name": "NVIDIA",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "LEE CHO HAN",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "LEE FANG SHOU",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 2.5
+          },
+          {
+            "name": "SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD",
+            "count": 5,
+            "share": 0.03355704697986577,
+            "fractional_count": 5.0
+          },
+          {
+            "name": "QUANTA",
+            "count": 4,
+            "share": 0.026845637583892617,
+            "fractional_count": 4.0
+          },
+          {
+            "name": "TMGCORE LLC",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "DELL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "SUBMER TECH SL",
+            "count": 3,
+            "share": 0.020134228187919462,
+            "fractional_count": 3.0
+          },
+          {
+            "name": "LIQUIDSTACK HOLDING B V",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "FUJITSU LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "GOOGLE",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "TYCO FIRE & SECURITY GMBH",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "HEBEI QINHUAI DATA CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "SALMON PETER C",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CIS GLOBAL LLC",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 1.5
+          },
+          {
+            "name": "DAWNING INFORMATION IND BEIJING CO LTD",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "CGG SERVICES SAS",
+            "count": 2,
+            "share": 0.013422818791946308,
+            "fractional_count": 2.0
+          },
+          {
+            "name": "QUANTA ASSOCIATES LP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ULTRASCALE DIGITAL INFRASTRUCTURE INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "LEE CHO-HAN",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DELTA ELECTRONICS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "IBM",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ZT GROUP INTL INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MODINE LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FACEBOOK INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "UNIV SOUTHEAST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "RYKOR ENERGY SOLUTIONS LLC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASA COMPUTERS INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "WIWYNN CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "3M INNOVATIVE PROPERTIES COMPANY",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "GRC (GREEN REVOLUTION COOLING)",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SQ TECH SHANGHAI CORPORATION",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SUZHOU A RACK INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SUPER MICRO COMPUTER INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU ALICLOUD FEITIAN FEITIAN INFORMATION TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "ASIA PACIFIC CIS WUXI CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SOLO30 B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "MITSUBISHI HEAVY IND LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "JETCOOL TECH INC",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "SCHNEIDER ELECTRIC IT CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECHNOLOGY CO., LTD.",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HANGZHOU DARE ROUHAN TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "DATABEAN CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "SAMSUNG C&T CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CARRIER CORP",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "HUAWEI DIGITAL POWER TECH CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "FIRMUS METAL TECH SINGAPORE PTE LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "CHINA MOBILE COMMUNICATIONS GROUP CO LTD",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CHINA MOBILE GROUP DESIGN INST",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 0.5
+          },
+          {
+            "name": "CALYOS SA",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          },
+          {
+            "name": "AECORSIS B V",
+            "count": 1,
+            "share": 0.006711409395973154,
+            "fractional_count": 1.0
+          }
+        ],
+        "new_applicants_2015_19": 2.4,
+        "new_applicants_2020_24": 7.8,
+        "annual": [
+          {
+            "year": 2000,
+            "families": 0
+          },
+          {
+            "year": 2001,
+            "families": 0
+          },
+          {
+            "year": 2002,
+            "families": 0
+          },
+          {
+            "year": 2003,
+            "families": 0
+          },
+          {
+            "year": 2004,
+            "families": 0
+          },
+          {
+            "year": 2005,
+            "families": 0
+          },
+          {
+            "year": 2006,
+            "families": 0
+          },
+          {
+            "year": 2007,
+            "families": 0
+          },
+          {
+            "year": 2008,
+            "families": 3
+          },
+          {
+            "year": 2009,
+            "families": 1
+          },
+          {
+            "year": 2010,
+            "families": 7
+          },
+          {
+            "year": 2011,
+            "families": 0
+          },
+          {
+            "year": 2012,
+            "families": 3
+          },
+          {
+            "year": 2013,
+            "families": 6
+          },
+          {
+            "year": 2014,
+            "families": 3
+          },
+          {
+            "year": 2015,
+            "families": 4
+          },
+          {
+            "year": 2016,
+            "families": 3
+          },
+          {
+            "year": 2017,
+            "families": 5
+          },
+          {
+            "year": 2018,
+            "families": 3
+          },
+          {
+            "year": 2019,
+            "families": 8
+          },
+          {
+            "year": 2020,
+            "families": 17
+          },
+          {
+            "year": 2021,
+            "families": 36
+          },
+          {
+            "year": 2022,
+            "families": 38
+          },
+          {
+            "year": 2023,
+            "families": 18
+          },
+          {
+            "year": 2024,
+            "families": 8
+          }
+        ]
+      }
+    }
+  },
+  "cpc": [
+    {
+      "technology": "DLC",
+      "group": "유체 순환·연결 부속",
+      "period": "2015–2019",
+      "count": 37,
+      "denominator": 80,
+      "share": 0.4625
+    },
+    {
+      "technology": "DLC",
+      "group": "열·유량 제어",
+      "period": "2015–2019",
+      "count": 34,
+      "denominator": 80,
+      "share": 0.425
+    },
+    {
+      "technology": "DLC",
+      "group": "건물·공조 분류",
+      "period": "2015–2019",
+      "count": 5,
+      "denominator": 80,
+      "share": 0.0625
+    },
+    {
+      "technology": "DLC",
+      "group": "유체 순환·연결 부속",
+      "period": "2020–2024",
+      "count": 184,
+      "denominator": 272,
+      "share": 0.6764705882352942
+    },
+    {
+      "technology": "DLC",
+      "group": "열·유량 제어",
+      "period": "2020–2024",
+      "count": 136,
+      "denominator": 272,
+      "share": 0.5
+    },
+    {
+      "technology": "DLC",
+      "group": "건물·공조 분류",
+      "period": "2020–2024",
+      "count": 7,
+      "denominator": 272,
+      "share": 0.025735294117647058
+    },
+    {
+      "technology": "DLC",
+      "group": "유체 순환·연결 부속",
+      "period": "2015–2024",
+      "count": 221,
+      "denominator": 352,
+      "share": 0.6278409090909091
+    },
+    {
+      "technology": "DLC",
+      "group": "열·유량 제어",
+      "period": "2015–2024",
+      "count": 170,
+      "denominator": 352,
+      "share": 0.48295454545454547
+    },
+    {
+      "technology": "DLC",
+      "group": "건물·공조 분류",
+      "period": "2015–2024",
+      "count": 12,
+      "denominator": 352,
+      "share": 0.03409090909090909
+    },
+    {
+      "technology": "Immersion",
+      "group": "유체 순환·연결 부속",
+      "period": "2015–2019",
+      "count": 7,
+      "denominator": 23,
+      "share": 0.30434782608695654
+    },
+    {
+      "technology": "Immersion",
+      "group": "열·유량 제어",
+      "period": "2015–2019",
+      "count": 9,
+      "denominator": 23,
+      "share": 0.391304347826087
+    },
+    {
+      "technology": "Immersion",
+      "group": "건물·공조 분류",
+      "period": "2015–2019",
+      "count": 1,
+      "denominator": 23,
+      "share": 0.043478260869565216
+    },
+    {
+      "technology": "Immersion",
+      "group": "유체 순환·연결 부속",
+      "period": "2020–2024",
+      "count": 79,
+      "denominator": 117,
+      "share": 0.6752136752136753
+    },
+    {
+      "technology": "Immersion",
+      "group": "열·유량 제어",
+      "period": "2020–2024",
+      "count": 35,
+      "denominator": 117,
+      "share": 0.29914529914529914
+    },
+    {
+      "technology": "Immersion",
+      "group": "건물·공조 분류",
+      "period": "2020–2024",
+      "count": 1,
+      "denominator": 117,
+      "share": 0.008547008547008548
+    },
+    {
+      "technology": "Immersion",
+      "group": "유체 순환·연결 부속",
+      "period": "2015–2024",
+      "count": 86,
+      "denominator": 140,
+      "share": 0.6142857142857143
+    },
+    {
+      "technology": "Immersion",
+      "group": "열·유량 제어",
+      "period": "2015–2024",
+      "count": 44,
+      "denominator": 140,
+      "share": 0.3142857142857143
+    },
+    {
+      "technology": "Immersion",
+      "group": "건물·공조 분류",
+      "period": "2015–2024",
+      "count": 2,
+      "denominator": 140,
+      "share": 0.014285714285714285
+    }
+  ],
+  "overlap_reviewed_families": 21,
+  "unique_union": 589,
+  "precision_note": "팀원1의 무작위 표본 중 논쟁 사례만 재검토했다. 독립 재표본검사가 아니므로 새 precision 추정치로 발표하지 않는다.",
+  "checks": {
+    "family_unique": true,
+    "US_and_filed_filter": true,
+    "fractional_count_sums": true,
+    "original_DLC_451": true,
+    "original_Immersion_163": true,
+    "four_DLC_removed": true,
+    "core_20_unchanged": true
+  },
+  "scurve_holdout": [
+    {
+      "technology": "DLC",
+      "model": "Logistic",
+      "year": 2019,
+      "observed": 190.0,
+      "predicted": 174.6,
+      "error": -0.081
+    },
+    {
+      "technology": "DLC",
+      "model": "Logistic",
+      "year": 2020,
+      "observed": 226.0,
+      "predicted": 184.3,
+      "error": -0.185
+    },
+    {
+      "technology": "DLC",
+      "model": "Logistic",
+      "year": 2021,
+      "observed": 289.0,
+      "predicted": 192.4,
+      "error": -0.334
+    },
+    {
+      "technology": "DLC",
+      "model": "Gompertz",
+      "year": 2019,
+      "observed": 190.0,
+      "predicted": 179.8,
+      "error": -0.054
+    },
+    {
+      "technology": "DLC",
+      "model": "Gompertz",
+      "year": 2020,
+      "observed": 226.0,
+      "predicted": 194.1,
+      "error": -0.141
+    },
+    {
+      "technology": "DLC",
+      "model": "Gompertz",
+      "year": 2021,
+      "observed": 289.0,
+      "predicted": 208.0,
+      "error": -0.28
+    },
+    {
+      "technology": "Immersion",
+      "model": "Logistic",
+      "year": 2019,
+      "observed": 61.0,
+      "predicted": 49.3,
+      "error": -0.192
+    },
+    {
+      "technology": "Immersion",
+      "model": "Logistic",
+      "year": 2020,
+      "observed": 78.0,
+      "predicted": 49.9,
+      "error": -0.36
+    },
+    {
+      "technology": "Immersion",
+      "model": "Logistic",
+      "year": 2021,
+      "observed": 120.0,
+      "predicted": 50.3,
+      "error": -0.581
+    },
+    {
+      "technology": "Immersion",
+      "model": "Gompertz",
+      "year": 2019,
+      "observed": 61.0,
+      "predicted": 51.1,
+      "error": -0.163
+    },
+    {
+      "technology": "Immersion",
+      "model": "Gompertz",
+      "year": 2020,
+      "observed": 78.0,
+      "predicted": 52.5,
+      "error": -0.327
+    },
+    {
+      "technology": "Immersion",
+      "model": "Gompertz",
+      "year": 2021,
+      "observed": 120.0,
+      "predicted": 53.6,
+      "error": -0.553
+    }
+  ]
+}
