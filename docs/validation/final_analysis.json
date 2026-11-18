@@ -105,7 +105,9 @@
     "Immersion_feature_시설 냉각수 명시": true,
     "20_status_assumptions": true,
     "three_facility_CPC_counterexamples": true,
-    "eight_figures": true,
+    "nine_figures": true,
+    "07_S커브_참조분석_size": true,
+    "07_S커브_참조분석_SVG": true,
     "06_기술확보_결과팀인계_size": true,
     "06_기술확보_결과팀인계_SVG": true,
     "05_자사기술_비교_size": true,
@@ -136,7 +138,7 @@
     "range": "A1:X21",
     "equal": true
   },
-  "visual_review": "8 PNGs inspected; no unreadable labels or clipping found.",
+  "visual_review": "9 PNGs inspected; no unreadable labels or clipping found.",
   "limits": [
     "No full-cohort independent relevance re-screen or recall estimate.",
     "Functional coding covers independent claim 1, not all claims.",

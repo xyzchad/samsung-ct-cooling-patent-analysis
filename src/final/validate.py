@@ -36,7 +36,7 @@ for tech in ['DLC','Immersion']:
  for f in C['features']:check(tech+'_feature_'+f,sum(r[f] for r in rr)==C['counts'][tech][f])
 check('20_status_assumptions',Counter(r['status_google_assumption_20261117'] for r in C['rows'])==Counter({'Active':13,'Expired - Lifetime':2,'Expired - Fee Related':5}))
 check('three_facility_CPC_counterexamples',sum(r['시설 냉각수 명시']==1 and r['building_CPC_in_teammate_table']=='N' for r in C['rows'])==3)
-figs=list(FIGURES.glob('*.png'));check('eight_figures',len(figs)==8)
+figs=list(FIGURES.glob('*.png'));check('nine_figures',len(figs)==9)
 for p in figs:
  width,height=struct.unpack('>II',p.read_bytes()[16:24]);check(p.stem+'_size',(width,height)==(2560,1440));check(p.stem+'_SVG',(FIGURES/'editable'/p.with_suffix('.svg').name).exists())
 check('no_figure_canvas_overflow',all(not r['outside_canvas'] for r in json.loads((VALIDATION/'figure_render.json').read_text())))
@@ -54,7 +54,7 @@ try:
   attachment={'checked':True,'sheet':'핵심특허','range':'A1:X21','equal':a==b}
 except ImportError:pass
 result={'checked_at':'2026-11-18','passed':all(checks.values()),'checks':checks,'attachment':attachment,
- 'visual_review':'8 PNGs inspected; no unreadable labels or clipping found.',
+ 'visual_review':'9 PNGs inspected; no unreadable labels or clipping found.',
  'limits':['No full-cohort independent relevance re-screen or recall estimate.','Functional coding covers independent claim 1, not all claims.','Cost/performance/contract inputs remain for results-team evaluation.','Google Doc editing is verified separately in docs/validation/google_doc.json.']}
 (VALIDATION/'final_analysis.json').write_text(json.dumps(result,ensure_ascii=False,indent=2))
 print(json.dumps({'passed':result['passed'],'checks':len(checks),'attachment':attachment},ensure_ascii=False))

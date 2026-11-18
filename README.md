@@ -7,7 +7,7 @@
 | 필요한 것 | 바로가기 |
 |---|---|
 | 결과팀에 넘길 분석·결론·평가 항목 | **[결과팀 인계서](deliverables/결과팀_인계.md)** |
-| 발표에 넣을 그래프·표 | **[도표 8개 미리보기](deliverables/figures/README.md)** |
+| 발표에 넣을 그래프·표 | **[도표 9개 미리보기](deliverables/figures/README.md)** |
 | 슬라이드별 설명과 예상 질문 | **[발표 대본](deliverables/발표대본.md)** |
 | 특허별 구성·원문 근거 | [미국 20건 청구항 분석](deliverables/미국특허_20건_청구항분석.md) |
 | 공동 작업 문서 | [Google Doc](https://docs.google.com/document/d/1gdqanemc4TsPONHaqhrfS12931u0uNu7egjQEBJruGs) |

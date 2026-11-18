@@ -110,6 +110,23 @@ table(f,['대안','현재 근거','결과팀이 평가할 조건'],[
  ['독자 장비개발\n또는 지분투자','현재 특허만으로\n필요성·수익성 확정 불가','협력·구매보다 추가로 얻는 통제권\n개발·투자비와 공급 의존도 비교']],[.24,.34,.42],18)
 save(f,'06_기술확보_결과팀인계','근거: KIPRIS 공동등록 / 삼성물산 Newsroom 2025.09.11 / GRC 공식 사업협약 2025.06.03. 표는 분석에 따른 비교 대안.\nGRC 투자 주체인 삼성벤처투자와 삼성물산을 구별. 특허 수로 AHP 점수·최종 순위를 대신하지 않음.')
 
+S=json.loads((OUT/'scurve_fits.json').read_text())
+f=setup('Logistic·Gompertz S커브 적합')
+f.text(.94,.925,'참고용',ha='right',fontsize=19,color='#59677a')
+for i,(tech,label) in enumerate([('DLC','DLC'),('Immersion','액침')]):
+ ax=f.add_axes([.10+i*.46,.28,.35,.49]);style(ax);v=S['technologies'][tech]
+ ax.scatter([r['year'] for r in v['observed']],[r['cumulative'] for r in v['observed']],s=27,color='#24344a',label='관측 누적',zorder=4)
+ for name,col in [('Logistic',BLUE),('Gompertz',TEAL)]:
+  m=v['models'][name];p=m['parameters'];x=np.linspace(2000,2025,250);t=x-2000
+  y=p[0]/(1+np.exp(-p[1]*(t-p[2]))) if name=='Logistic' else p[0]*np.exp(-p[1]*np.exp(-p[2]*t))
+  mask=x<=2021;ax.plot(x[mask],y[mask],color=col,lw=2.5,label=f"{name} (R²={m['r2']:.3f})")
+  ax.plot(x[~mask],y[~mask],color=col,lw=2,ls='--')
+ ax.axvline(2021,color='#9aa6b5',lw=1);ax.set_xlim(2000,2025);ax.set_ylim(0,v['observed_2021']*1.85)
+ ax.set_xticks([2000,2005,2010,2015,2021,2025]);ax.set_xlabel('최우선연도');ax.set_ylabel('현재 등록 패밀리의 누적 수')
+ ax.set_title(label,fontsize=23,fontweight='bold',pad=16);ax.legend(frameon=False,loc='upper left',fontsize=12)
+f.text(.09,.15,'실선: 2000–2021 적합  ·  점선: 모형 외삽 예시  ·  단계 판정·전략 점수에는 미반영',fontsize=18)
+save(f,'07_S커브_참조분석','출처: 팀원1 원래 등록 표본(DLC 354·액침 157), 최우선 2000–2021 적합. 기존 R²·누적 수와 재현 일치.\n포화수준 미식별·종료연도 민감성으로 참고용만 사용. 점선은 수요 전망이 아니며 이후 관측치와 비교한 예측 결과도 아님.')
+
 f=setup('S커브 검증: 높은 적합도만으로 성장단계를 확정할 수 없다')
 for i,(t,lab) in enumerate([('DLC','DLC'),('Immersion','액침')]):
  ax=f.add_axes([.10+i*.46,.28,.35,.49]);style(ax)

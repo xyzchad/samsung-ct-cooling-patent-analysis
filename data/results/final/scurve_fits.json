@@ -1,0 +1,242 @@
+{
+  "fit_period": [
+    2000,
+    2021
+  ],
+  "baseline": "original granted families, grouped by earliest priority year",
+  "interpretation": "참고용 적합 곡선. 포화수준·성숙도·시장수요 예측에 사용하지 않음. 점선은 모형 외삽 예시.",
+  "technologies": {
+    "DLC": {
+      "baseline_total": 354,
+      "observed_2021": 289,
+      "observed": [
+        {
+          "year": 2000,
+          "cumulative": 0
+        },
+        {
+          "year": 2001,
+          "cumulative": 0
+        },
+        {
+          "year": 2002,
+          "cumulative": 4
+        },
+        {
+          "year": 2003,
+          "cumulative": 9
+        },
+        {
+          "year": 2004,
+          "cumulative": 14
+        },
+        {
+          "year": 2005,
+          "cumulative": 16
+        },
+        {
+          "year": 2006,
+          "cumulative": 20
+        },
+        {
+          "year": 2007,
+          "cumulative": 25
+        },
+        {
+          "year": 2008,
+          "cumulative": 38
+        },
+        {
+          "year": 2009,
+          "cumulative": 49
+        },
+        {
+          "year": 2010,
+          "cumulative": 60
+        },
+        {
+          "year": 2011,
+          "cumulative": 76
+        },
+        {
+          "year": 2012,
+          "cumulative": 88
+        },
+        {
+          "year": 2013,
+          "cumulative": 91
+        },
+        {
+          "year": 2014,
+          "cumulative": 95
+        },
+        {
+          "year": 2015,
+          "cumulative": 124
+        },
+        {
+          "year": 2016,
+          "cumulative": 132
+        },
+        {
+          "year": 2017,
+          "cumulative": 148
+        },
+        {
+          "year": 2018,
+          "cumulative": 172
+        },
+        {
+          "year": 2019,
+          "cumulative": 190
+        },
+        {
+          "year": 2020,
+          "cumulative": 226
+        },
+        {
+          "year": 2021,
+          "cumulative": 289
+        }
+      ],
+      "models": {
+        "Logistic": {
+          "parameters": [
+            1633.327106365895,
+            0.16363862332490114,
+            30.84635657064512
+          ],
+          "r2": 0.9846786377208129,
+          "L_relative_SE": 1.3022381832691412,
+          "L_at_upper_bound": false
+        },
+        "Gompertz": {
+          "parameters": [
+            28899.999999991483,
+            8.293243738347378,
+            0.027221269546338113
+          ],
+          "r2": 0.9864029179281857,
+          "L_relative_SE": 3.0355918556300945,
+          "L_at_upper_bound": true
+        }
+      }
+    },
+    "Immersion": {
+      "baseline_total": 157,
+      "observed_2021": 120,
+      "observed": [
+        {
+          "year": 2000,
+          "cumulative": 0
+        },
+        {
+          "year": 2001,
+          "cumulative": 0
+        },
+        {
+          "year": 2002,
+          "cumulative": 0
+        },
+        {
+          "year": 2003,
+          "cumulative": 0
+        },
+        {
+          "year": 2004,
+          "cumulative": 0
+        },
+        {
+          "year": 2005,
+          "cumulative": 0
+        },
+        {
+          "year": 2006,
+          "cumulative": 0
+        },
+        {
+          "year": 2007,
+          "cumulative": 0
+        },
+        {
+          "year": 2008,
+          "cumulative": 14
+        },
+        {
+          "year": 2009,
+          "cumulative": 15
+        },
+        {
+          "year": 2010,
+          "cumulative": 22
+        },
+        {
+          "year": 2011,
+          "cumulative": 22
+        },
+        {
+          "year": 2012,
+          "cumulative": 28
+        },
+        {
+          "year": 2013,
+          "cumulative": 33
+        },
+        {
+          "year": 2014,
+          "cumulative": 37
+        },
+        {
+          "year": 2015,
+          "cumulative": 41
+        },
+        {
+          "year": 2016,
+          "cumulative": 43
+        },
+        {
+          "year": 2017,
+          "cumulative": 48
+        },
+        {
+          "year": 2018,
+          "cumulative": 51
+        },
+        {
+          "year": 2019,
+          "cumulative": 61
+        },
+        {
+          "year": 2020,
+          "cumulative": 78
+        },
+        {
+          "year": 2021,
+          "cumulative": 120
+        }
+      ],
+      "models": {
+        "Logistic": {
+          "parameters": [
+            11999.999992914958,
+            0.17965090287525862,
+            47.36906247836123
+          ],
+          "r2": 0.9451404242262309,
+          "L_relative_SE": 57.3196433523219,
+          "L_at_upper_bound": true
+        },
+        "Gompertz": {
+          "parameters": [
+            11999.999999995816,
+            9.189722761489696,
+            0.03107107718059992
+          ],
+          "r2": 0.9415475122766312,
+          "L_relative_SE": 6.730599111004313,
+          "L_at_upper_bound": true
+        }
+      }
+    }
+  }
+}
