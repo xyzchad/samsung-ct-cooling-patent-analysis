@@ -1,0 +1,4 @@
+﻿group,exact_codes,prefix_codes,source,note
+유체 순환·연결 부속,H05K7/20272;H05K7/20327,F04;F16L,https://www.cooperativepatentclassification.org/cpc/scheme/H/scheme-H05K.pdf; https://www.cooperativepatentclassification.org/cpc/scheme/G/scheme-G06F.pdf,최소한의 기능별 비교용 분류. 전체 기술체계의 완전한 분할이 아님; 중복 가능.
+열·유량 제어,H05K7/20281;H05K7/20381;H05K7/207;H05K7/20836;G06F1/206,G05B;G05D,https://www.cooperativepatentclassification.org/cpc/scheme/H/scheme-H05K.pdf; https://www.cooperativepatentclassification.org/cpc/scheme/G/scheme-G06F.pdf,최소한의 기능별 비교용 분류. 전체 기술체계의 완전한 분할이 아님; 중복 가능.
+건물·공조 분류,,E04B;E04F;E04H;F24F,https://www.cooperativepatentclassification.org/cpc/scheme/H/scheme-H05K.pdf; https://www.cooperativepatentclassification.org/cpc/scheme/G/scheme-G06F.pdf,최소한의 기능별 비교용 분류. 전체 기술체계의 완전한 분할이 아님; 중복 가능.

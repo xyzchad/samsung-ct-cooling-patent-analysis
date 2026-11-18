@@ -1,0 +1,160 @@
+{
+  "patent": "US11129292B1",
+  "source_url": "https://patents.google.com/patent/US11129292B1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "c59e8d8b8be3cbac1f577bac0078001c436c651a47ed5bd63dec12c92771cc0a",
+  "title": [
+    "Connector interface for liquid-cooled IT servers \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Baidu USA LLC",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "SQ Technology (Shanghai) Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Liquidcool Solutions, Inc.",
+    "Globalfoundries Inc.",
+    "International Business Machines Corporation",
+    "Toyota Motor Engineering & Manufacturing North America, Inc.",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Johnson Controls Technology Company",
+    "Lenovo Enterprise Solutions (Singapore) Pte. Ltd.",
+    "Liquidcool Solutions, Inc.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Dell Products, L.P.",
+    "Coolit Systems, Inc.",
+    "Baidu.com Times Technology (Beijing) Co., Ltd.",
+    "Baidu Usa Llc",
+    "史陶比尔法万举",
+    "Liquidcool Solutions, Inc.",
+    "International Business Machines Corporation",
+    "Globalfoundries Inc.",
+    "International Business Machines Corporation",
+    "Johnson Controls Technology Company",
+    "Toyota Motor Engineering & Manufacturing North America, Inc.",
+    "Lenovo Enterprise Solutions (Singapore) Pte. Ltd.",
+    "International Business Machines Corporation",
+    "Dell Products, L.P.",
+    "Liquidcool Solutions, Inc.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "SQ Technology (Shanghai) Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "SQ Technology (Shanghai) Corporation"
+  ],
+  "current_assignee_display": [
+    "Baidu USA LLC"
+  ],
+  "abstract": "Abstract Embodiments are disclosed of a fluid connector including a connector body having at least a first exterior surface and a second exterior surface. A male interface projects longitudinally from the first exterior surface and includes a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member. A female interface longitudinally adjacent to the male interface is recessed into the first exterior surface. The female interface includes a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member. A plurality of fluid distribution ports are positioned on the second surface, each being fluidly coupled to the male interface, the female interface, or both.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. A fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet."
+    },
+    {
+      "number": 2,
+      "text": "2. The fluid connector of claim 1 wherein both the first elastic member and the second elastic member are springs."
+    },
+    {
+      "number": 3,
+      "text": "3. The fluid connector of claim 1 wherein both the male internal chamber and the female internal chamber are sealed to prevent entry of fluid flowing through the fluid connector."
+    },
+    {
+      "number": 4,
+      "text": "4. The fluid connector of claim 1 wherein the plurality of fluid distribution ports is fluidly coupled to the male interface and the female interface by a chamber in the connector body, so that the fluid connector acts like a manifold."
+    },
+    {
+      "number": 5,
+      "text": "5. The fluid connector of claim 1 wherein the male internal chamber is partially bounded by a flexible diaphragm that extends between the pair of laterally-moving fluid gates."
+    },
+    {
+      "number": 6,
+      "text": "6. The fluid connector of claim 1 wherein the first elastic member biases the pair of laterally-moving fluid gates toward their closed positions."
+    },
+    {
+      "number": 7,
+      "text": "7. The fluid connector of claim 6 wherein the second elastic member biases the longitudinally-moving gate toward its closed position."
+    },
+    {
+      "number": 8,
+      "text": "8. The fluid connector of claim 1, further comprising a cushion pad positioned on the first exterior surface at least partially surrounding the male interface and the female interface."
+    },
+    {
+      "number": 9,
+      "text": "9. The fluid connector of claim 1, further comprising a sealed cap coupled to one or more of the plurality of fluid distribution ports, wherein each sealed cap prevents flow through the fluid distribution port to which is it coupled."
+    },
+    {
+      "number": 10,
+      "text": "10. A system comprising: an electronics rack including a fluid circulation system, the fluid circulation system including at least one rack fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet."
+    },
+    {
+      "number": 11,
+      "text": "11. The system of claim 10 wherein the rack's fluid circulation system is fluidly coupled to a data center fluid circulation system."
+    },
+    {
+      "number": 12,
+      "text": "12. The system of claim 10, further comprising at least one piece of information technology (IT) equipment having liquid-cooled components thereon, the at least one piece of IT equipment and including at least one IT fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet; wherein the male interface of server coupling engages the female interface of rack coupling and the female interface of the server engages the male interface of the server coupling."
+    },
+    {
+      "number": 13,
+      "text": "13. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the first elastic member and the second elastic member are springs."
+    },
+    {
+      "number": 14,
+      "text": "14. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector both the male internal chamber and the female internal chamber are sealed to prevent entry of fluid flowing through the fluid connector."
+    },
+    {
+      "number": 15,
+      "text": "15. The system of claim 12 wherein in at least one of the rack fluid connector and the IT fluid connector the plurality of fluid distribution ports is fluidly coupled to the male interface and the female interface by one or more chambers in the connector body, so that the fluid connector acts like a manifold."
+    },
+    {
+      "number": 16,
+      "text": "16. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the male internal chamber is partially bounded by a flexible diaphragm that extends between the pair of laterally-moving fluid gates."
+    },
+    {
+      "number": 17,
+      "text": "17. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the first elastic member biases the pair of laterally-moving fluid gates toward their closed positions."
+    },
+    {
+      "number": 18,
+      "text": "18. The system of claim 17 wherein in both the rack fluid connector and the IT fluid connector the second elastic member biases the longitudinally-moving gate toward its closed position."
+    },
+    {
+      "number": 19,
+      "text": "19. The system of claim 12, further comprising: a sealed cap coupled to one or more of the plurality of fluid distribution ports of the rack fluid connector, a sealed cap coupled to one or more of the plurality of fluid distribution ports of the IT fluid connector, or sealed caps coupled to one or more of the plurality of fluid distribution ports of the rack fluid connector and coupled to one or more of the plurality of fluid distribution ports of the IT fluid connector, wherein each sealed cap prevents flow through the fluid distribution port to which is it coupled."
+    },
+    {
+      "number": 20,
+      "text": "20. The system of claim 10, further comprising a cushion pad positioned on the first exterior surface at least partially surrounding the male interface and the female interface."
+    }
+  ],
+  "claims_full_text": "Claims (20) What is claimed is: 1. A fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet. 2. The fluid connector of claim 1 wherein both the first elastic member and the second elastic member are springs. 3. The fluid connector of claim 1 wherein both the male internal chamber and the female internal chamber are sealed to prevent entry of fluid flowing through the fluid connector. 4. The fluid connector of claim 1 wherein the plurality of fluid distribution ports is fluidly coupled to the male interface and the female interface by a chamber in the connector body, so that the fluid connector acts like a manifold. 5. The fluid connector of claim 1 wherein the male internal chamber is partially bounded by a flexible diaphragm that extends between the pair of laterally-moving fluid gates. 6. The fluid connector of claim 1 wherein the first elastic member biases the pair of laterally-moving fluid gates toward their closed positions. 7. The fluid connector of claim 6 wherein the second elastic member biases the longitudinally-moving gate toward its closed position. 8. The fluid connector of claim 1, further comprising a cushion pad positioned on the first exterior surface at least partially surrounding the male interface and the female interface. 9. The fluid connector of claim 1, further comprising a sealed cap coupled to one or more of the plurality of fluid distribution ports, wherein each sealed cap prevents flow through the fluid distribution port to which is it coupled. 10. A system comprising: an electronics rack including a fluid circulation system, the fluid circulation system including at least one rack fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet. 11. The system of claim 10 wherein the rack's fluid circulation system is fluidly coupled to a data center fluid circulation system. 12. The system of claim 10, further comprising at least one piece of information technology (IT) equipment having liquid-cooled components thereon, the at least one piece of IT equipment and including at least one IT fluid connector comprising: a connector body having at least a first exterior surface and a second exterior surface; a male interface projecting longitudinally from the first exterior surface, the male interface including a male internal chamber bounded in part by a pair of spaced-apart laterally-moving fluid gates coupled to each other by a first elastic member; a female interface longitudinally adjacent to the male interface and recessed into the first exterior surface, the female interface including a female internal chamber bounded in part by a longitudinally-moving fluid gate, the longitudinally-moving fluid gate being biased into its closed position by a second elastic member; and a plurality of fluid distribution ports positioned on the second surface, each of the plurality of fluid distribution ports being fluidly coupled to the male interface, the female interface, or both, wherein the plurality of fluid distribution ports includes at least one fluid inlet or at least one fluid outlet; wherein the male interface of server coupling engages the female interface of rack coupling and the female interface of the server engages the male interface of the server coupling. 13. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the first elastic member and the second elastic member are springs. 14. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector both the male internal chamber and the female internal chamber are sealed to prevent entry of fluid flowing through the fluid connector. 15. The system of claim 12 wherein in at least one of the rack fluid connector and the IT fluid connector the plurality of fluid distribution ports is fluidly coupled to the male interface and the female interface by one or more chambers in the connector body, so that the fluid connector acts like a manifold. 16. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the male internal chamber is partially bounded by a flexible diaphragm that extends between the pair of laterally-moving fluid gates. 17. The system of claim 12 wherein in both the rack fluid connector and the IT fluid connector the first elastic member biases the pair of laterally-moving fluid gates toward their closed positions. 18. The system of claim 17 wherein in both the rack fluid connector and the IT fluid connector the second elastic member biases the longitudinally-moving gate toward its closed position. 19. The system of claim 12, further comprising: a sealed cap coupled to one or more of the plurality of fluid distribution ports of the rack fluid connector, a sealed cap coupled to one or more of the plurality of fluid distribution ports of the IT fluid connector, or sealed caps coupled to one or more of the plurality of fluid distribution ports of the rack fluid connector and coupled to one or more of the plurality of fluid distribution ports of the IT fluid connector, wherein each sealed cap prevents flow through the fluid distribution port to which is it coupled. 20. The system of claim 10, further comprising a cushion pad positioned on the first exterior surface at least partially surrounding the male interface and the female interface.",
+  "independent_candidates": [
+    1,
+    10
+  ],
+  "document_dates_metadata": [
+    "2020-06-17",
+    "2021-09-21"
+  ]
+}

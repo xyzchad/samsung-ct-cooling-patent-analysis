@@ -1,0 +1,218 @@
+{
+  "patent": "US11076508B2",
+  "source_url": "https://patents.google.com/patent/US11076508B2/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "2fd4f3ac944882c6e3aeca99896eae39579f54f84d5647209b8246d295193844",
+  "title": [
+    "Cooling systems for immersion cooled IT equipment \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Baidu USA LLC",
+    "Inventec (Pudong) Technology Corporation",
+    "Raytheon Company",
+    "Microsoft Technology Licensing, Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Delta Electronics, Inc.",
+    "Baidu Usa Llc",
+    "Liquidstack Holding B.V.",
+    "Baidu Usa Llc",
+    "TMGCore. INC.",
+    "Tmgcore, Inc.",
+    "Tmgcore, Inc.",
+    "Modine LLC",
+    "Modine LLC",
+    "Fang-Shou LEE",
+    "The Research Foundation For The State University Of New York",
+    "Modine LLC",
+    "Asia Pacific CIS (Wuxi) Co. Ltd.",
+    "Nautilus True, Llc",
+    "Hamilton Sundstrand Corporation",
+    "Baidu Usa Llc",
+    "Microsoft Technology Licensing, Llc",
+    "西安交通大学",
+    "Baidu Usa Llc",
+    "三菱重工業株式会社",
+    "三菱重工業株式会社",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Super Micro Computer, Inc.",
+    "Baidu Usa Llc",
+    "財團法人工業技術研究院",
+    "北京无线电测量研究所",
+    "Intel Corporation",
+    "富联精密电子(天津)有限公司",
+    "Google Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Microsoft Technology Licensing, Llc",
+    "緯穎科技服務股份有限公司",
+    "Baidu Usa Llc",
+    "西安易朴通讯技术有限公司",
+    "Wieland-Werke Aktiengesellschaft",
+    "台达电子工业股份有限公司",
+    "Katrick Tech Limited",
+    "Ferveret Inc.",
+    "Wieland-Werke Aktiengesellschaft",
+    "华为数字能源技术有限公司",
+    "MTS IP Holdings Ltd",
+    "Wieland-Werke Aktiengesellschaft",
+    "MTS IP Holdings Ltd",
+    "Arctic Impulse Oy",
+    "緯創資通股份有限公司",
+    "Dimaag-Ai, Inc.",
+    "Dimaag-Ai, Inc.",
+    "Dimaag-Ai, Inc.",
+    "Dimaag-Ai, Inc.",
+    "家崎科技股份有限公司",
+    "Jemm's Labs",
+    "Gen Electric",
+    "General Electric Company",
+    "Mitsubishi Denki Kabushiki Kaisha",
+    "Reuter, Inc.",
+    "Fraser Douglas S",
+    "Raytheon Company",
+    "Industrial Technology Research Institute",
+    "Fuji Xerox Co., Ltd.",
+    "Bitfury Group Limited",
+    "Fujitsu Limited",
+    "Baidu.com Times Technology (Beijing) Co., Ltd.",
+    "Gen Electric",
+    "General Electric Company",
+    "Mitsubishi Denki Kabushiki Kaisha",
+    "Reuter, Inc.",
+    "Fraser Douglas S",
+    "Raytheon Company",
+    "Industrial Technology Research Institute",
+    "Fuji Xerox Co., Ltd.",
+    "Bitfury Group Limited",
+    "Fujitsu Limited",
+    "Tmgcore, Inc.",
+    "TMGCore. INC.",
+    "Modine LLC",
+    "Inventec (Pudong) Technology Corporation",
+    "Liquidstack Holding B.V.",
+    "Liquidstack Holding B.V.",
+    "Raytheon Company",
+    "Raytheon Company",
+    "Modine LLC",
+    "Modine LLC",
+    "Modine LLC",
+    "Microsoft Technology Licensing, Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Delta Electronics, Inc.",
+    "Delta Electronics, Inc.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Tmgcore, Inc.",
+    "Modine LLC",
+    "Modine LLC",
+    "The Research Foundation For The State University Of New York",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Asia Pacific CIS (Wuxi) Co. Ltd.",
+    "Fang-Shou LEE",
+    "Fang-Shou LEE"
+  ],
+  "current_assignee_display": [
+    "Baidu USA LLC"
+  ],
+  "abstract": "Abstract According to one embodiment, an information technology (IT) equipment cooling system includes an IT cooling module having one or more pieces of IT equipment that is configured to provide IT services and is at least partially submerged within a liquid coolant. While the equipment provides the services, heat is generated and transferred into the coolant thereby causing at least some of the coolant to turn into a vapor. The system also includes a condenser that is positioned above the module and is configured to condense the vapor back into liquid coolant. The system includes return and supply lines that are both coupled to the condenser and to the module to create a heat exchanging loop. The system includes an accumulator that is disposed on the supply line and is configured to accumulate the condensed liquid coolant before the coolant is provided to the module. The accumulator provides backup cooling capacity for the system. Also, a data center cooling system includes a cooling region and IT region for deploying a single loop immersion cooling system.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. An Information Technology (IT) equipment cooling system, comprising an IT cooling module comprising a coolant tank having one or more pieces of IT equipment that is configured to provide IT services and is at least partially submerged within a liquid coolant, wherein, while the IT equipment provides the IT services, the IT equipment generates heat that is transferred into the liquid coolant thereby causing at least some of the liquid coolant to turn into a vapor, and a tank lid on top of the coolant tank, the tank lid having a vapor region configured to collect the vapor, wherein the tank lid comprises a first portion that is fixedly coupled to the top of the coolant tank and a second portion that is removably coupled to the top of the coolant tank, wherein the tank lid is open when the second portion is removed from the top of the coolant tank; a condenser that is positioned above the IT cooling module and is configured to condense the vapor back into liquid coolant; a return line and a supply line that are both coupled to the condenser and to the first portion of the tank lid to create a heat exchanging loop, wherein the return line is configured to provide the vapor from the vapor region to the condenser; and a reservoir coupled to the supply line and is configured to receive and accumulate the condensed liquid coolant, and is configured to provide the accumulated coolant to the coolant tank, via the supply line, wherein the IT equipment is configured to continue providing IT services, the condenser is configured to continue condensing vapor back into liquid coolant, and the reservoir is configured to continue providing the accumulated coolant to the coolant tank while the tank lid is open."
+    },
+    {
+      "number": 2,
+      "text": "2. The IT equipment cooling system of claim 1, wherein the second portion is coupled to the first portion via a hinge."
+    },
+    {
+      "number": 3,
+      "text": "3. The IT equipment cooling system of claim 1, wherein the reservoir comprises an access point for adding additional coolant into the reservoir."
+    },
+    {
+      "number": 4,
+      "text": "4. The IT equipment cooling system of claim 1, further comprising a valve that is coupled to the supply line and is disposed between the reservoir and the IT cooling module; a liquid level sensor disposed within the coolant tank and is configured to produce a signal that indicates a coolant level of the liquid coolant within the coolant tank; and a controller that is configured to maintain a coolant level within the IT cooling module by controlling an opening ratio of the valve responsive to the signal produced by the liquid level sensor."
+    },
+    {
+      "number": 5,
+      "text": "5. The IT equipment cooling system of claim 4, wherein the valve is configured to have a first opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a first flow rate while the tank lid is closed, and the valve is configured to have a second opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a second flow rate faster than the first flow rate while the tank lid is open."
+    },
+    {
+      "number": 6,
+      "text": "6. The IT equipment cooling system of claim 1, wherein the condenser is tilted with respect to the IT cooling module, wherein the return line is coupled to the condenser at a first location and the supply line is coupled to the condenser at a second location that is lower than the first location."
+    },
+    {
+      "number": 7,
+      "text": "7. The IT equipment cooling system of claim 1, wherein the condenser is either an air-to-liquid heat exchanger or a liquid-to-liquid heat exchanger."
+    },
+    {
+      "number": 8,
+      "text": "8. The IT equipment cooling system of claim 1, wherein the IT cooling module comprises a supply connector and a return connector, wherein the supply and return connectors are configured to removably couple to the supply line and return line, respectively."
+    },
+    {
+      "number": 9,
+      "text": "9. A data center cooling system comprising: an information technology (IT) region; a cooling region that is positioned above the IT region; and at least one IT equipment cooling system, comprising an IT cooling module inside the IT region and comprising a coolant tank having one or more pieces of IT equipment that are configured to provide IT services and are at least partially submerged within a liquid coolant, wherein, while the IT equipment provide the IT services, the IT equipment generate heat that is transferred into the liquid coolant thereby causing at least some of the liquid coolant to turn into a vapor, and a tank lid on top of the coolant tank, the tank lid having a vapor region configured to collect the vapor, wherein the tank lid comprises a first portion that is fixedly coupled to the top of the coolant tank and a second portion that is removably coupled to the top of the coolant tank, wherein the tank lid is open when the second portion is removed from the top of the coolant tank, a condenser inside the cooling region, a return line and a supply line that are both coupled to the condenser, pass from the cooling region into the IT region, and are both coupled to the first portion of the tank lid to create a first heat exchanging loop, the return line is configured to provide the vapor from the vapor region to the condenser that is configured to condense the vapor back into liquid coolant, a reservoir that is in the IT region and is coupled to the supply line, the reservoir is configured to receive and accumulate the condensed liquid coolant, and is configured to provide the accumulated coolant to the coolant tank, via the supply line; and a cooling source that is coupled to condenser of each of the at least one IT equipment cooling system to create a second heat exchanging loop, wherein the IT equipment is configured to continue providing IT services, the condenser is configured to continue condensing vapor back into liquid coolant, and the reservoir is configured to continue providing the accumulated coolant to the coolant tank while the tank lid is open."
+    },
+    {
+      "number": 10,
+      "text": "10. The data center cooling system of claim 9, wherein the condenser is a liquid-to-liquid heat exchanger and the cooling source comprises a data center liquid cooling system/cooling liquid source, wherein the cooling region comprises a liquid distribution manifold that couples the condenser to the data center liquid cooling system/cooling liquid source in order to create the second heat exchanging loop for liquid-to-liquid heat exchange."
+    },
+    {
+      "number": 11,
+      "text": "11. The data center cooling system of claim 9, wherein the condenser is an air-to-liquid heat exchanger and the cooling source comprises an air cooling unit, wherein the cooling region comprises an air duct system that is configured to supply cooling air from the data center air cooling unit or external cooling air source into an inlet of the condenser and direct hot exhaust air from an outlet of the condenser to the air cooling unit or external cooling air source."
+    },
+    {
+      "number": 12,
+      "text": "12. The data center cooling system of claim 9, wherein the cooling region is separate from the IT region by a barrier, wherein the supply and return lines pass from the cooling region into the IT region through the barrier."
+    },
+    {
+      "number": 13,
+      "text": "13. The data center cooling system of claim 9, wherein the second portion is coupled to the first portion via a hinge."
+    },
+    {
+      "number": 14,
+      "text": "14. The data center cooling system of claim 9, wherein the first portion comprises a supply connector and a return connector, wherein the supply and return connectors are configured to removably couple to the supply line and return line, respectively."
+    },
+    {
+      "number": 15,
+      "text": "15. The data center cooling system of claim 9, wherein the at least one IT equipment cooling system further comprises a valve that is coupled to the supply line and is disposed between the reservoir and the IT cooling module; a liquid level sensor disposed within the coolant tank and is configured to produce a signal that indicates a coolant level of the liquid coolant within the coolant tank; and a controller that is configured to maintain a coolant level within the IT cooling module by controlling an opening ratio of the valve responsive to the signal produced by the liquid level sensor."
+    },
+    {
+      "number": 16,
+      "text": "16. The data center cooling system of claim 15, wherein the valve is configured to have a first opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a first flow rate while the tank lid is closed and the valve is configured to have a second opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a second flow rate faster than the first flow rate while the tank lid is open."
+    },
+    {
+      "number": 17,
+      "text": "17. An Information Technology (IT) cooling system module, comprising: a cooling portion that includes a liquid-to-liquid heat exchanger, a liquid distribution system, and cooling ports, wherein the liquid distribution system couples the heat exchanger to the cooling ports to create a first heat exchanging loop, and the cooling ports are configured to couple to a liquid cooling system in order to allow a first liquid coolant to circulate through the first heat exchanging loop; an IT portion that is configured to hold an IT cooling module that has one or more pieces of IT equipment that is configured to provide IT services and is at least partially submerged within a second liquid coolant, wherein, while the IT equipment provides the IT services, the IT equipment generates heat that is transferred into the second liquid coolant thereby causing at least some of the second liquid coolant to turn into a vapor; a return line and a supply line that are both coupled to the heat exchanger, pass from the cooling portion into the IT portion, and are both configured to removably couple to the IT cooling module to create a second heat exchanging loop, the return line is configured to provide the vapor to the heat exchanger that is configured to condense the vapor back into liquid coolant and the supply line is configured to provide the condensed liquid coolant to the IT cooling module; and an accumulator that is in the IT portion and is configured to accumulate the condensed liquid coolant before it is provided by the supply line to the IT cooling module."
+    },
+    {
+      "number": 18,
+      "text": "18. The IT cooling system module of claim 17, wherein the cooling portion is above and separate from the IT portion."
+    },
+    {
+      "number": 19,
+      "text": "19. The IT cooling system module of claim 18, wherein the IT cooling system module comprises a container within which the cooling portion and the IT portion are integrated."
+    }
+  ],
+  "claims_full_text": "Claims (19) What is claimed is: 1. An Information Technology (IT) equipment cooling system, comprising an IT cooling module comprising a coolant tank having one or more pieces of IT equipment that is configured to provide IT services and is at least partially submerged within a liquid coolant, wherein, while the IT equipment provides the IT services, the IT equipment generates heat that is transferred into the liquid coolant thereby causing at least some of the liquid coolant to turn into a vapor, and a tank lid on top of the coolant tank, the tank lid having a vapor region configured to collect the vapor, wherein the tank lid comprises a first portion that is fixedly coupled to the top of the coolant tank and a second portion that is removably coupled to the top of the coolant tank, wherein the tank lid is open when the second portion is removed from the top of the coolant tank; a condenser that is positioned above the IT cooling module and is configured to condense the vapor back into liquid coolant; a return line and a supply line that are both coupled to the condenser and to the first portion of the tank lid to create a heat exchanging loop, wherein the return line is configured to provide the vapor from the vapor region to the condenser; and a reservoir coupled to the supply line and is configured to receive and accumulate the condensed liquid coolant, and is configured to provide the accumulated coolant to the coolant tank, via the supply line, wherein the IT equipment is configured to continue providing IT services, the condenser is configured to continue condensing vapor back into liquid coolant, and the reservoir is configured to continue providing the accumulated coolant to the coolant tank while the tank lid is open. 2. The IT equipment cooling system of claim 1, wherein the second portion is coupled to the first portion via a hinge. 3. The IT equipment cooling system of claim 1, wherein the reservoir comprises an access point for adding additional coolant into the reservoir. 4. The IT equipment cooling system of claim 1, further comprising a valve that is coupled to the supply line and is disposed between the reservoir and the IT cooling module; a liquid level sensor disposed within the coolant tank and is configured to produce a signal that indicates a coolant level of the liquid coolant within the coolant tank; and a controller that is configured to maintain a coolant level within the IT cooling module by controlling an opening ratio of the valve responsive to the signal produced by the liquid level sensor. 5. The IT equipment cooling system of claim 4, wherein the valve is configured to have a first opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a first flow rate while the tank lid is closed, and the valve is configured to have a second opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a second flow rate faster than the first flow rate while the tank lid is open. 6. The IT equipment cooling system of claim 1, wherein the condenser is tilted with respect to the IT cooling module, wherein the return line is coupled to the condenser at a first location and the supply line is coupled to the condenser at a second location that is lower than the first location. 7. The IT equipment cooling system of claim 1, wherein the condenser is either an air-to-liquid heat exchanger or a liquid-to-liquid heat exchanger. 8. The IT equipment cooling system of claim 1, wherein the IT cooling module comprises a supply connector and a return connector, wherein the supply and return connectors are configured to removably couple to the supply line and return line, respectively. 9. A data center cooling system comprising: an information technology (IT) region; a cooling region that is positioned above the IT region; and at least one IT equipment cooling system, comprising an IT cooling module inside the IT region and comprising a coolant tank having one or more pieces of IT equipment that are configured to provide IT services and are at least partially submerged within a liquid coolant, wherein, while the IT equipment provide the IT services, the IT equipment generate heat that is transferred into the liquid coolant thereby causing at least some of the liquid coolant to turn into a vapor, and a tank lid on top of the coolant tank, the tank lid having a vapor region configured to collect the vapor, wherein the tank lid comprises a first portion that is fixedly coupled to the top of the coolant tank and a second portion that is removably coupled to the top of the coolant tank, wherein the tank lid is open when the second portion is removed from the top of the coolant tank, a condenser inside the cooling region, a return line and a supply line that are both coupled to the condenser, pass from the cooling region into the IT region, and are both coupled to the first portion of the tank lid to create a first heat exchanging loop, the return line is configured to provide the vapor from the vapor region to the condenser that is configured to condense the vapor back into liquid coolant, a reservoir that is in the IT region and is coupled to the supply line, the reservoir is configured to receive and accumulate the condensed liquid coolant, and is configured to provide the accumulated coolant to the coolant tank, via the supply line; and a cooling source that is coupled to condenser of each of the at least one IT equipment cooling system to create a second heat exchanging loop, wherein the IT equipment is configured to continue providing IT services, the condenser is configured to continue condensing vapor back into liquid coolant, and the reservoir is configured to continue providing the accumulated coolant to the coolant tank while the tank lid is open. 10. The data center cooling system of claim 9, wherein the condenser is a liquid-to-liquid heat exchanger and the cooling source comprises a data center liquid cooling system/cooling liquid source, wherein the cooling region comprises a liquid distribution manifold that couples the condenser to the data center liquid cooling system/cooling liquid source in order to create the second heat exchanging loop for liquid-to-liquid heat exchange. 11. The data center cooling system of claim 9, wherein the condenser is an air-to-liquid heat exchanger and the cooling source comprises an air cooling unit, wherein the cooling region comprises an air duct system that is configured to supply cooling air from the data center air cooling unit or external cooling air source into an inlet of the condenser and direct hot exhaust air from an outlet of the condenser to the air cooling unit or external cooling air source. 12. The data center cooling system of claim 9, wherein the cooling region is separate from the IT region by a barrier, wherein the supply and return lines pass from the cooling region into the IT region through the barrier. 13. The data center cooling system of claim 9, wherein the second portion is coupled to the first portion via a hinge. 14. The data center cooling system of claim 9, wherein the first portion comprises a supply connector and a return connector, wherein the supply and return connectors are configured to removably couple to the supply line and return line, respectively. 15. The data center cooling system of claim 9, wherein the at least one IT equipment cooling system further comprises a valve that is coupled to the supply line and is disposed between the reservoir and the IT cooling module; a liquid level sensor disposed within the coolant tank and is configured to produce a signal that indicates a coolant level of the liquid coolant within the coolant tank; and a controller that is configured to maintain a coolant level within the IT cooling module by controlling an opening ratio of the valve responsive to the signal produced by the liquid level sensor. 16. The data center cooling system of claim 15, wherein the valve is configured to have a first opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a first flow rate while the tank lid is closed and the valve is configured to have a second opening ratio that allows the accumulated coolant from the reservoir to flow into the coolant tank at a second flow rate faster than the first flow rate while the tank lid is open. 17. An Information Technology (IT) cooling system module, comprising: a cooling portion that includes a liquid-to-liquid heat exchanger, a liquid distribution system, and cooling ports, wherein the liquid distribution system couples the heat exchanger to the cooling ports to create a first heat exchanging loop, and the cooling ports are configured to couple to a liquid cooling system in order to allow a first liquid coolant to circulate through the first heat exchanging loop; an IT portion that is configured to hold an IT cooling module that has one or more pieces of IT equipment that is configured to provide IT services and is at least partially submerged within a second liquid coolant, wherein, while the IT equipment provides the IT services, the IT equipment generates heat that is transferred into the second liquid coolant thereby causing at least some of the second liquid coolant to turn into a vapor; a return line and a supply line that are both coupled to the heat exchanger, pass from the cooling portion into the IT portion, and are both configured to removably couple to the IT cooling module to create a second heat exchanging loop, the return line is configured to provide the vapor to the heat exchanger that is configured to condense the vapor back into liquid coolant and the supply line is configured to provide the condensed liquid coolant to the IT cooling module; and an accumulator that is in the IT portion and is configured to accumulate the condensed liquid coolant before it is provided by the supply line to the IT cooling module. 18. The IT cooling system module of claim 17, wherein the cooling portion is above and separate from the IT portion. 19. The IT cooling system module of claim 18, wherein the IT cooling system module comprises a container within which the cooling portion and the IT portion are integrated.",
+  "independent_candidates": [
+    1,
+    9,
+    17
+  ],
+  "document_dates_metadata": [
+    "2019-11-14",
+    "2021-07-27"
+  ]
+}

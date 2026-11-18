@@ -1,0 +1,50 @@
+[
+  {
+    "figure": "01_출원추이",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "02_출원인_HHI",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "03_CPC_기능변화",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "04_청구항_기능비교",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "05_자사기술_비교",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "06_기술확보_결과팀인계",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "A1_S커브_검증",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  },
+  {
+    "figure": "A2_청구항_20건_행렬",
+    "width": 2560,
+    "height": 1440,
+    "outside_canvas": []
+  }
+]

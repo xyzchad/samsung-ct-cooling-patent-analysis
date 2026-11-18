@@ -1,0 +1,13 @@
+﻿technology,model,year,observed,predicted,error
+DLC,Logistic,2019,190.0,174.6,-0.081
+DLC,Logistic,2020,226.0,184.3,-0.185
+DLC,Logistic,2021,289.0,192.4,-0.334
+DLC,Gompertz,2019,190.0,179.8,-0.054
+DLC,Gompertz,2020,226.0,194.1,-0.141
+DLC,Gompertz,2021,289.0,208.0,-0.28
+Immersion,Logistic,2019,61.0,49.3,-0.192
+Immersion,Logistic,2020,78.0,49.9,-0.36
+Immersion,Logistic,2021,120.0,50.3,-0.581
+Immersion,Gompertz,2019,61.0,51.1,-0.163
+Immersion,Gompertz,2020,78.0,52.5,-0.327
+Immersion,Gompertz,2021,120.0,53.6,-0.553

@@ -1,0 +1,126 @@
+{
+  "patent": "US11665863B2",
+  "source_url": "https://patents.google.com/patent/US11665863B2/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "f819d857383db9d48681a7d592f32b4843592f69b4f48bbbdc4b50b7b59d463b",
+  "title": [
+    "Liquid immersion cooled computing module \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Dell Products LP",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Kioan Cheon",
+    "Green Revolution Cooling, Inc.",
+    "International Business Machines Corporation",
+    "Liquidcool Solutions, Inc.",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Iceotope Limited",
+    "Iceotope Group Limited",
+    "Hewlett Packard Enterprise Development Lp",
+    "Cooll Systems, Inc.",
+    "Kioan Cheon",
+    "Green Revolution Cooling, Inc.",
+    "International Business Machines Corporation",
+    "Iceotope Limited",
+    "Iceotope Group Limited",
+    "Liquidcool Solutions, Inc.",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Hewlett Packard Enterprise Development Lp",
+    "Cooll Systems, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc.",
+    "Nubis Communications, Inc."
+  ],
+  "current_assignee_display": [
+    "Credit Suisse AG Cayman Islands Branch"
+  ],
+  "abstract": "Abstract A computing module apparatus for use in a rack-mountable tray, the computing module apparatus including: one or more walls defined between a top surface and a bottom surface, wherein the walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the computing components; and one or more mechanical interconnects for mechanical coupling the computing module with the rack-mountable tray.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. An information handling system, comprising: a rack-mountable tray, including: a thermal pad; a fluid circulation system circulating fluid proximate to the thermal pad; a computing module coupled to the rack-mountable tray, including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to the thermal pad of the rack-mountable tray, wherein the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein the thermal plate of the computing module is in thermal communication with the thermal pad of the rack-mountable tray to transfer the heat from the thermal plate of the computing module to the thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the thermal pad of the rack-mountable tray to transfer heat from the thermal pad of the rack-mountable tray to the additional fluid that is circulating proximate to the thermal pad."
+    },
+    {
+      "number": 2,
+      "text": "2. The information handling system of claim 1, wherein the immersion fluid is a dielectric fluid."
+    },
+    {
+      "number": 3,
+      "text": "3. The information handling system of claim 1, the computing module further comprising one or more power interconnects for power coupling with the rack-mountable tray."
+    },
+    {
+      "number": 4,
+      "text": "4. The information handling system of claim 1, the computing module further comprising one or more data interconnects for data coupling with the rack-mountable tray."
+    },
+    {
+      "number": 5,
+      "text": "5. The information handling system of claim 1, wherein the one or more computing components include one or more of memory, processors, and storage devices."
+    },
+    {
+      "number": 6,
+      "text": "6. An information handling system, comprising: a rack-mountable tray, including: a plurality of thermal pads; a fluid circulation system circulating fluid proximate to each thermal pad of the plurality of thermal pads; a plurality of computing modules each coupled to the rack-mountable tray, each computing module of the plurality of computing modules including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to a respective thermal pad of the plurality of thermal pads of the rack-mountable tray, wherein, for each computing module, the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein, for each computing module, the thermal plate of the computing module is in thermal communication with a respective thermal pad of the thermal pads of the rack-mountable tray to transfer heat from the thermal plate of the computing module to the respective thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the plurality of thermal pads of the rack-mountable tray to transfer heat from the plurality of thermal pads of the rack-mountable tray to the additional fluid that is circulating proximate to the plurality of thermal pads."
+    },
+    {
+      "number": 7,
+      "text": "7. The information handling system of claim 6, wherein the immersion fluid is a dielectric fluid."
+    },
+    {
+      "number": 8,
+      "text": "8. The information handling system of claim 6, each of the computing modules of the plurality of computing modules further comprising one or more power interconnects for power coupling with the rack-mountable tray."
+    },
+    {
+      "number": 9,
+      "text": "9. The information handling system of claim 6, each of the computing modules of the plurality of computing modules further comprising one or more data interconnects for data coupling with the rack-mountable tray."
+    },
+    {
+      "number": 10,
+      "text": "10. The information handling system of claim 6, wherein the one or more computing components include one or more of memory, processors, and storage devices."
+    },
+    {
+      "number": 11,
+      "text": "11. An information handling system, comprising: a rack-mountable tray, including: a thermal pad; a fluid circulation system circulating fluid proximate to the thermal pad; a computing module coupled to the rack-mountable tray, including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; one or more power interconnects for power coupling with the rack-mountable tray; one or more data interconnects for data coupling with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to the thermal pad of the rack-mountable tray, wherein the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein the thermal plate of the computing module is in thermal communication with the thermal pad of the rack-mountable tray to transfer the heat from the thermal plate of the computing module to the thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the thermal pad of the rack-mountable tray to transfer the heat from the thermal pad of the rack-mountable tray to the additional fluid that is circulating proximate to the thermal pad."
+    },
+    {
+      "number": 12,
+      "text": "12. The information handling system of claim 11, wherein the immersion fluid is a dielectric fluid."
+    },
+    {
+      "number": 13,
+      "text": "13. The information handling system of claim 11, wherein the one or more computing components include one or more of memory, processors, and storage devices."
+    }
+  ],
+  "claims_full_text": "Claims (13) What is claimed is: 1. An information handling system, comprising: a rack-mountable tray, including: a thermal pad; a fluid circulation system circulating fluid proximate to the thermal pad; a computing module coupled to the rack-mountable tray, including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to the thermal pad of the rack-mountable tray, wherein the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein the thermal plate of the computing module is in thermal communication with the thermal pad of the rack-mountable tray to transfer the heat from the thermal plate of the computing module to the thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the thermal pad of the rack-mountable tray to transfer heat from the thermal pad of the rack-mountable tray to the additional fluid that is circulating proximate to the thermal pad. 2. The information handling system of claim 1, wherein the immersion fluid is a dielectric fluid. 3. The information handling system of claim 1, the computing module further comprising one or more power interconnects for power coupling with the rack-mountable tray. 4. The information handling system of claim 1, the computing module further comprising one or more data interconnects for data coupling with the rack-mountable tray. 5. The information handling system of claim 1, wherein the one or more computing components include one or more of memory, processors, and storage devices. 6. An information handling system, comprising: a rack-mountable tray, including: a plurality of thermal pads; a fluid circulation system circulating fluid proximate to each thermal pad of the plurality of thermal pads; a plurality of computing modules each coupled to the rack-mountable tray, each computing module of the plurality of computing modules including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to a respective thermal pad of the plurality of thermal pads of the rack-mountable tray, wherein, for each computing module, the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein, for each computing module, the thermal plate of the computing module is in thermal communication with a respective thermal pad of the thermal pads of the rack-mountable tray to transfer heat from the thermal plate of the computing module to the respective thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the plurality of thermal pads of the rack-mountable tray to transfer heat from the plurality of thermal pads of the rack-mountable tray to the additional fluid that is circulating proximate to the plurality of thermal pads. 7. The information handling system of claim 6, wherein the immersion fluid is a dielectric fluid. 8. The information handling system of claim 6, each of the computing modules of the plurality of computing modules further comprising one or more power interconnects for power coupling with the rack-mountable tray. 9. The information handling system of claim 6, each of the computing modules of the plurality of computing modules further comprising one or more data interconnects for data coupling with the rack-mountable tray. 10. The information handling system of claim 6, wherein the one or more computing components include one or more of memory, processors, and storage devices. 11. An information handling system, comprising: a rack-mountable tray, including: a thermal pad; a fluid circulation system circulating fluid proximate to the thermal pad; a computing module coupled to the rack-mountable tray, including: one or more walls defined between a top surface and a bottom surface, wherein the one or more walls, the top surface, and the bottom surface define an interior volume of the computing module; one or more computing components positioned within the interior volume of the computing module; an immersion fluid contained within the interior volume of the computing module and surrounding the one or more computing components, the immersion fluid filling the interior volume of the computing module; one or more mechanical interconnects for mechanically coupling the computing module with the rack-mountable tray; one or more power interconnects for power coupling with the rack-mountable tray; one or more data interconnects for data coupling with the rack-mountable tray; a cold fluid intake and a warm fluid return each coupled with the fluid circulation system; and a thermal plate positioned on the bottom surface and in contact with the immersion fluid, the thermal plate positioned proximate to the thermal pad of the rack-mountable tray, wherein the fluid circulation system cycles the immersion fluid, via the cold fluid intake and the warm fluid return of the computing module, through the interior volume of the computing module such that the immersion fluid transfers heat from the one or more computing components to the thermal plate, wherein the thermal plate of the computing module is in thermal communication with the thermal pad of the rack-mountable tray to transfer the heat from the thermal plate of the computing module to the thermal pad of the rack-mountable tray, wherein the fluid circulation system circulates additional fluid proximate to the thermal pad of the rack-mountable tray to transfer the heat from the thermal pad of the rack-mountable tray to the additional fluid that is circulating proximate to the thermal pad. 12. The information handling system of claim 11, wherein the immersion fluid is a dielectric fluid. 13. The information handling system of claim 11, wherein the one or more computing components include one or more of memory, processors, and storage devices.",
+  "independent_candidates": [
+    1,
+    6,
+    11
+  ],
+  "document_dates_metadata": [
+    "2021-04-20",
+    "2023-05-30"
+  ]
+}

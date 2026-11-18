@@ -1,0 +1,175 @@
+{
+  "patent": "US11006547B2",
+  "source_url": "https://patents.google.com/patent/US11006547B2/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "b5a86bd1a0c8190543dc1d48df13e2feffd6f9c784962e96bf2abe1f1c3e6341",
+  "title": [
+    "Solution for precision cooling and fluid management optimization in immersion cooling \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Baidu USA LLC",
+    "Hewlett Packard Enterprise Development Lp",
+    "Cooler Master Co., Ltd.",
+    "3M Innovative Properties Company",
+    "Ivan KIRILLOV",
+    "DaVinci Computing",
+    "Ovh",
+    "Ovh",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Ovh",
+    "Ovh",
+    "Pegatron Corporation",
+    "The Research Foundation For The State University Of New York",
+    "Slicip, Inc.",
+    "Ovh",
+    "Intel Corporation",
+    "Stephane Gauthier",
+    "Microsoft Technology Licensing, Llc",
+    "富联精密电子(天津)有限公司",
+    "Microsoft Technology Licensing, Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Quanta Computer Inc.",
+    "Tyco Fire & Security Gmbh",
+    "Tyco Fire & Security Gmbh",
+    "Cgg Services Sas",
+    "L'ecuyer, Charles",
+    "Baidu Usa Llc",
+    "Quanta Computer Inc.",
+    "Fca Us Llc",
+    "Dow Silicones Corporation",
+    "Slicip, Inc.",
+    "Cgg Services Sas",
+    "Frontier Communications Holdings, Llc",
+    "Frontier Communications Holdings, Llc",
+    "Frontier Communications Holdings, Llc",
+    "Frontier Communications Holdings, Llc",
+    "Submergible Oil Systems, Inc.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Hewlett Packard Enterprise Development Lp",
+    "Exascaler Inc.",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "\"Scientific and Technical Center InnTech\" Limited",
+    "Elf Aquitaine",
+    "绿色革命冷却股份有限公司",
+    "International Business Machines Corporation",
+    "Baidu Usa Llc",
+    "Submergible Oil Systems, Inc.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Hewlett Packard Enterprise Development Lp",
+    "Exascaler Inc.",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "\"Scientific and Technical Center InnTech\" Limited",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Hewlett Packard Enterprise Development Lp",
+    "Hewlett Packard Enterprise Development Lp",
+    "3M Innovative Properties Company",
+    "3M Innovative Properties Company",
+    "Ivan KIRILLOV",
+    "Cooler Master Co., Ltd.",
+    "Cooler Master Co., Ltd.",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Davinci 3.0 Incorporated",
+    "DaVinci Computing",
+    "The Research Foundation For The State University Of New York",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Slicip, Inc.",
+    "Pegatron Corporation"
+  ],
+  "current_assignee_display": [
+    "Baidu USA LLC"
+  ],
+  "abstract": "Abstract A data center immersion cooling system is described. The system comprises: an immersion tank; a heat exchanger to extract heat from heated coolant and transform heated coolant into cooled coolant; a coolant supply line to supply the cooled coolant from the heat exchanger to the immersion tank; and a coolant return line to return the heated coolant from the immersion tank to the heat exchanger, wherein the immersion tank further comprises: a plurality of equipment compartments that accommodate electronic devices; and a heated coolant reservoir disposed around the plurality of equipment compartments, wherein the cooled coolant enters the equipment compartments from the bottom, wherein the heated coolant in the equipment compartments exits the equipment compartments at the top, and is collected into the heated coolant reservoir, and wherein the heated coolant in the heated coolant reservoir is returned to the heat exchanger via the coolant return line. The heated coolant reservoir also provides a buffering function to the systems which is needed in several operating scenarios.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. An immersion cooling unit, comprising: an immersion tank; a coolant supply line to supply cooled coolant from a heat exchanger to the immersion tank, wherein the heat exchanger is configured to extract heat from heated coolant and transform the heated coolant into the cooled coolant; and a coolant return line to return the heated coolant from the immersion tank to the heat exchanger, wherein the immersion tank includes: a plurality of equipment compartments to contain a plurality of electronic devices respectively, one or more separator walls to separate any neighboring equipment compartments of the plurality of equipment compartments to prevent the cooled coolant or the heated coolant from circulating between any neighboring equipment compartments, wherein the separator walls are higher than other walls that compose the plurality of equipment compartments, such that the heated coolant that has exited from any of the plurality of equipment compartments at the top is prevented from entering an adjacent equipment compartment, and a heated coolant reservoir disposed around the plurality of equipment compartments, wherein subsequent to being supplied to the immersion tank, the cooled coolant enters the equipment compartments from a bottom of the equipment compartments, extracts heat generated from the electronic devices, and is transformed into the heated coolant, wherein the heated coolant in the equipment compartments exits the equipment compartments at a top of the equipment compartments and enters into the heated coolant reservoir, wherein a liquid level in the heated coolant reservoir is below a height of the plurality of equipment compartments, such that the heated coolant in the heated coolant reservoir is prevented from circulating back into any of the plurality of equipment compartments, and wherein the heated coolant in the heated coolant reservoir is returned to the heat exchanger via the coolant return line."
+    },
+    {
+      "number": 2,
+      "text": "2. The immersion cooling unit of claim 1, wherein each of the plurality of equipment compartments are of a same height."
+    },
+    {
+      "number": 3,
+      "text": "3. The immersion cooling unit of claim 1, wherein each of the higher separator walls comprises an extender installed at the top of the equipment compartments."
+    },
+    {
+      "number": 4,
+      "text": "4. The immersion cooling unit of claim 1, wherein the cooled coolant is prevented from entering any of the plurality of equipment compartments that are unoccupied."
+    },
+    {
+      "number": 5,
+      "text": "5. The immersion cooling unit of claim 4, wherein a blocking panel is installed at the bottom of any of the plurality of equipment compartments that are unoccupied to prevent the cooled coolant from entering."
+    },
+    {
+      "number": 6,
+      "text": "6. The immersion cooling unit of claim 1, wherein the heat exchanger is a liquid-to-liquid heat exchanger or a liquid-to-air heat exchanger."
+    },
+    {
+      "number": 7,
+      "text": "7. The immersion cooling unit of claim 1, further comprising a liquid pump disposed on the coolant return line."
+    },
+    {
+      "number": 8,
+      "text": "8. A data center cooling system, comprising: a heat exchanger; and a plurality of immersion cooling units coupled to the heat exchanger, wherein each of the immersion cooling unit comprises an immersion tank; a coolant supply line to supply cooled coolant from the heat exchanger to the immersion tank, wherein the heat exchanger is configured to extract heat from heated coolant and transform the heated coolant into the cooled coolant; and a coolant return line to return the heated coolant from the immersion tank to the heat exchanger, wherein the immersion tank includes: a plurality of equipment compartments to contain a plurality of electronic devices respectively, one or more separator walls to separate any neighboring equipment compartments of the plurality of equipment compartments to prevent the cooled coolant or heated coolant from circulating between any neighboring equipment compartments, wherein the separator walls are higher than other walls that compose the plurality of equipment compartments, such that the heated coolant that has exited from any of the plurality of equipment compartments at the top is prevented from entering an adjacent equipment compartment, and a heated coolant reservoir disposed around the plurality of equipment compartments, wherein subsequent to being supplied to the immersion tank, the cooled coolant enters the equipment compartments from a bottom of the equipment compartments, extracts heat generated from the electronic devices, and is transformed into the heated coolant, wherein the heated coolant in the equipment compartments exits the equipment compartments at a top of the equipment compartments and enters into the heated coolant reservoir, wherein a liquid level in the heated coolant reservoir is below a height of the plurality of equipment compartments, such that the heated coolant in the heated coolant reservoir is prevented from circulating back into any of the plurality of equipment compartments, and wherein the heated coolant in the heated coolant reservoir is returned to the heat exchanger via the coolant return line."
+    },
+    {
+      "number": 9,
+      "text": "9. The data center cooling system of claim 8, wherein each of the plurality of equipment compartments are of a same height."
+    },
+    {
+      "number": 10,
+      "text": "10. The data center cooling system of claim 8, wherein each of the higher separator walls comprises an extender installed at the top of the equipment compartments."
+    },
+    {
+      "number": 11,
+      "text": "11. The data center cooling system of claim 8, wherein the cooled coolant is prevented from entering any of the plurality of equipment compartments that are unoccupied."
+    },
+    {
+      "number": 12,
+      "text": "12. The data center cooling system of claim 11, wherein a blocking panel is installed at the bottom of any of the plurality of equipment compartments that are unoccupied to prevent the cooled coolant from entering."
+    },
+    {
+      "number": 13,
+      "text": "13. The data center cooling system of claim 8, wherein the heat exchanger is a liquid-to-liquid heat exchanger or a liquid-to-air heat exchanger."
+    },
+    {
+      "number": 14,
+      "text": "14. The data center cooling system of claim 8, further comprising a liquid pump disposed on the coolant return line."
+    }
+  ],
+  "claims_full_text": "Claims (14) What is claimed is: 1. An immersion cooling unit, comprising: an immersion tank; a coolant supply line to supply cooled coolant from a heat exchanger to the immersion tank, wherein the heat exchanger is configured to extract heat from heated coolant and transform the heated coolant into the cooled coolant; and a coolant return line to return the heated coolant from the immersion tank to the heat exchanger, wherein the immersion tank includes: a plurality of equipment compartments to contain a plurality of electronic devices respectively, one or more separator walls to separate any neighboring equipment compartments of the plurality of equipment compartments to prevent the cooled coolant or the heated coolant from circulating between any neighboring equipment compartments, wherein the separator walls are higher than other walls that compose the plurality of equipment compartments, such that the heated coolant that has exited from any of the plurality of equipment compartments at the top is prevented from entering an adjacent equipment compartment, and a heated coolant reservoir disposed around the plurality of equipment compartments, wherein subsequent to being supplied to the immersion tank, the cooled coolant enters the equipment compartments from a bottom of the equipment compartments, extracts heat generated from the electronic devices, and is transformed into the heated coolant, wherein the heated coolant in the equipment compartments exits the equipment compartments at a top of the equipment compartments and enters into the heated coolant reservoir, wherein a liquid level in the heated coolant reservoir is below a height of the plurality of equipment compartments, such that the heated coolant in the heated coolant reservoir is prevented from circulating back into any of the plurality of equipment compartments, and wherein the heated coolant in the heated coolant reservoir is returned to the heat exchanger via the coolant return line. 2. The immersion cooling unit of claim 1, wherein each of the plurality of equipment compartments are of a same height. 3. The immersion cooling unit of claim 1, wherein each of the higher separator walls comprises an extender installed at the top of the equipment compartments. 4. The immersion cooling unit of claim 1, wherein the cooled coolant is prevented from entering any of the plurality of equipment compartments that are unoccupied. 5. The immersion cooling unit of claim 4, wherein a blocking panel is installed at the bottom of any of the plurality of equipment compartments that are unoccupied to prevent the cooled coolant from entering. 6. The immersion cooling unit of claim 1, wherein the heat exchanger is a liquid-to-liquid heat exchanger or a liquid-to-air heat exchanger. 7. The immersion cooling unit of claim 1, further comprising a liquid pump disposed on the coolant return line. 8. A data center cooling system, comprising: a heat exchanger; and a plurality of immersion cooling units coupled to the heat exchanger, wherein each of the immersion cooling unit comprises an immersion tank; a coolant supply line to supply cooled coolant from the heat exchanger to the immersion tank, wherein the heat exchanger is configured to extract heat from heated coolant and transform the heated coolant into the cooled coolant; and a coolant return line to return the heated coolant from the immersion tank to the heat exchanger, wherein the immersion tank includes: a plurality of equipment compartments to contain a plurality of electronic devices respectively, one or more separator walls to separate any neighboring equipment compartments of the plurality of equipment compartments to prevent the cooled coolant or heated coolant from circulating between any neighboring equipment compartments, wherein the separator walls are higher than other walls that compose the plurality of equipment compartments, such that the heated coolant that has exited from any of the plurality of equipment compartments at the top is prevented from entering an adjacent equipment compartment, and a heated coolant reservoir disposed around the plurality of equipment compartments, wherein subsequent to being supplied to the immersion tank, the cooled coolant enters the equipment compartments from a bottom of the equipment compartments, extracts heat generated from the electronic devices, and is transformed into the heated coolant, wherein the heated coolant in the equipment compartments exits the equipment compartments at a top of the equipment compartments and enters into the heated coolant reservoir, wherein a liquid level in the heated coolant reservoir is below a height of the plurality of equipment compartments, such that the heated coolant in the heated coolant reservoir is prevented from circulating back into any of the plurality of equipment compartments, and wherein the heated coolant in the heated coolant reservoir is returned to the heat exchanger via the coolant return line. 9. The data center cooling system of claim 8, wherein each of the plurality of equipment compartments are of a same height. 10. The data center cooling system of claim 8, wherein each of the higher separator walls comprises an extender installed at the top of the equipment compartments. 11. The data center cooling system of claim 8, wherein the cooled coolant is prevented from entering any of the plurality of equipment compartments that are unoccupied. 12. The data center cooling system of claim 11, wherein a blocking panel is installed at the bottom of any of the plurality of equipment compartments that are unoccupied to prevent the cooled coolant from entering. 13. The data center cooling system of claim 8, wherein the heat exchanger is a liquid-to-liquid heat exchanger or a liquid-to-air heat exchanger. 14. The data center cooling system of claim 8, further comprising a liquid pump disposed on the coolant return line.",
+  "independent_candidates": [
+    1,
+    8
+  ],
+  "document_dates_metadata": [
+    "2019-03-04",
+    "2021-05-11"
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "patent": "US10939581B1",
+  "source_url": "https://patents.google.com/patent/US10939581B1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "8d8ea2853f929e589222932b505f68c27d3bb2a8dc4aa9591101abe2606517b4",
+  "title": [
+    "Immersion liquid cooling rack \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Quanta Computer Inc",
+    "Ovh",
+    "Ovh公司",
+    "Wiwynn Corporation",
+    "华南理工大学",
+    "Quanta Computer Inc.",
+    "Valeo Systemes Thermiques",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "Baidu Usa Llc",
+    "Google Llc",
+    "Shenzhen Fulian Fugui Precision Industry Co., Ltd.",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Ovh",
+    "超聚变数字技术有限公司",
+    "Green Revolution Cooling, Inc.",
+    "Ovh",
+    "Firmus Metal Technologies Singapore Pte Ltd",
+    "Green Revolution Cooling, Inc.",
+    "Ovh",
+    "Ovh",
+    "Green Revolution Cooling, Inc.",
+    "Green Revolution Cooling, Inc.",
+    "Green Revolution Cooling, Inc.",
+    "Rhodium Technologies LLC",
+    "Ovh",
+    "Green Revolution Cooling, Inc.",
+    "Green Revolution Cooling, Inc",
+    "James E Barrow",
+    "F Schneller",
+    "Sperry Corporation",
+    "Hiwin Mikrosystem Corp.",
+    "International Business Machines Corporation",
+    "Skender David J",
+    "Gary Strauss",
+    "Ion Manda",
+    "Sportin Wood Inc.",
+    "Aic Inc.",
+    "Fujitsu Limited",
+    "John L. Finch, Jr.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Heejun Park",
+    "Fujitsu Limited",
+    "Aecorsis B.V.",
+    "Jan Chabot",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Hongfujin Precision Electronics (Tianjin) Co.,Ltd.",
+    "Microsoft Technology Licensing, Llc",
+    "鸿富锦精密工业（深圳）有限公司",
+    "Dell Products, L.P.",
+    "Micro Star Int Co Ltd",
+    "杭州华丰巨箭工具有限公司",
+    "Intel Corporation",
+    "3M创新有限公司",
+    "富士通株式会社",
+    "西南电子技术研究所（中国电子科技集团公司第十研究所）",
+    "深圳绿色云图科技有限公司",
+    "James E Barrow",
+    "F Schneller",
+    "Sperry Corporation",
+    "Hiwin Mikrosystem Corp.",
+    "International Business Machines Corporation",
+    "Skender David J",
+    "Ion Manda",
+    "Gary Strauss",
+    "Sportin Wood Inc.",
+    "Aic Inc.",
+    "Hewlett Packard Enterprise Development Lp",
+    "Aecorsis B.V.",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Heejun Park",
+    "John L. Finch, Jr.",
+    "Jan Chabot",
+    "Dell Products L.P.",
+    "Hongfujin Precision Electronics (Tianjin) Co.,Ltd.",
+    "Baidu Usa Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Green Revolution Cooling, Inc.",
+    "Valeo Systemes Thermiques",
+    "Green Revolution Cooling, Inc.",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh公司",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Ovh",
+    "Wiwynn Corporation",
+    "Wiwynn Corporation",
+    "Quanta Computer Inc.",
+    "Quanta Computer Inc.",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "Green Revolution Cooling, Inc.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Google Llc",
+    "Google Llc",
+    "Shenzhen Fulian Fugui Precision Industry Co., Ltd.",
+    "Shenzhen Fulian Fugui Precision Industry Co., Ltd.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Dell Products L.P.",
+    "Rhodium Technologies LLC",
+    "华南理工大学",
+    "Green Revolution Cooling, Inc.",
+    "Green Revolution Cooling, Inc.",
+    "Firmus Metal Technologies Singapore Pte Ltd",
+    "Green Revolution Cooling, Inc.",
+    "超聚变数字技术有限公司",
+    "Green Revolution Cooling, Inc"
+  ],
+  "current_assignee_display": [
+    "Quanta Computer Inc"
+  ],
+  "abstract": "Abstract An immersion liquid cooling tank rack for heat-generating components includes immersion liquid cooling tanks for containing a coolant liquid. Horizontal extendable slide rails are mounted on opposing side faces of each tank and on opposing side walls of the rack. The horizontal extendable slide rails are movable between a closed position and an extended open position to allow the tanks to slide horizontally in and out of the rack. Support structures are mounted to the base of each of the immersion liquid cooling tanks. Each support structure includes a wheel assembly disposed at the base of the support structure. The support structures extend from the base of the tank to a floor surface supporting the rack. The horizontal extendable slide rails and the support structures substantially support an operational immersion liquid cooling tank during a horizontal translation of the tank between the closed position and the extended open position.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. An immersion liquid cooling tank rack for heat-generating components, comprising: a plurality of immersion liquid cooling tanks each having a base and side faces for containing a coolant liquid; horizontal extendable slide rails mounted on opposing side faces of each immersion liquid cooling tank and on opposing side walls of the rack, the horizontal extendable slide rails movable between a closed position and an extended open position to allow the immersion liquid cooling tanks to slide horizontally in and out of the rack; and a plurality of support structures mounted to the base of each of the plurality of immersion liquid cooling tanks, each support structure including a wheel assembly disposed at the base of the support structure, the support structures extending from the base of the immersion liquid cooling tank to a floor surface supporting the rack, such that the horizontal extendable slide rails and the support structures with wheel assemblies substantially support an operational immersion liquid cooling tank during a horizontal translation of the tank between the closed position and the extended open position."
+    },
+    {
+      "number": 2,
+      "text": "2. The immersion liquid cooling tank rack of claim 1, wherein the immersion liquid cooling tanks are vertically aligned in a column such that one tank is disposed on top of another tank."
+    },
+    {
+      "number": 3,
+      "text": "3. The immersion liquid cooling tank rack of claim 1, wherein the plurality of immersion liquid cooling tanks includes three or more immersion liquid cooling tanks."
+    },
+    {
+      "number": 4,
+      "text": "4. The immersion liquid cooling tank rack of claim 1, wherein the operational liquid cooling tank includes coolant liquid and a plurality of heat generating components disposed in the tank."
+    },
+    {
+      "number": 5,
+      "text": "5. The immersion liquid cooling tank rack of claim 1, wherein the plurality of immersion liquid cooling tanks each have an open top that is inaccessible when the tank is in the closed position and accessible when the tank is the extended open position."
+    },
+    {
+      "number": 6,
+      "text": "6. The immersion liquid cooling tank rack of claim 5, wherein heat-generating components are installed and removed from the open top when the immersion liquid cooling tanks are in the extended open position."
+    },
+    {
+      "number": 7,
+      "text": "7. The immersion liquid cooling tank rack of claim 1, wherein the plurality of support structures includes two elongated struts extending downwardly from the base near the front side wall corners of each immersion liquid cooling tank."
+    },
+    {
+      "number": 8,
+      "text": "8. The immersion liquid cooling tank rack of claim 1, wherein a front facing surface of the support structures is substantially flush with the front walls of the plurality of immersion liquid cooling tanks when all the immersion liquid cooling tanks are in the closed position."
+    },
+    {
+      "number": 9,
+      "text": "9. The immersion liquid cooling tank rack of claim 1, wherein the support structures for the immersion liquid cooling tanks counter eccentric loads on the immersion liquid cooling tank rack when one or more of the immersion liquid cooling tanks are in the extended open position."
+    },
+    {
+      "number": 10,
+      "text": "10. The immersion liquid cooling tank rack of claim 1, wherein the wheel assembly includes caster wheels."
+    },
+    {
+      "number": 11,
+      "text": "11. The immersion liquid cooling tank rack of claim 1, wherein the wheel assembly includes a roller."
+    },
+    {
+      "number": 12,
+      "text": "12. The immersion liquid cooling tank rack of claim 1, wherein each side face of the plurality of immersion liquid cooling tanks has at least two horizontal extendable slide rails."
+    },
+    {
+      "number": 13,
+      "text": "13. The immersion liquid cooling tank rack of claim 1, wherein the heat-generating components include one or more of a storage server, application server, or switch device."
+    },
+    {
+      "number": 14,
+      "text": "14. A method for making an immersion liquid cooling tank rack for storing heat-generating components, the method comprising: providing a plurality of immersion liquid cooling tanks, each tank defining an interior containment space for holding coolant liquid and heat-generating components; installing extendable slide rails on opposing side faces of each immersion liquid cooling tank and on opposing side walls of the rack, the extendable slide rails movable between a closed position and an extended open position to allow the immersion liquid cooling tanks to slide in and out of the rack; and mounting a plurality of support structures to the base of each of the plurality of immersion liquid cooling tanks, each support structure including a wheel assembly disposed at the base of the support structure, the support structures extending from the base of the immersion liquid cooling tank to a floor surface supporting the rack wherein the horizontal extendable slide rails and the support structures with wheel assemblies substantially support an operational immersion liquid cooling tank during a horizontal translation of the tank between the closed position and the extended open position."
+    },
+    {
+      "number": 15,
+      "text": "15. The method of claim 14, further comprising vertically aligning the immersion liquid cooling tanks in a column such that one tank is disposed on top of another tank."
+    },
+    {
+      "number": 16,
+      "text": "16. The method of claim 14, wherein the plurality of immersion liquid cooling tanks includes three or more immersion liquid cooling tanks."
+    },
+    {
+      "number": 17,
+      "text": "17. The method of claim 14, wherein the plurality of immersion liquid cooling tanks each have an open top that is inaccessible when the tank is in the closed position and accessible when the tank is the extended open position, and wherein heat-generating components are installed and removed from the open top when the immersion liquid cooling tanks are in the extended open position."
+    },
+    {
+      "number": 18,
+      "text": "18. The method of claim 14, wherein a front facing surface of the support structures is substantially flush with the front walls of the plurality of immersion liquid cooling tanks when all the immersion liquid cooling tanks are in the closed position."
+    },
+    {
+      "number": 19,
+      "text": "19. The method of claim 14, wherein the support structures for the immersion liquid cooling tanks counter eccentric loads on the immersion liquid cooling tank rack when one or more of the immersion liquid cooling tanks are in the extended open position."
+    },
+    {
+      "number": 20,
+      "text": "20. The method of claim 14, wherein each side face of the plurality of immersion liquid cooling tanks has at least two horizontal slide rails."
+    }
+  ],
+  "claims_full_text": "Claims (20) What is claimed is: 1. An immersion liquid cooling tank rack for heat-generating components, comprising: a plurality of immersion liquid cooling tanks each having a base and side faces for containing a coolant liquid; horizontal extendable slide rails mounted on opposing side faces of each immersion liquid cooling tank and on opposing side walls of the rack, the horizontal extendable slide rails movable between a closed position and an extended open position to allow the immersion liquid cooling tanks to slide horizontally in and out of the rack; and a plurality of support structures mounted to the base of each of the plurality of immersion liquid cooling tanks, each support structure including a wheel assembly disposed at the base of the support structure, the support structures extending from the base of the immersion liquid cooling tank to a floor surface supporting the rack, such that the horizontal extendable slide rails and the support structures with wheel assemblies substantially support an operational immersion liquid cooling tank during a horizontal translation of the tank between the closed position and the extended open position. 2. The immersion liquid cooling tank rack of claim 1, wherein the immersion liquid cooling tanks are vertically aligned in a column such that one tank is disposed on top of another tank. 3. The immersion liquid cooling tank rack of claim 1, wherein the plurality of immersion liquid cooling tanks includes three or more immersion liquid cooling tanks. 4. The immersion liquid cooling tank rack of claim 1, wherein the operational liquid cooling tank includes coolant liquid and a plurality of heat generating components disposed in the tank. 5. The immersion liquid cooling tank rack of claim 1, wherein the plurality of immersion liquid cooling tanks each have an open top that is inaccessible when the tank is in the closed position and accessible when the tank is the extended open position. 6. The immersion liquid cooling tank rack of claim 5, wherein heat-generating components are installed and removed from the open top when the immersion liquid cooling tanks are in the extended open position. 7. The immersion liquid cooling tank rack of claim 1, wherein the plurality of support structures includes two elongated struts extending downwardly from the base near the front side wall corners of each immersion liquid cooling tank. 8. The immersion liquid cooling tank rack of claim 1, wherein a front facing surface of the support structures is substantially flush with the front walls of the plurality of immersion liquid cooling tanks when all the immersion liquid cooling tanks are in the closed position. 9. The immersion liquid cooling tank rack of claim 1, wherein the support structures for the immersion liquid cooling tanks counter eccentric loads on the immersion liquid cooling tank rack when one or more of the immersion liquid cooling tanks are in the extended open position. 10. The immersion liquid cooling tank rack of claim 1, wherein the wheel assembly includes caster wheels. 11. The immersion liquid cooling tank rack of claim 1, wherein the wheel assembly includes a roller. 12. The immersion liquid cooling tank rack of claim 1, wherein each side face of the plurality of immersion liquid cooling tanks has at least two horizontal extendable slide rails. 13. The immersion liquid cooling tank rack of claim 1, wherein the heat-generating components include one or more of a storage server, application server, or switch device. 14. A method for making an immersion liquid cooling tank rack for storing heat-generating components, the method comprising: providing a plurality of immersion liquid cooling tanks, each tank defining an interior containment space for holding coolant liquid and heat-generating components; installing extendable slide rails on opposing side faces of each immersion liquid cooling tank and on opposing side walls of the rack, the extendable slide rails movable between a closed position and an extended open position to allow the immersion liquid cooling tanks to slide in and out of the rack; and mounting a plurality of support structures to the base of each of the plurality of immersion liquid cooling tanks, each support structure including a wheel assembly disposed at the base of the support structure, the support structures extending from the base of the immersion liquid cooling tank to a floor surface supporting the rack wherein the horizontal extendable slide rails and the support structures with wheel assemblies substantially support an operational immersion liquid cooling tank during a horizontal translation of the tank between the closed position and the extended open position. 15. The method of claim 14, further comprising vertically aligning the immersion liquid cooling tanks in a column such that one tank is disposed on top of another tank. 16. The method of claim 14, wherein the plurality of immersion liquid cooling tanks includes three or more immersion liquid cooling tanks. 17. The method of claim 14, wherein the plurality of immersion liquid cooling tanks each have an open top that is inaccessible when the tank is in the closed position and accessible when the tank is the extended open position, and wherein heat-generating components are installed and removed from the open top when the immersion liquid cooling tanks are in the extended open position. 18. The method of claim 14, wherein a front facing surface of the support structures is substantially flush with the front walls of the plurality of immersion liquid cooling tanks when all the immersion liquid cooling tanks are in the closed position. 19. The method of claim 14, wherein the support structures for the immersion liquid cooling tanks counter eccentric loads on the immersion liquid cooling tank rack when one or more of the immersion liquid cooling tanks are in the extended open position. 20. The method of claim 14, wherein each side face of the plurality of immersion liquid cooling tanks has at least two horizontal slide rails.",
+  "independent_candidates": [
+    1,
+    14
+  ],
+  "document_dates_metadata": [
+    "2020-04-24",
+    "2021-03-02"
+  ]
+}

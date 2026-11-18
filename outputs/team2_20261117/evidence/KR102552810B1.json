@@ -1,0 +1,113 @@
+{
+  "patent": "KR102552810B1",
+  "source_url": "https://patents.google.com/patent/KR102552810B1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "29b7dd8bfd3f5be842b8bb48d346f9ef2d81c9c4da84c7440ab21a5e617af7dd",
+  "title": [
+    "Immersion cooling apparatus \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "삼성물산 주식회사",
+    "주식회사 데이터빈",
+    "삼성물산 주식회사",
+    "주식회사 데이터빈",
+    "Hyperion",
+    "(주)글로벌스탠다드테크놀로지",
+    "富士通株式会社",
+    "정인규",
+    "株式会社Ｉｄｃフロンティア",
+    "株式会社ＥｘａＳｃａｌｅｒ",
+    "富士通株式会社",
+    "富士通株式会社",
+    "오브이에이치",
+    "삼성물산 주식회사",
+    "株式会社ＥｘａＳｃａｌｅｒ",
+    "富士通株式会社",
+    "富士通株式会社",
+    "정인규",
+    "株式会社Ｉｄｃフロンティア",
+    "富士通株式会社",
+    "오브이에이치",
+    "삼성물산 주식회사",
+    "Hyperion",
+    "Hyperion",
+    "Hyperion",
+    "주식회사 데이터빈",
+    "(주)글로벌스탠다드테크놀로지"
+  ],
+  "current_assignee_display": [],
+  "abstract": "Abstract Translated from Korean 본 발명은 침지 냉각 장치에 관한 것으로, 챔버와, 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈과, 챔버와 연결되고, 챔버의 내부로 냉각 유체를 공급하는 공급부 및 공급부와 이격되게 배치되고, 챔버로부터 냉각 유체를 배출시키는 배출부를 포함하는 것을 특징으로 한다.The present invention relates to an immersion cooling device, and relates to a chamber, a rack module installed inside the chamber and having a plurality of slots in which a plurality of objects to be cooled are individually mounted, connected to the chamber, and a cooling fluid into the chamber. It is characterized in that it comprises a supply unit for supplying and a discharge unit for discharging the cooling fluid from the chamber and disposed spaced apart from the supply unit.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부; 및상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀;을 포함하고,상기 공급홀부는 각각의 상기 슬롯의 일측과 마주보게 배치되는 복수개의 공급홀;을 포함하고,복수개의 상기 공급홀은 상기 제1배출홀과의 거리에 비례하여 직경이 증가하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; and A first discharge hole formed through one surface of the discharge passage portion and sucking the cooling fluid discharged from the other side of the slot; The supply hole portion includes a plurality of supply holes disposed facing one side of each of the slots, Immersion cooling device, characterized in that the diameter of the plurality of supply holes increases in proportion to the distance from the first discharge hole.",
+      "korean_original": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부; 및상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀;을 포함하고,상기 공급홀부는 각각의 상기 슬롯의 일측과 마주보게 배치되는 복수개의 공급홀;을 포함하고,복수개의 상기 공급홀은 상기 제1배출홀과의 거리에 비례하여 직경이 증가하는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 2,
+      "text": "삭제delete",
+      "korean_original": "삭제"
+    },
+    {
+      "number": 3,
+      "text": "제 1항에 있어서,상기 공급부는 상기 챔버의 하측에 배치되고, 상기 배출부는 상기 챔버의 상측에 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, The immersion cooling device according to claim 1 , wherein the supply part is disposed on the lower side of the chamber, and the discharge part is disposed on the upper side of the chamber.",
+      "korean_original": "제 1항에 있어서,상기 공급부는 상기 챔버의 하측에 배치되고, 상기 배출부는 상기 챔버의 상측에 배치되는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 4,
+      "text": "삭제delete",
+      "korean_original": "삭제"
+    },
+    {
+      "number": 5,
+      "text": "제 1항에 있어서,복수개의 상기 슬롯은 제1방향을 따라 상호 이격되게 배치되고, 상기 공급유로부와 상기 배출유로부는 상기 제1방향과 나란한 방향으로 연장되는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, The plurality of slots are spaced apart from each other along a first direction, and the supply passage part and the discharge passage part extend in a direction parallel to the first direction.",
+      "korean_original": "제 1항에 있어서,복수개의 상기 슬롯은 제1방향을 따라 상호 이격되게 배치되고, 상기 공급유로부와 상기 배출유로부는 상기 제1방향과 나란한 방향으로 연장되는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 6,
+      "text": "제 5항에 있어서, 상기 제1방향을 따라 상호 이격되게 배치된 복수개의 상기 슬롯은 상기 제1방향과 수직한 제2방향을 따라 적어도 2열 이상으로 배열되고,상기 공급유로부는 복수개로 구비되어 상기 제2방향을 따라 서로 다른 열에 배치된 복수개의 상기 슬롯의 일측과 마주보게 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 5, The plurality of slots disposed to be spaced apart from each other along the first direction are arranged in at least two rows along a second direction perpendicular to the first direction, Immersion cooling device, characterized in that the supply passage portion is provided in plurality and disposed to face one side of the plurality of slots disposed in different columns along the second direction.",
+      "korean_original": "제 5항에 있어서, 상기 제1방향을 따라 상호 이격되게 배치된 복수개의 상기 슬롯은 상기 제1방향과 수직한 제2방향을 따라 적어도 2열 이상으로 배열되고,상기 공급유로부는 복수개로 구비되어 상기 제2방향을 따라 서로 다른 열에 배치된 복수개의 상기 슬롯의 일측과 마주보게 배치되는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 7,
+      "text": "삭제delete",
+      "korean_original": "삭제"
+    },
+    {
+      "number": 8,
+      "text": "삭제delete",
+      "korean_original": "삭제"
+    },
+    {
+      "number": 9,
+      "text": "제 1항에 있어서,복수개의 상기 공급홀 중 상기 제1배출홀과의 거리가 제1설정거리보다 작은 상기 공급홀은 제1직경을 갖고, 상기 제1배출홀과의 거리가 상기 제1설정거리보다 큰 상기 공급홀은 제2직경을 갖는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, Among the plurality of supply holes, the supply hole having a distance from the first discharge hole smaller than the first set distance has a first diameter, and the supply hole has a distance from the first discharge hole greater than the first set distance. The immersion cooling device characterized in that it has a second diameter.",
+      "korean_original": "제 1항에 있어서,복수개의 상기 공급홀 중 상기 제1배출홀과의 거리가 제1설정거리보다 작은 상기 공급홀은 제1직경을 갖고, 상기 제1배출홀과의 거리가 상기 제1설정거리보다 큰 상기 공급홀은 제2직경을 갖는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 10,
+      "text": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 배출유로부의 타면을 관통하여 형성되고, 상기 배출유로부의 내부로 기포가 유입되는 것을 방지하는 제2배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; a first discharge hole formed through one surface of the discharge flow path portion and sucking the cooling fluid discharged from the other side of the slot; and The immersion cooling device comprising a; second discharge hole formed to penetrate the other surface of the discharge passage portion and prevent air bubbles from flowing into the discharge passage portion.",
+      "korean_original": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 배출유로부의 타면을 관통하여 형성되고, 상기 배출유로부의 내부로 기포가 유입되는 것을 방지하는 제2배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 11,
+      "text": "제 10항에 있어서,상기 제1배출홀은 상기 배출유로부의 측면을 관통하여 형성되고, 상기 제2배출홀은 상기 배출유로부의 하면을 관통하여 형성되는 것을 특징으로 하는 침지 냉각 장치. According to claim 10, The immersion cooling device, characterized in that the first discharge hole is formed through a side surface of the discharge passage portion, and the second discharge hole is formed through a lower surface of the discharge passage portion.",
+      "korean_original": "제 10항에 있어서,상기 제1배출홀은 상기 배출유로부의 측면을 관통하여 형성되고, 상기 제2배출홀은 상기 배출유로부의 하면을 관통하여 형성되는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 12,
+      "text": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 챔버의 내부에서 상기 냉각 유체가 정체되는 것을 방지하는 제3배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; a first discharge hole formed through one surface of the discharge flow path portion and sucking the cooling fluid discharged from the other side of the slot; and Immersion cooling device comprising a; third discharge hole for preventing the cooling fluid from being stagnant inside the chamber.",
+      "korean_original": "챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 챔버의 내부에서 상기 냉각 유체가 정체되는 것을 방지하는 제3배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치."
+    },
+    {
+      "number": 13,
+      "text": "제 12항에 있어서,상기 제1배출홀과 상기 제3배출홀은 상기 배출유로부의 양단부에 각각 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 12, Immersion cooling device, characterized in that the first discharge hole and the third discharge hole are respectively disposed at both ends of the discharge passage portion.",
+      "korean_original": "제 12항에 있어서,상기 제1배출홀과 상기 제3배출홀은 상기 배출유로부의 양단부에 각각 배치되는 것을 특징으로 하는 침지 냉각 장치."
+    }
+  ],
+  "claims_full_text": "Claims (13) Translated from Korean 챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부; 및상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀;을 포함하고,상기 공급홀부는 각각의 상기 슬롯의 일측과 마주보게 배치되는 복수개의 공급홀;을 포함하고,복수개의 상기 공급홀은 상기 제1배출홀과의 거리에 비례하여 직경이 증가하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; and A first discharge hole formed through one surface of the discharge passage portion and sucking the cooling fluid discharged from the other side of the slot; The supply hole portion includes a plurality of supply holes disposed facing one side of each of the slots, Immersion cooling device, characterized in that the diameter of the plurality of supply holes increases in proportion to the distance from the first discharge hole. 삭제delete 제 1항에 있어서,상기 공급부는 상기 챔버의 하측에 배치되고, 상기 배출부는 상기 챔버의 상측에 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, The immersion cooling device according to claim 1 , wherein the supply part is disposed on the lower side of the chamber, and the discharge part is disposed on the upper side of the chamber. 삭제delete 제 1항에 있어서,복수개의 상기 슬롯은 제1방향을 따라 상호 이격되게 배치되고, 상기 공급유로부와 상기 배출유로부는 상기 제1방향과 나란한 방향으로 연장되는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, The plurality of slots are spaced apart from each other along a first direction, and the supply passage part and the discharge passage part extend in a direction parallel to the first direction. 제 5항에 있어서, 상기 제1방향을 따라 상호 이격되게 배치된 복수개의 상기 슬롯은 상기 제1방향과 수직한 제2방향을 따라 적어도 2열 이상으로 배열되고,상기 공급유로부는 복수개로 구비되어 상기 제2방향을 따라 서로 다른 열에 배치된 복수개의 상기 슬롯의 일측과 마주보게 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 5, The plurality of slots disposed to be spaced apart from each other along the first direction are arranged in at least two rows along a second direction perpendicular to the first direction, Immersion cooling device, characterized in that the supply passage portion is provided in plurality and disposed to face one side of the plurality of slots disposed in different columns along the second direction. 삭제delete 삭제delete 제 1항에 있어서,복수개의 상기 공급홀 중 상기 제1배출홀과의 거리가 제1설정거리보다 작은 상기 공급홀은 제1직경을 갖고, 상기 제1배출홀과의 거리가 상기 제1설정거리보다 큰 상기 공급홀은 제2직경을 갖는 것을 특징으로 하는 침지 냉각 장치. According to claim 1, Among the plurality of supply holes, the supply hole having a distance from the first discharge hole smaller than the first set distance has a first diameter, and the supply hole has a distance from the first discharge hole greater than the first set distance. The immersion cooling device characterized in that it has a second diameter. 챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 배출유로부의 타면을 관통하여 형성되고, 상기 배출유로부의 내부로 기포가 유입되는 것을 방지하는 제2배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; a first discharge hole formed through one surface of the discharge flow path portion and sucking the cooling fluid discharged from the other side of the slot; and The immersion cooling device comprising a; second discharge hole formed to penetrate the other surface of the discharge passage portion and prevent air bubbles from flowing into the discharge passage portion. 제 10항에 있어서,상기 제1배출홀은 상기 배출유로부의 측면을 관통하여 형성되고, 상기 제2배출홀은 상기 배출유로부의 하면을 관통하여 형성되는 것을 특징으로 하는 침지 냉각 장치. According to claim 10, The immersion cooling device, characterized in that the first discharge hole is formed through a side surface of the discharge passage portion, and the second discharge hole is formed through a lower surface of the discharge passage portion. 챔버;상기 챔버의 내부에 설치되고, 복수개의 냉각 대상물이 개별적으로 장착되는 복수개의 슬롯을 구비하는 랙 모듈;상기 챔버와 연결되고, 상기 챔버의 내부로 냉각 유체를 공급하는 공급부; 및상기 공급부와 이격되게 배치되고, 상기 챔버로부터 상기 냉각 유체를 배출시키는 배출부;를 포함하고,상기 슬롯은 양측이 상기 랙 모듈을 관통하여 상기 챔버의 내부 공간과 연통되고,상기 공급부와 상기 배출부는 상기 슬롯의 연장 방향을 따라 상호 이격되게 배치되어 상기 슬롯을 통해 상기 냉각 유체를 유동시키고,상기 공급부는,상기 챔버의 내부에 고정되는 공급바디;상기 공급바디로부터 연장되고, 상기 슬롯의 일측과 마주보게 배치되는 공급유로부; 및상기 공급유로부를 관통하여 형성되고, 상기 슬롯의 일측을 향해 상기 냉각 유체를 분사하는 공급홀부;를 포함하고,상기 배출부는,상기 챔버의 내부에 고정되고, 상기 공급바디와 이격되게 배치되는 배출바디;상기 배출바디로부터 연장되는 배출유로부;상기 배출유로부의 일면을 관통하여 형성되고, 상기 슬롯의 타측으로부터 배출되는 상기 냉각 유체를 흡입하는 제1배출홀; 및상기 챔버의 내부에서 상기 냉각 유체가 정체되는 것을 방지하는 제3배출홀;을 포함하는 것을 특징으로 하는 침지 냉각 장치. chamber; a rack module installed inside the chamber and having a plurality of slots into which a plurality of cooling objects are individually mounted; a supply unit connected to the chamber and supplying a cooling fluid into the chamber; and A discharge unit disposed to be spaced apart from the supply unit and configured to discharge the cooling fluid from the chamber; Both sides of the slot pass through the rack module and communicate with the inner space of the chamber, The supply part and the discharge part are disposed spaced apart from each other along the extending direction of the slot to allow the cooling fluid to flow through the slot; the supply unit, a supply body fixed inside the chamber; a supply passage part extending from the supply body and facing one side of the slot; and A supply hole formed through the supply passage and spraying the cooling fluid toward one side of the slot; The discharge part, a discharge body fixed inside the chamber and spaced apart from the supply body; a discharge passage part extending from the discharge body; a first discharge hole formed through one surface of the discharge flow path portion and sucking the cooling fluid discharged from the other side of the slot; and Immersion cooling device comprising a; third discharge hole for preventing the cooling fluid from being stagnant inside the chamber. 제 12항에 있어서,상기 제1배출홀과 상기 제3배출홀은 상기 배출유로부의 양단부에 각각 배치되는 것을 특징으로 하는 침지 냉각 장치. According to claim 12, Immersion cooling device, characterized in that the first discharge hole and the third discharge hole are respectively disposed at both ends of the discharge passage portion.",
+  "document_dates_metadata": [
+    "2022-12-07",
+    "2023-07-10"
+  ]
+}

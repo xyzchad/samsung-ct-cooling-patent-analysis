@@ -1,0 +1,278 @@
+{
+  "patent": "US10925188B1",
+  "source_url": "https://patents.google.com/patent/US10925188B1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "71f327e5677a90d472ac3779257d2e15c23c7e615948f9926621739df489c558",
+  "title": [
+    "Self-contained immersion cooling server assemblies \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Microsoft Technology Licensing LLC",
+    "Intel Corporation",
+    "Bitfury Ip B.V.",
+    "西安交通大学",
+    "TMGCore, LLC",
+    "Beijing Baidu Netcom Science and Technology Co., Ltd",
+    "TMGCore, LLC",
+    "Quanta Computer Inc.",
+    "Dell Products L.P.",
+    "Microsoft Technology Licensing, Llc",
+    "Baidu Usa Llc",
+    "Tmgcore, Inc.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Delta Electronics, Inc.",
+    "Jason Alan Appler",
+    "TMGCore, INC",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Kaney Aerospace, Inc.",
+    "Microsoft Technology Licensing, Llc",
+    "Wiwynn Corporation",
+    "Mitsubishi Heavy Industries, Ltd.",
+    "The Research Foundation For The State University Of New York",
+    "Intel Corporation",
+    "Baidu Usa Llc",
+    "广运机械工程股份有限公司",
+    "超聚变数字技术有限公司",
+    "Quanta Computer Inc.",
+    "Calaris Technologies, inc.",
+    "Slicip, Inc.",
+    "MTS IP Holdings Ltd",
+    "Ibm",
+    "American Electronic Analysis",
+    "Isothermal Systems Research Inc.",
+    "Apple Computer, Inc.",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Green Revolution Cooling, Inc.",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Dell Products L.P.",
+    "International Business Machines Corporation",
+    "Levi A. Campbell",
+    "Dell Products L.P.",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Fujitsu Limited",
+    "University Of Central Florida Research Foundation",
+    "Hamilton Sundstrand Corporation",
+    "David Lane Smith",
+    "Ambri Inc.",
+    "Mark Miyoshi",
+    "Inventec (Pudong) Technology Corp.",
+    "Hamilton Sundstrand Corporation",
+    "Fujitsu Limited",
+    "International Business Machines Corporation",
+    "Mentor Graphics Corporation",
+    "Fujitsu Limited",
+    "Christopher Marazzo",
+    "TMGCore, LLC",
+    "Zuta-Core Ltd.",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "可持续能源联合有限责任公司",
+    "Toshiba Corp",
+    "International Business Machines Corporation",
+    "Dell Products, L.P.",
+    "Dell Products, L.P.",
+    "Green Revolution Cooling, Inc.",
+    "Green Revolution Cooling, Inc.",
+    "EMC IP Holding Company LLC",
+    "Ebullient, Llc",
+    "Google Inc.",
+    "Exascaler Inc.",
+    "株式会社ＥｘａＳｃａｌｅｒ",
+    "Dell Products, L.P.",
+    "Exascaler Inc.",
+    "讯凯国际股份有限公司",
+    "Dell Products, L.P.",
+    "富士通株式会社",
+    "富士通株式会社",
+    "富士通株式会社",
+    "富士通株式会社",
+    "コニカミノルタ株式会社",
+    "富士通株式会社",
+    "北京百度网讯科技有限公司",
+    "International Business Machines Corporation",
+    "Fujitsu Limited",
+    "富士通株式会社",
+    "富士通株式会社",
+    "富士通株式会社",
+    "Dell Products L.P.",
+    "富士通株式会社",
+    "Baidu Usa Llc",
+    "Ibm",
+    "American Electronic Analysis",
+    "Isothermal Systems Research Inc.",
+    "Apple Computer, Inc.",
+    "International Business Machines Corporation",
+    "Green Revolution Cooling, Inc.",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Levi A. Campbell",
+    "International Business Machines Corporation",
+    "Dell Products L.P.",
+    "Dell Products L.P.",
+    "International Business Machines Corporation",
+    "Ambri Inc.",
+    "David Lane Smith",
+    "Fujitsu Limited",
+    "University Of Central Florida Research Foundation",
+    "Hamilton Sundstrand Corporation",
+    "Mark Miyoshi",
+    "Hamilton Sundstrand Corporation",
+    "Inventec (Pudong) Technology Corp.",
+    "Zuta-Core Ltd.",
+    "International Business Machines Corporation",
+    "Fujitsu Limited",
+    "Mentor Graphics Corporation",
+    "Fujitsu Limited",
+    "Christopher Marazzo",
+    "TMGCore, LLC",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "Beijing Baidu Netcom Science and Technology Co., Ltd",
+    "TMGCore, LLC",
+    "Tmgcore, Inc.",
+    "TMGCore, INC",
+    "Liquidstack Holding B.V.",
+    "Bitfury Ip B.V.",
+    "Liquidstack Holding B.V.",
+    "Jason Alan Appler",
+    "Jason Alan Appler",
+    "Kaney Aerospace, Inc.",
+    "Quanta Computer Inc.",
+    "Quanta Computer Inc.",
+    "Intel Corporation",
+    "Dell Products L.P.",
+    "Microsoft Technology Licensing, Llc",
+    "Microsoft Technology Licensing, Llc",
+    "西安交通大学",
+    "TMGCore, INC",
+    "TMGCore, LLC",
+    "Tmgcore, Inc.",
+    "Tmgcore, Inc.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Mitsubishi Heavy Industries, Ltd.",
+    "百度（美国）有限责任公司",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Delta Electronics, Inc.",
+    "Delta Electronics, Inc.",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Dell Products L.P.",
+    "The Research Foundation For The State University Of New York",
+    "Intel Corporation",
+    "Wiwynn Corporation",
+    "Wiwynn Corporation"
+  ],
+  "current_assignee_display": [
+    "Microsoft Technology Licensing LLC"
+  ],
+  "abstract": "Abstract Self-contained server assemblies for housing servers or server blades and associated computing facilities are disclosed herein. In one embodiment, a server assembly includes an enclosure having an interior space housing a server blade, a dielectric coolant submerging heat producing components of the server blade, and a condenser assembly having a condenser coil in fluid communication with a vapor gap in the interior space. The condenser coil is configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap, thereby condensing the vapor into a liquid form to be returned to the server blade.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. A server assembly, comprising: an enclosure having a first wall, a second wall spaced apart from and opposite the first wall, and multiple sidewalls between the first wall and the second wall, the first wall, the second wall, and the sidewalls surrounding an interior space; a server blade having a printed circuit board (“PCB”) mounted on a portion of the second wall, the PCB carrying one or more heat producing components; a dielectric coolant in the interior space of the enclosure and submerging the heat producing components on the PCB; and a condenser assembly in the interior space of the enclosure, the condenser assembly having: a housing having a vapor inlet and a liquid outlet proximate the PCB of the server blade; a condenser coil in the housing, the condenser coil being in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap, thereby condensing the vapor into a liquid form to be returned to the heat producing components mounted on the PCB via the liquid outlet."
+    },
+    {
+      "number": 2,
+      "text": "2. The server assembly of claim 1 wherein the condenser assembly further includes: a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir."
+    },
+    {
+      "number": 3,
+      "text": "3. The server assembly of claim 1 wherein: the condenser assembly further includes a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir; and the enclosure further includes an air duct on top of the first wall, the air duct being in fluid communication with an opening on the first wall to direct the cooling air flowing past the server assembly toward the heat exchanger of the coolant supply assembly."
+    },
+    {
+      "number": 4,
+      "text": "4. The server assembly of claim 1 wherein: the condenser assembly further includes a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir; and the enclosure further includes an opening on the first wall provide fluid communication between the cooling air flowing past the enclosure and the heat exchanger of the coolant supply assembly."
+    },
+    {
+      "number": 5,
+      "text": "5. The server assembly of claim 1, further comprising a dielectric coolant assembly having a housing with a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB."
+    },
+    {
+      "number": 6,
+      "text": "6. The server assembly of claim 1, further comprising a dielectric coolant assembly having a housing with a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir holding an amount of the dielectric coolant; a control valve interconnecting the dielectric coolant reservoir to the coolant port; a level sensor configured to measure a liquid level of the dielectric coolant in the interior space of the enclosure; and a level controller operatively coupled to the level sensor and the control valve, the level controller being configured to adjust an opening of the control valve based on a measured liquid level by the level sensor and a setpoint for the liquid level in the interior space of the enclosure."
+    },
+    {
+      "number": 7,
+      "text": "7. The server assembly of claim 1, further comprising an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap."
+    },
+    {
+      "number": 8,
+      "text": "8. The server assembly of claim 1, further comprising an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; a control valve interconnecting the inert gas reservoir to the gas port; a pressure sensor configured to measure a pressure in the vapor gap in the enclosure; and a pressure controller operatively coupled to the pressure sensor and the control valve, the pressure controller being configured to adjust an opening of the control valve based on a measured pressure level by the pressure sensor and a setpoint for the pressure level in the vapor gap in the enclosure."
+    },
+    {
+      "number": 9,
+      "text": "9. The server assembly of claim 1, further comprising: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB; and an inert gas assembly having a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap."
+    },
+    {
+      "number": 10,
+      "text": "10. A computer system, comprising: a support structure; a first server assembly housed in the support structure, the first server assembly having a first server blade and a first enclosure configured to receive cooling air that removes heat from heat producing components on the first server blade; and a second server assembly housed in the support structure with the first server assembly, the second server assembly having a second enclosure housing: a second server blade; a dielectric coolant in an interior space of the second enclosure and submerging heat producing components of the second server blade; and a condenser assembly in the interior space of the enclosure, the condenser assembly having a vapor inlet and a liquid outlet proximate the second server blade and a condenser coil in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap, thereby condensing the vapor into a liquid form to be returned to the heat producing components of the second server blade via the liquid outlet."
+    },
+    {
+      "number": 11,
+      "text": "11. The computer system of claim 10, further comprising: a coolant supply assembly configured to provide the coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir."
+    },
+    {
+      "number": 12,
+      "text": "12. The computer system of claim 11 wherein the coolant supply assembly is a part of the condenser assembly."
+    },
+    {
+      "number": 13,
+      "text": "13. The computer system of claim 11 wherein: the coolant supply assembly is a part of the condenser assembly; and the second enclosure further includes an opening to direct the cooling air flowing past the second server assembly toward the heat exchanger of the coolant supply assembly."
+    },
+    {
+      "number": 14,
+      "text": "14. The computer system of claim of claim 10 wherein the second server assembly further includes: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the second enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the second enclosure to submerge the heat producing components of the second server blade."
+    },
+    {
+      "number": 15,
+      "text": "15. The computer system of claim of claim 10 wherein the second server assembly further includes: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the second enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir holding an amount of the dielectric coolant; a control valve interconnecting the dielectric coolant reservoir to the coolant port; a level sensor configured to measure a liquid level of the dielectric coolant in the interior space of the second enclosure; and a level controller operatively coupled to the level sensor and the control valve, the level controller being configured to adjust an opening of the control valve based on a measured liquid level by the level sensor and a setpoint for the liquid level in the interior space of the second enclosure."
+    },
+    {
+      "number": 16,
+      "text": "16. The computer system of claim of claim 10 wherein the second server assembly further includes: an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the second enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the second enclosure, thereby providing a blanketing gas in the vapor gap."
+    },
+    {
+      "number": 17,
+      "text": "17. The computer system of claim of claim 10 wherein the second server assembly further includes: an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the second enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; a control valve interconnecting the inert gas reservoir to the gas port; a pressure sensor configured to measure a pressure in the vapor gap in the second enclosure; and a pressure controller operatively coupled to the pressure sensor and the control valve, the pressure controller being configured to adjust an opening of the control valve based on a measured pressure level by the pressure sensor and a setpoint for the pressure level in the vapor gap in the second enclosure."
+    },
+    {
+      "number": 18,
+      "text": "18. A server assembly housed in a support structure having an air inlet to receive cooing air and an air outlet to exhaust the cooling air to an external environment, the server assembly comprising: an enclosure having multiple walls surrounding an interior space; a server blade having a printed circuit board (“PCB”) mounted on a portion of the second wall, the PCB carrying one or more heat producing components; a dielectric coolant in the interior space of the enclosure and submerging the heat producing components on the PCB; and a condenser assembly in the interior space of the enclosure, the condenser assembly having: a vapor inlet and a liquid outlet proximate the PCB of the server blade; a condenser coil in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap and condenses the vapor into a liquid to be returned to the heat producing components mounted on the PCB via the liquid outlet; and a heat exchanger in fluid communication with the cooling air received via the air inlet of the support structure, the heat exchanger being configured to receive the coolant with the removed heat from the condenser coil and transfer the removed heat from the coolant to the cooling air before exhausting the cooling air via the air outlet."
+    },
+    {
+      "number": 19,
+      "text": "19. The server assembly of claim 18 wherein the condenser assembly further includes: a coolant reservoir containing the coolant; and a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil."
+    },
+    {
+      "number": 20,
+      "text": "20. The server assembly of claim 18, further comprising: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB; and an inert gas assembly having a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap."
+    }
+  ],
+  "claims_full_text": "Claims (20) We claim: 1. A server assembly, comprising: an enclosure having a first wall, a second wall spaced apart from and opposite the first wall, and multiple sidewalls between the first wall and the second wall, the first wall, the second wall, and the sidewalls surrounding an interior space; a server blade having a printed circuit board (“PCB”) mounted on a portion of the second wall, the PCB carrying one or more heat producing components; a dielectric coolant in the interior space of the enclosure and submerging the heat producing components on the PCB; and a condenser assembly in the interior space of the enclosure, the condenser assembly having: a housing having a vapor inlet and a liquid outlet proximate the PCB of the server blade; a condenser coil in the housing, the condenser coil being in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap, thereby condensing the vapor into a liquid form to be returned to the heat producing components mounted on the PCB via the liquid outlet. 2. The server assembly of claim 1 wherein the condenser assembly further includes: a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir. 3. The server assembly of claim 1 wherein: the condenser assembly further includes a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir; and the enclosure further includes an air duct on top of the first wall, the air duct being in fluid communication with an opening on the first wall to direct the cooling air flowing past the server assembly toward the heat exchanger of the coolant supply assembly. 4. The server assembly of claim 1 wherein: the condenser assembly further includes a coolant supply assembly configured to provide the circulated coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir; and the enclosure further includes an opening on the first wall provide fluid communication between the cooling air flowing past the enclosure and the heat exchanger of the coolant supply assembly. 5. The server assembly of claim 1, further comprising a dielectric coolant assembly having a housing with a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB. 6. The server assembly of claim 1, further comprising a dielectric coolant assembly having a housing with a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir holding an amount of the dielectric coolant; a control valve interconnecting the dielectric coolant reservoir to the coolant port; a level sensor configured to measure a liquid level of the dielectric coolant in the interior space of the enclosure; and a level controller operatively coupled to the level sensor and the control valve, the level controller being configured to adjust an opening of the control valve based on a measured liquid level by the level sensor and a setpoint for the liquid level in the interior space of the enclosure. 7. The server assembly of claim 1, further comprising an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap. 8. The server assembly of claim 1, further comprising an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; a control valve interconnecting the inert gas reservoir to the gas port; a pressure sensor configured to measure a pressure in the vapor gap in the enclosure; and a pressure controller operatively coupled to the pressure sensor and the control valve, the pressure controller being configured to adjust an opening of the control valve based on a measured pressure level by the pressure sensor and a setpoint for the pressure level in the vapor gap in the enclosure. 9. The server assembly of claim 1, further comprising: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB; and an inert gas assembly having a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap. 10. A computer system, comprising: a support structure; a first server assembly housed in the support structure, the first server assembly having a first server blade and a first enclosure configured to receive cooling air that removes heat from heat producing components on the first server blade; and a second server assembly housed in the support structure with the first server assembly, the second server assembly having a second enclosure housing: a second server blade; a dielectric coolant in an interior space of the second enclosure and submerging heat producing components of the second server blade; and a condenser assembly in the interior space of the enclosure, the condenser assembly having a vapor inlet and a liquid outlet proximate the second server blade and a condenser coil in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap, thereby condensing the vapor into a liquid form to be returned to the heat producing components of the second server blade via the liquid outlet. 11. The computer system of claim 10, further comprising: a coolant supply assembly configured to provide the coolant to the condenser coil, the coolant supply assembly having: a coolant reservoir containing the coolant; a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil; and a heat exchanger operatively coupled to the condenser coil and the coolant reservoir, the heat exchanger being configured to remove heat from the coolant received from the condenser coil to a cooling air flowing past the heat exchanger, thereby reducing a temperature of the coolant, and return the coolant with the reduced temperature to the coolant reservoir. 12. The computer system of claim 11 wherein the coolant supply assembly is a part of the condenser assembly. 13. The computer system of claim 11 wherein: the coolant supply assembly is a part of the condenser assembly; and the second enclosure further includes an opening to direct the cooling air flowing past the second server assembly toward the heat exchanger of the coolant supply assembly. 14. The computer system of claim of claim 10 wherein the second server assembly further includes: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the second enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the second enclosure to submerge the heat producing components of the second server blade. 15. The computer system of claim of claim 10 wherein the second server assembly further includes: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the second enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir holding an amount of the dielectric coolant; a control valve interconnecting the dielectric coolant reservoir to the coolant port; a level sensor configured to measure a liquid level of the dielectric coolant in the interior space of the second enclosure; and a level controller operatively coupled to the level sensor and the control valve, the level controller being configured to adjust an opening of the control valve based on a measured liquid level by the level sensor and a setpoint for the liquid level in the interior space of the second enclosure. 16. The computer system of claim of claim 10 wherein the second server assembly further includes: an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the second enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the second enclosure, thereby providing a blanketing gas in the vapor gap. 17. The computer system of claim of claim 10 wherein the second server assembly further includes: an inert gas assembly having a housing with a gas port in fluid communication with the vapor gap in the interior space of the second enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; a control valve interconnecting the inert gas reservoir to the gas port; a pressure sensor configured to measure a pressure in the vapor gap in the second enclosure; and a pressure controller operatively coupled to the pressure sensor and the control valve, the pressure controller being configured to adjust an opening of the control valve based on a measured pressure level by the pressure sensor and a setpoint for the pressure level in the vapor gap in the second enclosure. 18. A server assembly housed in a support structure having an air inlet to receive cooing air and an air outlet to exhaust the cooling air to an external environment, the server assembly comprising: an enclosure having multiple walls surrounding an interior space; a server blade having a printed circuit board (“PCB”) mounted on a portion of the second wall, the PCB carrying one or more heat producing components; a dielectric coolant in the interior space of the enclosure and submerging the heat producing components on the PCB; and a condenser assembly in the interior space of the enclosure, the condenser assembly having: a vapor inlet and a liquid outlet proximate the PCB of the server blade; a condenser coil in fluid communication with a vapor gap in the interior space via the vapor inlet, the condenser coil being configured to receive a coolant that removes heat from a vapor of the dielectric coolant in the vapor gap and condenses the vapor into a liquid to be returned to the heat producing components mounted on the PCB via the liquid outlet; and a heat exchanger in fluid communication with the cooling air received via the air inlet of the support structure, the heat exchanger being configured to receive the coolant with the removed heat from the condenser coil and transfer the removed heat from the coolant to the cooling air before exhausting the cooling air via the air outlet. 19. The server assembly of claim 18 wherein the condenser assembly further includes: a coolant reservoir containing the coolant; and a circulating pump operatively coupled to the coolant reservoir and the condenser coil to circulate the coolant through the condenser coil. 20. The server assembly of claim 18, further comprising: a dielectric coolant assembly having a coolant port in fluid communication with the dielectric coolant in the interior space of the enclosure, the dielectric coolant assembly further includes: a dielectric coolant reservoir; and a control valve interconnecting the dielectric coolant reservoir to the coolant port, wherein the dielectric coolant reservoir is pre-charged with a preset amount of the dielectric coolant prior to installation, and wherein actuation of the control valve discharges at least a portion of the pre-charged dielectric coolant into the interior space of the enclosure to submerge the heat producing components on the PCB; and an inert gas assembly having a gas port in fluid communication with the vapor gap in the interior space of the enclosure, the inert gas assembly further includes: an inert gas reservoir holding an amount of an inert gas; and a control valve interconnecting the inert gas reservoir to the gas port, wherein actuation of the control valve discharging a portion of the inert gas in the inert gas reservoir into the vapor gap in the enclosure, thereby providing a blanketing gas in the vapor gap.",
+  "independent_candidates": [
+    1,
+    10,
+    18
+  ],
+  "document_dates_metadata": [
+    "2019-11-11",
+    "2021-02-16"
+  ]
+}

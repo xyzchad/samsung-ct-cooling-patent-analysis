@@ -1,0 +1,117 @@
+{
+  "patent": "US20250089206A1",
+  "source_url": "https://patents.google.com/patent/US20250089206A1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "d0a4033821ef4198d4500380c36ba716613bc1b1049ef0546eed0dddd3d8e121",
+  "title": [
+    "Immersion cooling apparatus \n     "
+  ],
+  "status_google_assumption": "Pending",
+  "original_assignee": [
+    "Databean Co Ltd",
+    "Samsung C&T Corp",
+    "삼성물산 주식회사",
+    "Hyperion",
+    "주식회사 데이터빈",
+    "(주)글로벌스탠다드테크놀로지",
+    "Exascaler Inc.",
+    "富士通株式会社",
+    "富士通株式会社",
+    "정인규",
+    "株式会社Ｉｄｃフロンティア",
+    "富士通株式会社",
+    "Ovh",
+    "삼성물산 주식회사"
+  ],
+  "current_assignee_display": [
+    "Databean Co Ltd",
+    "Samsung C&T Corp"
+  ],
+  "abstract": "Abstract The present invention relates to an immersion cooling apparatus including a chamber, a rack module installed in the chamber and having a plurality of slots each having a cooling target mounted thereon, a supply part connected to the chamber and configured to supply a cooling fluid to the inside of the chamber, and a discharge part disposed to be spaced apart from the supply part and configured to discharge the cooling fluid from the chamber.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. An immersion cooling apparatus comprising: a chamber; a rack module installed in the chamber and having a plurality of slots each having a cooling target mounted thereon; a supply part connected to the chamber and configured to supply a cooling fluid to the inside of the chamber; and a discharge part disposed to be spaced apart from the supply part and configured to discharge the cooling fluid from the chamber."
+    },
+    {
+      "number": 2,
+      "text": "2. The immersion cooling apparatus of claim 1, wherein: the slot has both sides passing through the rack module to communicate with an inner space of the chamber; and the supply part and the discharge part are disposed to be spaced apart from each other in an extending direction of the slot for the cooling fluid to flow through the slot."
+    },
+    {
+      "number": 3,
+      "text": "3. The immersion cooling apparatus of claim 2, wherein the supply part is disposed at a lower side of the chamber, and the discharge part is disposed at an upper side of the chamber."
+    },
+    {
+      "number": 4,
+      "text": "4. The immersion cooling apparatus of claim 2, wherein: the supply part comprises a supply body fixed to the inside of the chamber, a supply flow path portion extending from the supply body and disposed to face one side of the slot, and a supply hole portion formed to pass through the supply flow path portion and configured to spray the cooling fluid toward the one side of the slot; and the discharge part includes a discharge body fixed to the inside of the chamber and disposed to be spaced apart from the supply body, a discharge flow path portion extending from the discharge body, and a first discharge hole formed to pass through one surface of the discharge flow path portion and configured to suction the cooling fluid discharged from the other side of the slot."
+    },
+    {
+      "number": 5,
+      "text": "5. The immersion cooling apparatus of claim 4, wherein: the plurality of slots are arranged in at least two or more rows in a first direction; and the supply flow path portion and the discharge flow path portion extend in a direction parallel to the first direction."
+    },
+    {
+      "number": 6,
+      "text": "6. The immersion cooling apparatus of claim 5, wherein the supply hole portion comprises a plurality of supply holes, and each of the slots is disposed to face at least one or more of the supply holes."
+    },
+    {
+      "number": 7,
+      "text": "7. The immersion cooling apparatus of claim 6, wherein the plurality of supply holes are arranged in at least two or more rows in the first direction."
+    },
+    {
+      "number": 8,
+      "text": "8. The immersion cooling apparatus of claim 6, wherein the plurality of supply holes have diameters that increase proportionally to a distance from the first discharge hole."
+    },
+    {
+      "number": 9,
+      "text": "9. The immersion cooling apparatus of claim 8, wherein, among the plurality of supply holes, the supply hole whose distance from the first discharge hole is smaller than a first predetermined distance has a first diameter, and the supply hole whose distance from the first discharge hole is larger than the first predetermined distance has a second diameter."
+    },
+    {
+      "number": 10,
+      "text": "10. The immersion cooling apparatus of claim 6, wherein: the plurality of slots are arranged in at least two or more rows in a second direction perpendicular to the first direction; and the plurality of supply holes are arranged in at least two or more rows in the second direction."
+    },
+    {
+      "number": 11,
+      "text": "11. The immersion cooling apparatus of claim 6, wherein: the plurality of slots are arranged in at least two or more rows in a second direction perpendicular to the first direction; and the supply flow path portion is provided as a plurality of supply flow path portions that are arranged in at least two or more rows in the second direction."
+    },
+    {
+      "number": 12,
+      "text": "12. The immersion cooling apparatus of claim 10, wherein each of the supply flow path portions is disposed to face a different row of the slots arranged in the second direction."
+    },
+    {
+      "number": 13,
+      "text": "13. The immersion cooling apparatus of claim 5, wherein the first discharge hole is provided as a plurality of first discharge holes, and the plurality of first discharge holes are arranged in at least two or more rows in the first direction."
+    },
+    {
+      "number": 14,
+      "text": "14. The immersion cooling apparatus of claim 13, wherein each of the first discharge holes arranged in the first direction is disposed to face a different row of the slots arranged in the first direction."
+    },
+    {
+      "number": 15,
+      "text": "15. The immersion cooling apparatus of claim 13, wherein the plurality of first discharge holes have diameters that increase proportionally to a distance from the discharge body."
+    },
+    {
+      "number": 16,
+      "text": "16. The immersion cooling apparatus of claim 4, wherein the discharge part further comprises a second discharge hole formed to pass through the other surface of the discharge flow path portion and configured to prevent bubbles from being introduced into the discharge flow path portion."
+    },
+    {
+      "number": 17,
+      "text": "17. The immersion cooling apparatus of claim 16, wherein the first discharge hole is formed to pass through a side surface of the discharge flow path portion, and the second discharge hole is formed to pass through a lower surface of the discharge flow path portion."
+    },
+    {
+      "number": 18,
+      "text": "18. The immersion cooling apparatus of claim 16, wherein the discharge part further includes a third discharge hole configured to prevent the cooling fluid from stagnating in the chamber."
+    },
+    {
+      "number": 19,
+      "text": "19. The immersion cooling apparatus of claim 18, wherein the first discharge hole and the third discharge hole are disposed at both ends of the discharge flow path portion."
+    }
+  ],
+  "claims_full_text": "Claims (19) 1. An immersion cooling apparatus comprising: a chamber; a rack module installed in the chamber and having a plurality of slots each having a cooling target mounted thereon; a supply part connected to the chamber and configured to supply a cooling fluid to the inside of the chamber; and a discharge part disposed to be spaced apart from the supply part and configured to discharge the cooling fluid from the chamber. 2. The immersion cooling apparatus of claim 1, wherein: the slot has both sides passing through the rack module to communicate with an inner space of the chamber; and the supply part and the discharge part are disposed to be spaced apart from each other in an extending direction of the slot for the cooling fluid to flow through the slot. 3. The immersion cooling apparatus of claim 2, wherein the supply part is disposed at a lower side of the chamber, and the discharge part is disposed at an upper side of the chamber. 4. The immersion cooling apparatus of claim 2, wherein: the supply part comprises a supply body fixed to the inside of the chamber, a supply flow path portion extending from the supply body and disposed to face one side of the slot, and a supply hole portion formed to pass through the supply flow path portion and configured to spray the cooling fluid toward the one side of the slot; and the discharge part includes a discharge body fixed to the inside of the chamber and disposed to be spaced apart from the supply body, a discharge flow path portion extending from the discharge body, and a first discharge hole formed to pass through one surface of the discharge flow path portion and configured to suction the cooling fluid discharged from the other side of the slot. 5. The immersion cooling apparatus of claim 4, wherein: the plurality of slots are arranged in at least two or more rows in a first direction; and the supply flow path portion and the discharge flow path portion extend in a direction parallel to the first direction. 6. The immersion cooling apparatus of claim 5, wherein the supply hole portion comprises a plurality of supply holes, and each of the slots is disposed to face at least one or more of the supply holes. 7. The immersion cooling apparatus of claim 6, wherein the plurality of supply holes are arranged in at least two or more rows in the first direction. 8. The immersion cooling apparatus of claim 6, wherein the plurality of supply holes have diameters that increase proportionally to a distance from the first discharge hole. 9. The immersion cooling apparatus of claim 8, wherein, among the plurality of supply holes, the supply hole whose distance from the first discharge hole is smaller than a first predetermined distance has a first diameter, and the supply hole whose distance from the first discharge hole is larger than the first predetermined distance has a second diameter. 10. The immersion cooling apparatus of claim 6, wherein: the plurality of slots are arranged in at least two or more rows in a second direction perpendicular to the first direction; and the plurality of supply holes are arranged in at least two or more rows in the second direction. 11. The immersion cooling apparatus of claim 6, wherein: the plurality of slots are arranged in at least two or more rows in a second direction perpendicular to the first direction; and the supply flow path portion is provided as a plurality of supply flow path portions that are arranged in at least two or more rows in the second direction. 12. The immersion cooling apparatus of claim 10, wherein each of the supply flow path portions is disposed to face a different row of the slots arranged in the second direction. 13. The immersion cooling apparatus of claim 5, wherein the first discharge hole is provided as a plurality of first discharge holes, and the plurality of first discharge holes are arranged in at least two or more rows in the first direction. 14. The immersion cooling apparatus of claim 13, wherein each of the first discharge holes arranged in the first direction is disposed to face a different row of the slots arranged in the first direction. 15. The immersion cooling apparatus of claim 13, wherein the plurality of first discharge holes have diameters that increase proportionally to a distance from the discharge body. 16. The immersion cooling apparatus of claim 4, wherein the discharge part further comprises a second discharge hole formed to pass through the other surface of the discharge flow path portion and configured to prevent bubbles from being introduced into the discharge flow path portion. 17. The immersion cooling apparatus of claim 16, wherein the first discharge hole is formed to pass through a side surface of the discharge flow path portion, and the second discharge hole is formed to pass through a lower surface of the discharge flow path portion. 18. The immersion cooling apparatus of claim 16, wherein the discharge part further includes a third discharge hole configured to prevent the cooling fluid from stagnating in the chamber. 19. The immersion cooling apparatus of claim 18, wherein the first discharge hole and the third discharge hole are disposed at both ends of the discharge flow path portion.",
+  "independent_candidates": [
+    1
+  ],
+  "document_dates_metadata": [
+    "2023-12-05",
+    "2025-03-13"
+  ]
+}

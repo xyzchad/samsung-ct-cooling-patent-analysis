@@ -1,0 +1,201 @@
+{
+  "patent": "US10701838B1",
+  "source_url": "https://patents.google.com/patent/US10701838B1/en",
+  "retrieved": "2026-11-17",
+  "html_sha256": "e884449c2588d3810186553e699758b69f15770c1ec07b6083c392204f9c204e",
+  "title": [
+    "Self-installing connections for rack liquid cooling \n       "
+  ],
+  "status_google_assumption": "Active",
+  "original_assignee": [
+    "Amazon Technologies Inc",
+    "Nvidia Corporation",
+    "Delta Electronics, Inc.",
+    "Google Llc",
+    "辉达公司",
+    "Eagle Technology, Llc",
+    "百度（美国）有限责任公司",
+    "Hewlett Packard Enterprise Development Lp",
+    "Baidu Usa Llc",
+    "慧与发展有限责任合伙企业",
+    "Baidu Usa Llc",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "Hoffman Enclosures Inc.",
+    "Delta Electronics, Inc.",
+    "Hoffman Enclosures, Inc.",
+    "ZT Group Int'l, Inc.",
+    "Nvidia Corporation",
+    "Zt Group Int'l, Inc. Dba Zt Systems",
+    "Dell Products L.P.",
+    "Saab Ab",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Dell Products L.P.",
+    "Kuen Tong Industrial Co., Ltd",
+    "Entegris, Inc.",
+    "Shigemi Ota",
+    "International Business Machines Corporation",
+    "Mark Randal Nicewonger",
+    "Coolit Systems, Inc.",
+    "Asetek A/S",
+    "André Sloth Eriksen",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Ebullient Llc",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Amazon Technologies, Inc.",
+    "Baidu Usa Llc",
+    "Dell Products, Lp",
+    "Baidu Usa Llc",
+    "Amazon Technologies, Inc.",
+    "Kioan Cheon",
+    "Iceotope Limited",
+    "엘지전자 주식회사",
+    "Lg电子株式会社",
+    "Shigemi Ota",
+    "International Business Machines Corporation",
+    "Mark Randal Nicewonger",
+    "Ebullient Llc",
+    "Coolit Systems, Inc.",
+    "Asetek A/S",
+    "André Sloth Eriksen",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "International Business Machines Corporation",
+    "Fujitsu Limited",
+    "Fujitsu Limited",
+    "Baidu Usa Llc",
+    "Dell Products, Lp",
+    "Baidu Usa Llc",
+    "Amazon Technologies, Inc.",
+    "Amazon Technologies, Inc.",
+    "Nvidia Corporation",
+    "Nvidia Corporation",
+    "Delta Electronics, Inc.",
+    "Delta Electronics, Inc.",
+    "Delta Electronics, Inc.",
+    "Eagle Technology, Llc",
+    "Google Llc",
+    "Google Llc",
+    "Google Llc",
+    "Nvidia Corporation",
+    "Hewlett Packard Enterprise Development Lp",
+    "Nvidia Corp",
+    "Nvidia Corp",
+    "辉达公司",
+    "Hoffman Enclosures, Inc.",
+    "百度（美国）有限责任公司",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Hoffman Enclosures Inc.",
+    "慧与发展有限责任合伙企业",
+    "Baidu Usa Llc",
+    "Baidu Usa Llc",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "Fulian Precision Electronics (Tianjin) Co., Ltd.",
+    "ZT Group Int'l, Inc.",
+    "Delta Electronics, Inc.",
+    "Zt Group Int'l, Inc. Dba Zt Systems",
+    "Dell Products L.P.",
+    "Dell Products L.P."
+  ],
+  "current_assignee_display": [
+    "Amazon Technologies Inc"
+  ],
+  "abstract": "Abstract A self-installing connector for a liquid cooling system of a datacenter component rack system. A datacenter component rack may include manifolds for conveying coolant to or from one or more datacenter electronic components for liquid cooling components of the datacenter electronic component. The self-installing connector provides a fluid connection between the manifold and a liquid cooling system of a datacenter electronic component. The self-installing connector may puncture the manifold at the time the datacenter electronic component is installed. The self-installing connector may form an opening in the manifold and secure one end of the self-installing connector into the opening upon installation of the datacenter electronic component into the datacenter component rack. The self-installing connector can separate at a dripless quick-disconnect coupling for datacenter electronic component maintenance.",
+  "claims": [
+    {
+      "number": 1,
+      "text": "1. A datacenter component rack system, comprising: a datacenter component rack having slots configured to receive electronic datacenter components at locations along a height of the datacenter component rack; a liquid cooling system, comprising: a delivery manifold disposed along the height of the datacenter component rack and configured to deliver liquid for cooling the electronic datacenter components; a return manifold disposed along the height of the datacenter component rack, configured to receive liquid from the electronic datacenter components; and an electronic datacenter component installed in the rack and comprising: a first self-installing connector that secures a manifold coupling of the first self-installing connector to the delivery manifold and establishes a fluid connection between the delivery manifold and the manifold coupling of the first self-installing connector when the electronic datacenter component is inserted into the rack; and a second self-installing connector that secures a manifold coupling of the second self-installing connector to the return manifold and establishes a fluid connection between the return manifold and the manifold coupling of the second self-installing connector when the electronic datacenter component is inserted into the datacenter component rack."
+    },
+    {
+      "number": 2,
+      "text": "2. The datacenter component rack system of claim 1, wherein: the delivery manifold comprises a weakened portion; and the first self-installing connector pierced the delivery manifold upon installation by displacing the weakened portion of the delivery manifold to form an opening in the delivery manifold."
+    },
+    {
+      "number": 3,
+      "text": "3. The datacenter component rack system of claim 2, wherein the first self-installing connector comprises: a quick-disconnect connection between the manifold coupling and a component coupling of the first self-installing connector."
+    },
+    {
+      "number": 4,
+      "text": "4. The datacenter component rack system of claim 2, wherein the first self-installing connector comprises: a retainer configured to retain the manifold coupling of the first self-installing connector in the opening in the delivery manifold."
+    },
+    {
+      "number": 5,
+      "text": "5. The datacenter component rack system of claim 4, wherein the retainer comprises: a barb configured to retain the manifold coupling of the first self-installing connector in the opening in the delivery manifold."
+    },
+    {
+      "number": 6,
+      "text": "6. A system, comprising: a component rack having a slot configured to receive an electronic component at a location along a height of the component rack; and a liquid cooling system comprising: a delivery manifold disposed along the height of the component rack and configured to be coupled to a heat exchanger, the delivery manifold having a weakened portion of a wall of the delivery manifold being configured to be punctured by and receive a first self-installing connector from the electronic component at the location along the height of the component rack; and a return manifold disposed along the height of the component rack and configured to be coupled to the heat exchanger, the return manifold having a weakened portion of a wall of the return manifold being configured to be punctured by and receive a second self-installing connector from the electronic component at the location along the height of the component rack."
+    },
+    {
+      "number": 7,
+      "text": "7. The system of claim 6, wherein the weakened portion of the wall of each of the delivery manifold and the return manifold comprises: a respective a punch-out section configured to be displaced by the self-installing connector when the self-installing connector punctures the wall."
+    },
+    {
+      "number": 8,
+      "text": "8. The system of claim 6, wherein: the first and second self-installing connectors couple the electronic component to the delivery manifold and the return manifold, respectively, when the electronic component is inserted into the slot of the component rack."
+    },
+    {
+      "number": 9,
+      "text": "9. The system of claim 8, wherein: each of the first and second self-installing connectors comprises a respective quick-disconnect coupling between a respective component coupling and a respective manifold coupling."
+    },
+    {
+      "number": 10,
+      "text": "10. The system of claim 9, wherein: for each of the first and second self-installing connectors, the manifold coupling and the component coupling of the self-installing connector are coupled when the electronic component is inserted into the slot of the component rack; the manifold coupling of the first self-installing connector punctures the delivery manifold when the electronic component is inserted into the slot of the component rack; and the manifold coupling of the second self-installing connector punctures the return manifold when the electronic component is inserted into the slot of the component rack."
+    },
+    {
+      "number": 11,
+      "text": "11. The system of claim 6, wherein: the delivery manifold comprises a sealable opening at a bottom end of the delivery manifold configured to allow cleaning of the delivery manifold."
+    },
+    {
+      "number": 12,
+      "text": "12. The system of claim 6, wherein: the liquid cooling system comprises a leak-free fluid connection indicator configured to provide a notification that a leak-free fluid connection exists between the liquid cooling system and the electronic component."
+    },
+    {
+      "number": 13,
+      "text": "13. A system comprising: an electronic component having at least part of a liquid cooling system; a self-installing connector coupled to a rear side of the electronic component, the self-installing connector comprising: a component coupling connected to the electronic component and comprising a first quick-disconnect coupler; a manifold coupling comprising: a second quick-disconnect coupler connected to the first quick-disconnect coupler; a cutting edge configured to puncture a liquid cooling manifold of a component rack as the electronic component is inserted into the component rack; and a retainer configured to retain the manifold coupling of the self-installing connector in the liquid cooling manifold."
+    },
+    {
+      "number": 14,
+      "text": "14. The system of claim 13, wherein: the retainer comprises barbs configured to resist removal of the manifold coupling of the self-installing connector from the liquid cooling manifold."
+    },
+    {
+      "number": 15,
+      "text": "15. The system of claim 14, wherein: the retainer further comprises an adhesive disposed between adjacent barbs configured to be displaced as the self-installing connector is installed in the liquid cooling manifold and secure the manifold coupling to the liquid cooling manifold."
+    },
+    {
+      "number": 16,
+      "text": "16. The system of claim 13, wherein: the retainer comprises an adhesive configured to bond the manifold coupling of the self-installing connector to the liquid cooling manifold."
+    },
+    {
+      "number": 17,
+      "text": "17. The system of claim 13, wherein: the cutting edge comprises a thread cutting device configured to puncture the liquid cooling manifold and cut threads therein."
+    },
+    {
+      "number": 18,
+      "text": "18. The system of claim 13, wherein: the retainer comprises a threaded connection."
+    },
+    {
+      "number": 19,
+      "text": "19. The system of claim 13, wherein: the self-installing connector further comprises a removable clip configured to retain the manifold coupling with the component coupling until the electronic component is inserted into the component rack."
+    }
+  ],
+  "claims_full_text": "Claims (19) What is claimed is: 1. A datacenter component rack system, comprising: a datacenter component rack having slots configured to receive electronic datacenter components at locations along a height of the datacenter component rack; a liquid cooling system, comprising: a delivery manifold disposed along the height of the datacenter component rack and configured to deliver liquid for cooling the electronic datacenter components; a return manifold disposed along the height of the datacenter component rack, configured to receive liquid from the electronic datacenter components; and an electronic datacenter component installed in the rack and comprising: a first self-installing connector that secures a manifold coupling of the first self-installing connector to the delivery manifold and establishes a fluid connection between the delivery manifold and the manifold coupling of the first self-installing connector when the electronic datacenter component is inserted into the rack; and a second self-installing connector that secures a manifold coupling of the second self-installing connector to the return manifold and establishes a fluid connection between the return manifold and the manifold coupling of the second self-installing connector when the electronic datacenter component is inserted into the datacenter component rack. 2. The datacenter component rack system of claim 1, wherein: the delivery manifold comprises a weakened portion; and the first self-installing connector pierced the delivery manifold upon installation by displacing the weakened portion of the delivery manifold to form an opening in the delivery manifold. 3. The datacenter component rack system of claim 2, wherein the first self-installing connector comprises: a quick-disconnect connection between the manifold coupling and a component coupling of the first self-installing connector. 4. The datacenter component rack system of claim 2, wherein the first self-installing connector comprises: a retainer configured to retain the manifold coupling of the first self-installing connector in the opening in the delivery manifold. 5. The datacenter component rack system of claim 4, wherein the retainer comprises: a barb configured to retain the manifold coupling of the first self-installing connector in the opening in the delivery manifold. 6. A system, comprising: a component rack having a slot configured to receive an electronic component at a location along a height of the component rack; and a liquid cooling system comprising: a delivery manifold disposed along the height of the component rack and configured to be coupled to a heat exchanger, the delivery manifold having a weakened portion of a wall of the delivery manifold being configured to be punctured by and receive a first self-installing connector from the electronic component at the location along the height of the component rack; and a return manifold disposed along the height of the component rack and configured to be coupled to the heat exchanger, the return manifold having a weakened portion of a wall of the return manifold being configured to be punctured by and receive a second self-installing connector from the electronic component at the location along the height of the component rack. 7. The system of claim 6, wherein the weakened portion of the wall of each of the delivery manifold and the return manifold comprises: a respective a punch-out section configured to be displaced by the self-installing connector when the self-installing connector punctures the wall. 8. The system of claim 6, wherein: the first and second self-installing connectors couple the electronic component to the delivery manifold and the return manifold, respectively, when the electronic component is inserted into the slot of the component rack. 9. The system of claim 8, wherein: each of the first and second self-installing connectors comprises a respective quick-disconnect coupling between a respective component coupling and a respective manifold coupling. 10. The system of claim 9, wherein: for each of the first and second self-installing connectors, the manifold coupling and the component coupling of the self-installing connector are coupled when the electronic component is inserted into the slot of the component rack; the manifold coupling of the first self-installing connector punctures the delivery manifold when the electronic component is inserted into the slot of the component rack; and the manifold coupling of the second self-installing connector punctures the return manifold when the electronic component is inserted into the slot of the component rack. 11. The system of claim 6, wherein: the delivery manifold comprises a sealable opening at a bottom end of the delivery manifold configured to allow cleaning of the delivery manifold. 12. The system of claim 6, wherein: the liquid cooling system comprises a leak-free fluid connection indicator configured to provide a notification that a leak-free fluid connection exists between the liquid cooling system and the electronic component. 13. A system comprising: an electronic component having at least part of a liquid cooling system; a self-installing connector coupled to a rear side of the electronic component, the self-installing connector comprising: a component coupling connected to the electronic component and comprising a first quick-disconnect coupler; a manifold coupling comprising: a second quick-disconnect coupler connected to the first quick-disconnect coupler; a cutting edge configured to puncture a liquid cooling manifold of a component rack as the electronic component is inserted into the component rack; and a retainer configured to retain the manifold coupling of the self-installing connector in the liquid cooling manifold. 14. The system of claim 13, wherein: the retainer comprises barbs configured to resist removal of the manifold coupling of the self-installing connector from the liquid cooling manifold. 15. The system of claim 14, wherein: the retainer further comprises an adhesive disposed between adjacent barbs configured to be displaced as the self-installing connector is installed in the liquid cooling manifold and secure the manifold coupling to the liquid cooling manifold. 16. The system of claim 13, wherein: the retainer comprises an adhesive configured to bond the manifold coupling of the self-installing connector to the liquid cooling manifold. 17. The system of claim 13, wherein: the cutting edge comprises a thread cutting device configured to puncture the liquid cooling manifold and cut threads therein. 18. The system of claim 13, wherein: the retainer comprises a threaded connection. 19. The system of claim 13, wherein: the self-installing connector further comprises a removable clip configured to retain the manifold coupling with the component coupling until the electronic component is inserted into the component rack.",
+  "independent_candidates": [
+    1,
+    6,
+    13
+  ],
+  "document_dates_metadata": [
+    "2019-03-25",
+    "2020-06-30"
+  ]
+}
