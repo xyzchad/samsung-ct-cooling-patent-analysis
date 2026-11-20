@@ -35,8 +35,12 @@ def apps(s):
     return sorted(set(ALIAS.get(a.strip(), a.strip()) for a in str(s).replace(';;', ';').split(';') if a.strip() and str(s) != 'nan'))
 def fam(s, lid):
     return tuple(sorted(set(str(s).split(';;')))) if str(s) != 'nan' else (lid,)
+def rd(path):
+    # 새로 만든 CSV가 없으면 저장소의 압축본(.csv.xz)을 읽는다
+    path = Path(path)
+    return pd.read_csv(path if path.exists() else path.with_suffix(path.suffix + '.xz'))
 def load(path):
-    d = pd.read_csv(path)
+    d = rd(path)
     d['year'] = pd.to_datetime(d['Earliest Priority Date']).dt.year
     d['apps'] = d['applicant_normalized'].apply(apps)
     d['fam'] = [fam(s, l) for s, l in zip(d['Simple Family Members'], d['Lens ID'])]
@@ -124,7 +128,7 @@ def fit(counts, end):
 scurve, curves, holdout = {}, [], []
 for ver in ['V1', 'V2']:
     for t, lab in [('dlc', 'DLC'), ('imm', 'Immersion')]:
-        g = pd.read_csv(P/f'us_{t}_v2_granted.csv')
+        g = rd(P/f'us_{t}_v2_granted.csv')
         if ver == 'V1': g = g[g.source == '키워드(V1)']
         cnt = Counter(pd.to_datetime(g['Earliest Priority Date']).dt.year.astype(int))
         o, years, yy = fit(cnt, 2021)
@@ -150,7 +154,7 @@ ASOF = pd.Timestamp('2026-11-20')
 V1_EXCL = {'US 6775137 B2', 'US 11516943 B2', 'US 9101078 B2'}
 core = []
 for t, lab in [('dlc', 'DLC'), ('imm', 'Immersion')]:
-    g = pd.read_csv(P/f'us_{t}_v2_granted.csv')
+    g = rd(P/f'us_{t}_v2_granted.csv')
     g['yrs'] = ((ASOF - pd.to_datetime(g['Publication Date'])).dt.days/365.25).clip(lower=1)
     g['annual_cit'] = g['Cited by Patent Count']/g['yrs']
     g['fam'] = [fam(s, l) for s, l in zip(g['Simple Family Members'], g['Lens ID'])]
