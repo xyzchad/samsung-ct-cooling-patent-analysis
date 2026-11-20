@@ -48,6 +48,14 @@ for t,rows in data.items():
         fams_with_new=sum(any(first[a]>=2022 for a in A(r)) for r in P3)/len(P3),
         hhi3=sum((v/sum(c3.values()))**2 for v in c3.values()), cr4_3=sum(v for _,v in c3.most_common(4))/sum(c3.values()),
         grp=grp,lift=lift[:8],lift_down=sorted([(k,cnt3.get(k,0),s3.get(k,0),s0[k]) for k in s0 if s0[k]>=0.15],key=lambda x:(x[2]-x[3]))[:4])
+# 제목 기준 시설 단 냉각 특허(CPC 대리지표 보완): 냉동·공조 시스템, 컨테이너·모듈러 데이터센터, 전산실 냉각 등
+FAC=r'refrigerat|air[- ]condition|computer room|data room|machine room|container|modular data|chiller|cooling tower|edge data center|heat recovery|building'
+import re as _re
+for t,rows in data.items():
+    P0=[r for r in rows if 2015<=year(r)<=2021]; P3=[r for r in rows if 2022<=year(r)<=2024]
+    f0=[r for r in P0 if _re.search(FAC,r['Title'],_re.I)]; f3=[r for r in P3 if _re.search(FAC,r['Title'],_re.I)]
+    res[t]['facility_title']={'n0':len(f0),'n3':len(f3),'share0':len(f0)/len(P0),'share3':len(f3)/len(P3),
+        'top3':Counter(a for r in f3 for a in A(r)).most_common(3)}
 json.dump(res,open(out,'w',encoding='utf-8'),ensure_ascii=False,indent=1,default=str)
 for t,d in res.items():
     print('=====',t,'10y',d['n10'],'15-21',d['n0'],'22-24',d['n3'],d['by_year'])
