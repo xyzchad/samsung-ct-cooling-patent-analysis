@@ -1,0 +1,49 @@
+﻿대표문헌,최우선연도,출원인,제목,기존원본포함,판정,이유
+US 12764908 B2,2023,DENSO CORP,Electronic control unit,아니오,비대상,차량용 전자제어장치
+US 12575060 B2,2021,HUAWEI DIGITAL POWER TECH CO LTD,"Cooling system, cabinet, and data center",아니오,경계(시설 수냉),캐비닛 흡기측 수냉 열교환기(공기-물)
+US 2026/0013081 A1,2024,TOYOTA ENG & MFG NORTH AMERICA;;TOYOTA MOTOR CO LTD,SYSTEM AND METHOD FOR PROVIDING SUPPLEMENTAL POWER AND COOLING TO ONE OR MORE SERVER RACKS,아니오,비대상,연료전지 부산물 물로 랙 보조 냉각
+US 2025/0312767 A1,2022,LLC COMPOSITE GROUP CHELYABINSK,PRODUCTION LINE FOR MANUFACTURING NON-METALLIC COMPOSITE REINFORCING MESH,아니오,비대상,복합재 철근망 생산설비
+US 2025/0301611 A1,2024,WINCONN SYSTEMS INC,DATA CABINET HEAT-DISSIPATING SYSTEM AND METHOD,아니오,관련,데이터 캐비닛 수냉 라디에이터
+US 12414274 B2,2023,LENOVO ENTPR SOLUTIONS SINGAPORE PTE LTD,Measuring utilization to adjust water flow for cooling of servers and server components,아니오,관련,수냉 서버 유량 조절
+US 12408300 B2,2022,DELTA ELECTRONICS INC,Cooling system,아니오,경계(시설 수냉),공랭·수냉 겸용 실내 냉각
+US 12376254 B2,2022,SALMON PETER C,Water cooled server,예,기존 데이터에 이미 있음,
+US 12336152 B2,2021,BAIDU USA LLC,Hybrid system for servers,아니오,관련,서버용 2상 냉각판
+US 2025/0159847 A1,2023,HEBEI QINHUAI DATA CO LTD,WATER-COOLED SYSTEM FOR DATA CENTER ROOM,아니오,관련,데이터센터 수냉 시스템(서버 측면 냉각판)
+US 2025/0081402 A1,2023,DENSO CORP,ELECTRONIC CONTROL UNIT,아니오,비대상,차량용 전자제어장치
+US 2025/0048599 A1,2023,HEBEI QINHUAI DATA CO LTD,INTEGRATED CABINET AND DATA CENTER COMPUTER ROOM,아니오,관련,CDU·수냉 백플레인 일체형 캐비닛
+US 12136576 B1,2023,SALMON PETER C,Microelectronic module,아니오,관련,수냉 마이크로전자 모듈
+US 2024/0365519 A1,2023,APTIV TECHNOLOGIES AG,Cooling Rack for an Electronic Unit,아니오,비대상,차량용 전자장치 랙
+US 12048127 B2,2022,BAIDU USA LLC,Distribution hardware for two phase system recirculation,예,기존 데이터에 이미 있음,
+US 11700709 B2,2021,BAIDU USA LLC,Redundant module and systems for high density servers,아니오,관련,고밀도 서버 단상 냉각판
+US 11523543 B1,2022,SALMON PETER C,Water cooled server,아니오,관련,수냉 서버
+US 2022/0316053 A1,2019,INSTITUTE OF METAL RES CHINESE ACADEMY OF SCIENES,"HFCVD DEVICE USED FOR CONTINUOUS PREPARATION OF DIAMOND THIN FILM, AND COATING METHOD THEREOF",아니오,비대상,다이아몬드 박막 증착장치
+US 11445640 B1,2022,SALMON PETER C,Water cooled server,아니오,관련,수냉 서버
+US 11431257 B2,2018,MIBA ENERGY HOLDING GMBH,Power module comprising a supporting cooling body,아니오,비대상,고압 변환기 전력모듈
+US 11377372 B2,2012,DEEPWATER DESAL LLC,Systems and methods for data center cooling and water desalination,아니오,경계(시설 수냉),데이터센터 냉각수·해수 담수화 연계
+US 11337328 B2,2018,MIBA ENERGY HOLDING GMBH,Power assembly having a load-bearing cooling body,아니오,비대상,고압 변환기 전력모듈
+US 2022/0071181 A1,2013,DEEPWATER DESAL LLC,Co-Location of a Heat Source Cooling Subsystem and Aquaculture,아니오,경계(시설 수냉),데이터센터 냉각수·양식장 연계
+US 2022/0071059 A1,2020,BEIJING TUSEN ZHITU TECH CO LTD,HEAT DISSIPATION SYSTEM AND SERVER SYSTEM,아니오,관련,서버 액체냉각 누설 방지
+US 2022/0046827 A1,2020,BEIJING SILICON BASED VOYAGE TECH CO LTD,Server,아니오,관련,채굴 서버 냉각 모듈
+US 11119543 B2,2019,CISCO TECH INC,Closed loop hybrid cooling,아니오,관련,서버 하이브리드 냉각판
+US 11044833 B2,2019,TAIWAN MICROLOOPS CORP,Water-cooled pressurized distributive heat dissipation system for rack,아니오,관련,랙 서버 분배형 수냉
+US 11044832 B2,2019,TAIWAN MICROLOOPS CORP,Water-cooled distributive heat dissipation system for rack,아니오,관련,랙 서버 분배형 수냉
+US 10754397 B2,2018,LENOVO BEIJING CO LTD,Water-cooled server and electronic device,아니오,관련,수냉 서버
+US 10427214 B2,2017,SHENYANG YATE IND MACHINERY MAKING EQUIPMENT CO LTD,Water-cooled centrifugal pipe casting machine,아니오,비대상,원심 주조기
+US 10356953 B2,2013,NAVER BUSINESS PLATFORM CORP,Booth apparatus for supplying cooling air,아니오,비대상,공랭 부스
+US 10195833 B2,2016,MA FUSHUN,Pre-coated bottom cover combination machine for tile carpet,아니오,비대상,카펫 제조기
+US 2018/0368289 A1,2015,GUANGDONG HI 1 NEW MATERIALS TECH RESEARCH INST CO LTD,NATURAL COLD-SOURCE HEAT-DISSIPATION SYSTEM FOR VARIOUS DATA CENTERS,아니오,비대상,자연냉원 열사이펀(액체냉각 아님)
+US 2018/0192552 A1,2017,BEIJING BAIDU NETCOM SCI & TEC,HEAT-DISSIPATING SYSTEM AND METHOD OF WHOLE CABINET SERVER SYSTEM,아니오,관련,캐비닛 서버 수냉판
+US 9924617 B2,2016,FUJITSU LTD,Information processing device and server,아니오,관련,서버 냉각판
+US 9606588 B2,2012,SILLICON GRAPHICS INT CORP;;SILICON GRAPHICS INT CORP,Closed-loop cooling system for high-density clustered computer system,아니오,관련,고밀도 랙 폐루프 수냉
+US 2017/0086334 A1,2015,RIDDLE JEFFERY LYNN,VARIABLE REFRIGERANT FLOW MUTLIPOINT DISTRIBUTED CHILLED WATER COOLING AND CONTROL SYSTEM FOR DATA CENTERS,아니오,경계(시설 수냉),데이터센터 냉수 분배(공조기용)
+US 2016/0369994 A1,2015,LIU ZHIFENG,"Plant lamp convenient to disassemble, assemble and maintain",아니오,비대상,식물 조명
+US 9253920 B2,2010,ROSSI MAURO;;TECCHIOLLI GIAMPIETRO;;ZUCCATO PIERFRANCESCO;;E,"Cooling device with liquid for electronic cards, in particular for high performance processing units",아니오,관련,고성능 연산 카드 액체냉각
+US 2015/0062817 A1,2013,INVENTEC CORP;;INVENTEC PUDONG TECH CORP,SERVER,아니오,관련,서버 냉각판
+US 2014/0116639 A1,2007,UNIV ILLINOIS,COOLING CONTROL SYSTEM FOR CONTINUOUS CASTING OF METAL,아니오,비대상,연속주조 냉각
+US 8644024 B2,2010,CHEN CHIEN-AN;;INVENTEC CORP,Cooling system for server and cooling method for electronic apparatus,아니오,관련,서버 냉각판·라디에이터
+US 8464547 B2,2010,HSU KEN;;CHENG CHIH-HUNG;;LIN CHEN-HSIANG;;LIN KUO-LEN;;GOLD,Cooling rack structure of thermoelectric cooling type,아니오,비대상,열전 냉각(액체 아님)
+US 8351200 B2,2007,IBM;;ARIMILLI RAVI K;;ELLSWORTH JR MICHAEL J;;SEMINARO EDWAR,Convergence of air water cooling of an electronics rack and a computer room in a single unit,아니오,관련,랙·전산실 공기-물 통합 냉각
+US 2009/0120622 A1,2006,KNUERR AG,Heat Exchanger and Method For Cooling Network Cabinets,아니오,경계(시설 수냉),네트워크 캐비닛 공기-물 열교환기
+US 7525207 B2,2007,GOOGLE INC,Water-based data center,아니오,비대상,해상 데이터센터(기존 기준상 비대상)
+US 2004/0008490 A1,2002,CHEON KIOAN,Water cooling type soft cooling jacket for electronic device and buffer jacket using the same,아니오,관련,전자기기 수냉 재킷
+US 2004/0008483 A1,2002,CHEON KIOAN,Water cooling type cooling system for electronic device,아니오,관련,전자기기 수냉 시스템

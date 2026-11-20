@@ -1,0 +1,57 @@
+﻿회사,대표문헌,최우선연도,제목,판정,기술,이유,기존데이터_포함
+Ecolab(CoolIT),US 9909820 B2,2007,Fluid heat exchange systems,관련,DLC,"전자부품 접촉 냉각판(우선일 2007, 10년 밖)",아니오
+Ecolab(CoolIT),US 12101906 B2,2007,Fluid heat exchanger,관련,DLC,"전자기기용 마이크로채널 냉각판(우선일 2007, 10년 밖)",아니오
+Ecolab(CoolIT),US 2016/0311708 A1,2015,Submergible Biocide Reactor and Method,비대상,-,산업용수 살균제 반응기,아니오
+Ecolab(CoolIT),US 2024/0032550 A1,2017,SYSTEMS AND METHODS FOR CONTROLLING WATER QUALITY IN FOOD PROCESSING,비대상,-,식품 가공 냉각수 수질 관리,아니오
+Ecolab(CoolIT),US 2020/0340767 A1,2019,COOLING MODULE WITH LEAK DETECTOR AND RELATED SYSTEMS,관련,DLC,냉각 모듈 누설 감지,아니오
+Ecolab(CoolIT),US 2024/0215197 A1,2020,"LIQUID-COOLING DEVICES, AND SYSTEMS, TO COOL MULTI-CHIP MODULES",관련,DLC,멀티칩 모듈 액체냉각 장치,아니오
+Ecolab(CoolIT),US 2025/0024640 A1,2023,HYBRID COOLING SYSTEMS TO COOL MULTI-CHIP MODULES,관련,DLC,"멀티칩 모듈용 하이브리드 냉각, 냉각판 포함",아니오
+Ecolab(CoolIT),US 2025/0071937 A1,2023,HEAT EXCHANGER WITH CONTACT SEALING AND RELATED SYSTEMS AND METHODS,관련,DLC,발열부품용 열교환기(냉각판) 접촉 밀봉,아니오
+GRC,US 12150282 B2,2008,"Liquid submerged, horizontal computer server rack and systems and method of cooling such a server rack",관련,액침,"수평 액침 서버 랙(우선일 2008, 10년 밖)",예
+GRC,US 9756766 B2,2014,System and method for air-cooling hard drives in liquid-cooled server rack,관련,액침,"액침 서버 노드 하드디스크 공랭(우선일 2014, 10년 밖)",예
+GRC,WO 2019/023229 A1,2017,POWER DISTRIBUTION SYSTEM WITH THERMAL CUTOFF FOR DIELECTRIC COOLING SYSTEMS,관련,액침,액침 시스템용 전력분배 열차단,아니오
+GRC,US 12389566 B2,2020,Multi-rack immersion cooling distribution system,관련,액침,다중 랙 액침 분배,예
+GRC,US 2023/0422445 A1,2021,COOLANT SHROUD,관련,액침,액침 방열판 냉각액 슈라우드,아니오
+GRC,US 11925946 B2,2022,Fluid delivery wand,관련,액침,액침 탱크 내 냉각액 분사 장치,아니오
+GRC,US 12089368 B2,2022,System and method for cooling computing devices using a primary circuit dielectric cooling fluid,관련,액침,액침 탱크 균일 분배 1차 회로,아니오
+GRC,US 2024/0251531 A1,2023,Immersion Cooling Reservoir Level Control,관련,액침,액침 탱크 냉각액 수위 제어,아니오
+GRC,US 2025/0008690 A1,2023,Coolant Flow Enhancement,관련,액침,액침 탱크 유동 강화,아니오
+LG전자,KR 20200027331 A,2018,VOICE SYNTHESIS DEVICE,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,KR 20200042659 A,2018,TERMINAL,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,US 11548144 B2,2019,Robot and controlling method thereof,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,EP 3796381 A1,2019,DEVICE FOR SELF-ASSEMBLING SEMICONDUCTOR LIGHT-EMITTING DIODES,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,KR 20190095189 A,2019,ROBOT SYSTEM AND CONTROL METHOD THEREOF,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,KR 20200021969 A,2020,SELF ASSEMBLY METHOD AND DEVICE FOR SEMICONDUCTOR LIGHT EMITTING DEVICE,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,KR 20240092989 A,2022,A laundry treating apparatus and a control method of the same,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,US 2025/0200902 A1,2022,DEVICE FOR PROVIDING IMMERSIVE CONTENT AND METHOD FOR PROVIDING IMMERSIVE CONTENT,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,CN 119998972 A,2022,Electrode material winding device,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+LG전자,US 2025/0155204 A1,2023,HEAT EXCHANGER AND CLOTHING PROCESSING EQUIPMENT HAVING THE SAME,비대상,-,전자장비 냉각과 무관(로봇·세탁기·음성 등),아니오
+Schneider,US 2022/0272879 A1,2016,SYSTEMS AND METHODS FOR THERMAL MANAGEMENT IN UTILITY SCALE POWER INVERTERS,비대상,-,유틸리티 전력변환기 공랭,아니오
+Schneider,US 11725974 B2,2019,Systems and methods for liquid-volume measurement in immersion-cooled devices,관련,액침,액침 장비 냉각액 수위 측정,아니오
+Schneider,US 2022/0137805 A1,2020,SYSTEMS AND METHODS FOR DETERMINING LIQUID COOLED ARCHITECTURES IN AN IT ROOM,관련,DLC,IT실 액체냉각 구조 설계,예
+Schneider,US 11609141 B2,2021,Condition detection of pressure transmitter diaphragm,비대상,-,압력 전송기 다이어프램,아니오
+Schneider,US 2026/0052646 A1,2024,UNDERFLOOR FLUID DISTRIBUTION SYSTEM,관련,DLC,액체냉각 배관 바닥하부 분배,예
+Trane(LiquidStack),US 2019/0293325 A1,2013,METHODS AND SYSTEMS OF STREAMING REFRIGERANT IN A HEAT EXCHANGER,비대상,-,냉동기 증발기,아니오
+Trane(LiquidStack),CN 208254300 U,2014,Heat exchanger coils with dislocation fin,비대상,-,공조용 열교환기 코일,아니오
+Trane(LiquidStack),US 10401055 B2,2017,Reduced drag combustion pass in a tubular heat exchanger,비대상,-,연소식 열교환기,아니오
+Trane(LiquidStack),US 2022/0007540 A1,2019,HOT SWAP CONDENSOR FOR IMMERSION COOLING,관련,액침,액침 핫스왑 응축기,아니오
+Trane(LiquidStack),US 11772019 B2,2019,Method and apparatus for recovering dielectric fluids used for immersion cooling,관련,액침,액침 유전 냉각액 회수,아니오
+Trane(LiquidStack),US 2021/0063092 A1,2019,HEAT TRANSFER CIRCUIT WITH FLOW DEPENDENT HEAT EXCHANGER,비대상,-,냉동 사이클 열교환,아니오
+Trane(LiquidStack),US 11528827 B2,2020,Method and system for in-situ measuring of a heat transfer fluid in a device for immersion cooling and device for immersion cooling,관련,액침,액침 냉각액 현장 측정,아니오
+Trane(LiquidStack),CN 217483323 U,2021,Heat exchanger for heat storage system and heat storage system,비대상,-,축열 시스템 열교환기,아니오
+Trane(LiquidStack),US 2025/0024639 A1,2022,BAFFLE ASSEMBLY FOR USE IN AN IMMERSION COOLING SYSTEM,관련,액침,2상 액침 배플,아니오
+Trane(LiquidStack),US 2023/0232585 A1,2022,LIQUID DEFLECTOR FOR TWO-PHASE IMMERSION COOLING SYSTEM,관련,액침,2상 액침 액체 편향판,아니오
+Trane(LiquidStack),US 11608217 B1,2022,Automated closure for hermetically sealing an immersion cooling tank during a hot swap of equipment therein,관련,액침,액침 탱크 자동 밀폐,아니오
+Trane(LiquidStack),US 2024/0373596 A1,2022,ACTIVELY CONTROLLED IMMERSION COOLING SYSTEM AND METHOD,관련,액침,능동 제어 액침 시스템,아니오
+Trane(LiquidStack),US 2025/0081383 A1,2022,SERVER BASKET FOR USE IN AN IMMERSION COOLING TANK,관련,액침,액침 탱크 서버 바스켓,예
+Trane(LiquidStack),US 2025/0008691 A1,2022,RETRACTABLE COVER FOR IMMERSION COOLING SYSTEM,관련,액침,액침 탱크 개폐 덮개,예
+Trane(LiquidStack),US 12680743 B2,2023,Thermal system having hydronic system heat exchange,비대상,-,건물 공조 수배관 열교환,아니오
+Vertiv,EP 3225926 B1,2016,EVAPORATION HEAT EXCHANGE DEVICE FOR AIR COOLING FOR CONDITIONING AND CLIMATE CONTROL SYSTEMS FOR SERVER ROOMS AND THE LIKE,비대상,-,공조용 증발식 공기 열교환,아니오
+Vertiv,US 2018/0220551 A1,2017,TELECOMMUNICATIONS EQUIPMENT ENCLOSURES HAVING HEAT EXCHANGERS,비대상,-,통신장비 함체 공랭 열교환,아니오
+Vertiv,US 2024/0284639 A1,2023,Zero-U Coolant Distribution Unit,관련,DLC,랙 일체형 CDU,예
+Vertiv,US 2025/0185222 A1,2023,INTEGRATED RACK POWER-COOLING DELIVERY DEVICE,관련,DLC,랙 전력·냉각 통합 공급,예
+Vertiv,US 2025/0024638 A1,2023,TWO-PHASE IMMERSION COOLING SYSTEM,관련,액침,2상 액침 압력용기,아니오
+Vertiv,CN 223488625 U,2024,Prefabricated wind-liquid integrated cabinet,관련,DLC,공랭·액냉 일체형 조립식 캐비닛,아니오
+Vertiv,US 2025/0275101 A1,2024,ZERO-U COOLANT DISTRIBUTION UNIT,관련,DLC,랙 일체형 CDU,예
+삼성물산,US 2025/0089206 A1,2022,IMMERSION COOLING APPARATUS,관련,액침,삼성물산·데이터빈 액침 냉각장치,예
+삼성물산,US 2025/0294706 A1,2024,IMMERSION COOLING TYPE APPARATUS AND METHOD FOR CONTROLLING FLOW,관련,액침,삼성물산·데이터빈 액침 펌프 유량 제어,아니오
