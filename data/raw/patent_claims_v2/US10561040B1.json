@@ -1,0 +1,21 @@
+{
+  "patent": "US10561040B1",
+  "source_url": "https://patents.google.com/patent/US10561040B1/en#claims",
+  "retrieved": "2026-11-21",
+  "method": "Google Patents 페이지에서 청구항 1의 짧은 원문 구절(각 110자 미만)을 웹 도구로 추출했다. 전체 청구항 원문이 아니다. 문구 전체를 인용할 때는 source_url의 원문을 확인한다.",
+  "title": "Flexible gasket seal for direct liquid cooling of electronic devices",
+  "claim1_preamble": "An apparatus, wherein the apparatus comprises",
+  "claim1_quotes": {},
+  "coding": {
+    "유로·분배·순환": 0,
+    "자동 제어": 0,
+    "열교환·응축": 0,
+    "연결·정비 기구": 0,
+    "시설 냉각수 명시": 0
+  },
+  "boundary_notes": {
+    "유로·분배·순환": "\"liquid coolant flows within the channel\" — 냉각판 내부 단일 채널. V1 기준(분배 구조)상 경계라 A=0",
+    "열교환·응축": "냉각판 자체는 열방출 열교환기가 아니라 C=0 (V1 US11019752B2와 같은 처리)"
+  },
+  "other_independent_claims": "12"
+}

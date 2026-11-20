@@ -126,7 +126,7 @@ v1c = cf[cf.version == 'V1'][FE].sum(); v2c = cf[cf.version == 'V2'][FE].sum()
 f.text(.78, .62, '20건 합계\nV2 vs V1', fontsize=16, color=INK2)
 for i, k in enumerate(FE): f.text(.78, .55-i*.055, f"{k.split('·')[0]}  {v2c[k]} vs {v1c[k]}", fontsize=15)
 f.text(.08, .125, '20건 중 V1과 같은 특허는 6건. 구성이 바뀌어도 유로·열교환·연결 기구가 상위 3개인 점은 같다.', fontsize=17)
-save(f, '04_청구항_기능비교', '출처: 미국 등록공보 독립항 1(새 14건 Google Patents 확인 2026.11.20, V1 6건은 11.17 코딩 유지). 기능 중복 코딩.\n목적표본의 구성 비교이며 전 산업 비중이 아님. 0은 이 항에서 미확인이라는 뜻. 행별 근거: data/v2/results/US_claim1_review_v2.csv')
+save(f, '04_청구항_기능비교', '출처: 미국 등록공보 독립항 1(새 14건 Google Patents 확인 2026.11.20, 11.21 원문 구절로 재검증, V1 6건은 11.17 코딩 유지). 기능 중복 코딩.\n목적표본의 구성 비교이며 전 산업 비중이 아님. 0은 이 항에서 미확인이라는 뜻. 행별 근거: data/v2/results/US_claim1_review_v2.csv')
 
 # 07 S커브
 cv = pd.read_csv(R/'scurve_curves_v2.csv'); S = A['scurve']
@@ -223,7 +223,7 @@ ax.set_yticks(range(20), [p + ('  (V1 공통)' if s == 'V1' else '') for p, s in
 ax.set_xticks(np.arange(-.5, 5, 1), minor=True); ax.set_yticks(np.arange(-.5, 20, 1), minor=True); ax.grid(which='minor', color='white', linewidth=2)
 ax.tick_params(which='minor', bottom=False, left=False); ax.axhline(9.5, color='#172c48', lw=2)
 f.text(.045, .66, 'DLC\n10건', fontsize=22, color=BLUE); f.text(.045, .33, '액침\n10건', fontsize=22, color=TEAL)
-save(f, 'A2_청구항_20건_행렬', '출처: 미국 등록공보, 독립항 1. 파랑 = 명시적 구성 확인 / 옅은색 = 이 항에서 미확인. 새 14건 확인 2026.11.20.\n행별 요약·코딩 근거·원문 링크: data/v2/results/US_claim1_review_v2.csv. 기능 부재나 자유실시 여부를 판단하는 표가 아님.')
+save(f, 'A2_청구항_20건_행렬', '출처: 미국 등록공보, 독립항 1. 파랑 = 명시적 구성 확인 / 옅은색 = 이 항에서 미확인. 새 14건 확인 2026.11.20, 11.21 재검증.\n행별 요약·코딩 근거·원문 링크: data/v2/results/US_claim1_review_v2.csv. 기능 부재나 자유실시 여부를 판단하는 표가 아님.')
 
 # C1 V1 vs V2 비교
 f = setup('V1(키워드) vs V2(키워드 + CPC): 결론은 같고 건수는 커졌다', '합집합 연도별 패밀리 수와 주요 지표 비교')

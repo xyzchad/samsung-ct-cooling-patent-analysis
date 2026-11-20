@@ -6,7 +6,7 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-20T22:04:44.729690</dc:date>
+    <dc:date>2026-11-21T00:56:44.556513</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
@@ -39,19 +39,19 @@ z
    </g>
    <g id="patch_3">
     <path d="M 288 151.690909 
-L 672 151.690909 
-L 672 174.276905 
+L 617.142857 151.690909 
+L 617.142857 174.276905 
 L 288 174.276905 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #355cbb"/>
+" clip-path="url(#p178402dd12)" style="fill: #355cbb"/>
    </g>
    <g id="patch_4">
     <path d="M 288 218.120309 
-L 397.714286 218.120309 
-L 397.714286 240.706306 
+L 452.571429 218.120309 
+L 452.571429 240.706306 
 L 288 240.706306 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #355cbb"/>
+" clip-path="url(#p178402dd12)" style="fill: #355cbb"/>
    </g>
    <g id="patch_5">
     <path d="M 288 284.54971 
@@ -59,15 +59,15 @@ L 507.428571 284.54971
 L 507.428571 307.135706 
 L 288 307.135706 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #355cbb"/>
+" clip-path="url(#p178402dd12)" style="fill: #355cbb"/>
    </g>
    <g id="patch_6">
     <path d="M 288 350.97911 
-L 507.428571 350.97911 
-L 507.428571 373.565106 
+L 562.285714 350.97911 
+L 562.285714 373.565106 
 L 288 373.565106 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #355cbb"/>
+" clip-path="url(#p178402dd12)" style="fill: #355cbb"/>
    </g>
    <g id="patch_7">
     <path d="M 288 417.408511 
@@ -75,15 +75,15 @@ L 342.857143 417.408511
 L 342.857143 439.994507 
 L 288 439.994507 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #355cbb"/>
+" clip-path="url(#p178402dd12)" style="fill: #355cbb"/>
    </g>
    <g id="patch_8">
     <path d="M 288 175.605493 
-L 507.428571 175.605493 
-L 507.428571 198.191489 
+L 562.285714 175.605493 
+L 562.285714 198.191489 
 L 288 198.191489 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #13857c"/>
+" clip-path="url(#p178402dd12)" style="fill: #13857c"/>
    </g>
    <g id="patch_9">
     <path d="M 288 242.034894 
@@ -91,7 +91,7 @@ L 288 242.034894
 L 288 264.62089 
 L 288 264.62089 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #13857c"/>
+" clip-path="url(#p178402dd12)" style="fill: #13857c"/>
    </g>
    <g id="patch_10">
     <path d="M 288 308.464294 
@@ -99,7 +99,7 @@ L 617.142857 308.464294
 L 617.142857 331.05029 
 L 288 331.05029 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #13857c"/>
+" clip-path="url(#p178402dd12)" style="fill: #13857c"/>
    </g>
    <g id="patch_11">
     <path d="M 288 374.893694 
@@ -107,7 +107,7 @@ L 397.714286 374.893694
 L 397.714286 397.479691 
 L 288 397.479691 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #13857c"/>
+" clip-path="url(#p178402dd12)" style="fill: #13857c"/>
    </g>
    <g id="patch_12">
     <path d="M 288 441.323095 
@@ -115,18 +115,18 @@ L 397.714286 441.323095
 L 397.714286 463.909091 
 L 288 463.909091 
 z
-" clip-path="url(#p9d37229c1d)" style="fill: #13857c"/>
+" clip-path="url(#p178402dd12)" style="fill: #13857c"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m65d54bdeb3" d="M 0 0 
+       <path id="m73ee7417d5" d="M 0 0 
 L 0 3.5 
 " style="stroke: #405269; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m65d54bdeb3" x="288" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="288" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
@@ -136,7 +136,7 @@ L 0 3.5
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m65d54bdeb3" x="397.714286" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="397.714286" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
@@ -146,7 +146,7 @@ L 0 3.5
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m65d54bdeb3" x="507.428571" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="507.428571" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
@@ -156,7 +156,7 @@ L 0 3.5
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m65d54bdeb3" x="617.142857" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="617.142857" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
@@ -166,7 +166,7 @@ L 0 3.5
     <g id="xtick_5">
      <g id="line2d_5">
       <g>
-       <use xlink:href="#m65d54bdeb3" x="726.857143" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="726.857143" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_5">
@@ -176,7 +176,7 @@ L 0 3.5
     <g id="xtick_6">
      <g id="line2d_6">
       <g>
-       <use xlink:href="#m65d54bdeb3" x="836.571429" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m73ee7417d5" x="836.571429" y="479.52" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_6">
@@ -191,12 +191,12 @@ L 0 3.5
     <g id="ytick_1">
      <g id="line2d_7">
       <defs>
-       <path id="m17f4041294" d="M 0 0 
+       <path id="m74f89a090d" d="M 0 0 
 L -3.5 0 
 " style="stroke: #405269; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m17f4041294" x="288" y="174.941199" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m74f89a090d" x="288" y="174.941199" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_8">
@@ -206,7 +206,7 @@ L -3.5 0
     <g id="ytick_2">
      <g id="line2d_8">
       <g>
-       <use xlink:href="#m17f4041294" x="288" y="241.3706" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m74f89a090d" x="288" y="241.3706" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_9">
@@ -216,7 +216,7 @@ L -3.5 0
     <g id="ytick_3">
      <g id="line2d_9">
       <g>
-       <use xlink:href="#m17f4041294" x="288" y="307.8" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m74f89a090d" x="288" y="307.8" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_10">
@@ -226,7 +226,7 @@ L -3.5 0
     <g id="ytick_4">
      <g id="line2d_10">
       <g>
-       <use xlink:href="#m17f4041294" x="288" y="374.2294" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m74f89a090d" x="288" y="374.2294" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_11">
@@ -236,7 +236,7 @@ L -3.5 0
     <g id="ytick_5">
      <g id="line2d_11">
       <g>
-       <use xlink:href="#m17f4041294" x="288" y="440.658801" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m74f89a090d" x="288" y="440.658801" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_12">
@@ -255,22 +255,22 @@ L 864 479.52
 " style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="text_13">
-    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="677.485714" y="169.063907" transform="rotate(-0 677.485714 169.063907)">7</text>
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="622.628571" y="169.063907" transform="rotate(-0 622.628571 169.063907)">6</text>
    </g>
    <g id="text_14">
-    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="403.2" y="235.493308" transform="rotate(-0 403.2 235.493308)">2</text>
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="458.057143" y="235.493308" transform="rotate(-0 458.057143 235.493308)">3</text>
    </g>
    <g id="text_15">
     <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="512.914286" y="301.922708" transform="rotate(-0 512.914286 301.922708)">4</text>
    </g>
    <g id="text_16">
-    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="512.914286" y="368.352108" transform="rotate(-0 512.914286 368.352108)">4</text>
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="567.771429" y="368.352108" transform="rotate(-0 567.771429 368.352108)">5</text>
    </g>
    <g id="text_17">
     <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="348.342857" y="434.781509" transform="rotate(-0 348.342857 434.781509)">1</text>
    </g>
    <g id="text_18">
-    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="512.914286" y="192.978491" transform="rotate(-0 512.914286 192.978491)">4</text>
+    <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="567.771429" y="192.978491" transform="rotate(-0 567.771429 192.978491)">5</text>
    </g>
    <g id="text_19">
     <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="293.485714" y="259.407892" transform="rotate(-0 293.485714 259.407892)">0</text>
@@ -323,13 +323,13 @@ z
    <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="291.6" transform="rotate(-0 898.56 291.6)">유로  11 vs 15</text>
   </g>
   <g id="text_29">
-   <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="327.24" transform="rotate(-0 898.56 327.24)">자동 제어  2 vs 2</text>
+   <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="327.24" transform="rotate(-0 898.56 327.24)">자동 제어  3 vs 2</text>
   </g>
   <g id="text_30">
    <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="362.88" transform="rotate(-0 898.56 362.88)">열교환  10 vs 9</text>
   </g>
   <g id="text_31">
-   <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="398.52" transform="rotate(-0 898.56 398.52)">연결  6 vs 7</text>
+   <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="398.52" transform="rotate(-0 898.56 398.52)">연결  7 vs 7</text>
   </g>
   <g id="text_32">
    <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="898.56" y="434.16" transform="rotate(-0 898.56 434.16)">시설 냉각수 명시  3 vs 3</text>
@@ -338,12 +338,12 @@ z
    <text style="font-size: 17px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="92.16" y="567" transform="rotate(-0 92.16 567)">20건 중 V1과 같은 특허는 6건. 구성이 바뀌어도 유로·열교환·연결 기구가 상위 3개인 점은 같다.</text>
   </g>
   <g id="text_34">
-   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 596.323359)">출처: 미국 등록공보 독립항 1(새 14건 Google Patents 확인 2026.11.20, V1 6건은 11.17 코딩 유지). 기능 중복 코딩.</text>
+   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 596.323359)">출처: 미국 등록공보 독립항 1(새 14건 Google Patents 확인 2026.11.20, 11.21 원문 구절로 재검증, V1 6건은 11.17 코딩 유지). 기능 중복 코딩.</text>
    <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 613.98125)">목적표본의 구성 비교이며 전 산업 비중이 아님. 0은 이 항에서 미확인이라는 뜻. 행별 근거: data/v2/results/US_claim1_review_v2.csv</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p9d37229c1d">
+  <clipPath id="p178402dd12">
    <rect x="288" y="136.08" width="576" height="343.44"/>
   </clipPath>
  </defs>

@@ -1,0 +1,23 @@
+{
+  "patent": "US7106590B2",
+  "source_url": "https://patents.google.com/patent/US7106590B2/en#claims",
+  "retrieved": "2026-11-21",
+  "method": "Google Patents 페이지에서 청구항 1의 짧은 원문 구절(각 110자 미만)을 웹 도구로 추출했다. 전체 청구항 원문이 아니다. 문구 전체를 인용할 때는 source_url의 원문을 확인한다.",
+  "title": "Cooling system and method employing multiple dedicated coolant conditioning units for cooling multiple electronics subsystems",
+  "claim1_preamble": "A cooling system comprising",
+  "claim1_quotes": {
+    "유로·분배·순환": "the second cooling loop providing cooled system coolant to the associated electronics subsystem",
+    "자동 제어": "the control valve allows regulation of facility coolant flow through the heat exchanger",
+    "열교환·응축": "expelling heat in the heat exchanger from the associated electronics subsystem",
+    "시설 냉각수 명시": "receiving chilled facility coolant from a source"
+  },
+  "coding": {
+    "유로·분배·순환": 1,
+    "자동 제어": 1,
+    "열교환·응축": 1,
+    "연결·정비 기구": 0,
+    "시설 냉각수 명시": 1
+  },
+  "boundary_notes": {},
+  "other_independent_claims": "16, 28"
+}
