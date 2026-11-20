@@ -24,7 +24,7 @@ plt.rcParams.update({'font.family': fam, 'font.size': 16, 'axes.unicode_minus': 
 BLUE = '#355cbb'; TEAL = '#13857c'; LBLUE = '#c7d4ee'; LTEAL = '#bfe3de'; GRAY = '#e7ebf1'; INK2 = '#59677a'
 A = json.loads((R/'analysis_v2.json').read_text(encoding='utf-8'))
 checks = []
-INPLACE = {'01_출원추이', '01b_출원추이_최근10년', '02_출원인_HHI', '03_CPC_기능변화', '07_S커브_참조분석', 'A1_S커브_검증', '08_최근3년_주도기업', '09_최근3년_기술비중', '10_핵심경쟁자_특허현황', 'C1_V1_V2_비교'}
+INPLACE = {'01_출원추이', '01b_출원추이_최근10년', '02_출원인_HHI', '03_CPC_기능변화', '07_S커브_참조분석', 'A1_S커브_검증', '08_최근3년_주도기업', '09_최근3년_기술비중', '10_핵심경쟁자_특허현황', 'C1_V1_V2_비교', '04_청구항_기능비교', 'A2_청구항_20건_행렬'}
 def setup(title, sub=None):
     f = plt.figure(figsize=(16, 9), facecolor='white')
     f.text(.055, .93, title, fontsize=29, fontweight='bold', va='top')
@@ -39,7 +39,7 @@ def save(f, name, source):
         if bb.width and (bb.x0 < -1 or bb.x1 > f.bbox.width+1 or bb.y0 < -1 or bb.y1 > f.bbox.height+1): out.append(o.get_text())
     if out: raise RuntimeError(f'{name}: outside canvas {out}')
     f.savefig(FIG/f'{name}.png', dpi=160, facecolor='white'); f.savefig(FIG/'editable'/f'{name}.svg', facecolor='white')
-    if name in INPLACE:  # V2 검토 브랜치: 팀원1 그림은 deliverables/figures에도 덮어쓴다
+    if name in INPLACE:  # V2 검토 브랜치: 팀원1 그림과 V2 핵심 20건 그림(04·A2)은 deliverables/figures에도 덮어쓴다
         f.savefig(ROOT/'deliverables/figures'/f'{name}.png', dpi=160, facecolor='white'); f.savefig(ROOT/'deliverables/figures/editable'/f'{name}.svg', facecolor='white')
     checks.append(name); plt.close(f)
 def style(ax): ax.set_axisbelow(True); ax.grid(axis='y', color='#e6eaf0', lw=.8)

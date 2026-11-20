@@ -1,6 +1,6 @@
 # 발표용 도표
 
-> **V2 검토 브랜치:** 01·01b·02·03·07·08·09·10·A1·C1은 V2(키워드+CPC) 데이터 그림이다. 04·05·06·A2는 main과 같다. V2 계산값은 [data/v2/results/](../../data/v2/results/), 생성 코드는 [src/v2/figs_v2.py](../../src/v2/figs_v2.py)다.
+> **V2 검토 브랜치:** 01·01b·02·03·07·08·09·10·A1·C1은 V2(키워드+CPC) 데이터 그림, 04·A2는 V2 핵심특허 20건 그림이다. 05·06은 main과 같다. V2 계산값은 [data/v2/results/](../../data/v2/results/), 생성 코드는 [src/v2/figs_v2.py](../../src/v2/figs_v2.py)다.
 
 PNG 파일을 장표에 삽입하고 같은 번호의 [대본](../발표대본.md)을 사용하세요. 확대·편집용 SVG는 [editable/](editable/)에 있습니다. 전체 논리는 [인계서](../결과팀_인계.md), 그림의 계산값은 [data/results/final/](../../data/results/final/)에서 확인할 수 있습니다.
 

@@ -22,10 +22,10 @@ C = [  # 특허, 기술, 층, 권리자(원→현), 코드ABCDE, 주제, 청구�
  ('US10561040B1', 'DLC', '2017–2024', 'HPE', '00000', '가스켓으로 맞춘 냉각판 유로', '유연 가스켓과 보강판으로 두 판 사이 유로를 만들어, 높이가 다른 여러 부품을 냉각판 하나로 식힌다.', 'new'),
  ('US8014150B2', 'Immersion', '2000–2016', 'IBM', '00000', '침지 펌프 분사와 증기 분리 배플', '밀폐 구획 안 침지 펌프가 하부 냉각액을 부품에 분사하고, 배플이 증기를 위로 보내 흡입액과 섞이지 않게 한다.', 'new'),
  ('US7905106B2', 'Immersion', '2000–2016', 'LiquidCool Solutions', '10010', '침지 부품에 국부 유동 유도', '침지 서버 케이스 안 매니폴드·튜브·플리넘으로 특정 발열부품에 유동 집중.', 'V1'),
- ('US10512192B2', 'Immersion', '2000–2016', 'Mark Miyoshi (TMGcore 계열)', '00100', '응축실 분리로 작동유체 손실 저감', '2상 액침 냉각조에 응축실과 주 응축기, 분리된 보조실, 증기 유도 구조를 둔다.', 'new'),
+ ('US10512192B2', 'Immersion', '2000–2016', '개인 (Mark Miyoshi)', '00100', '응축실 분리로 작동유체 손실 저감', '2상 액침 냉각조에 응축실과 주 응축기, 분리된 보조실, 증기 유도 구조를 둔다.', 'new'),
  ('US8351206B2', 'Immersion', '2000–2016', 'IBM', '10101', '시설수 연결 수직 응축기', '침지 서브시스템의 증기를 수직 응축기에서 응축하고 저장조·펌프로 공급.', 'V1'),
  ('US8184436B2', 'Immersion', '2000–2016', 'IBM → Lenovo', '10101', '시설수 연계 응축·과냉 루프', '증기 응축기와 저장조 과냉 열교환기에 시설 냉각수를 직렬 공급.', 'V1'),
- ('US10966349B1', 'Immersion', '2017–2024', 'Bitfury', '00100', '보조 응축기를 둔 증기 관리 계통', '액침조 증기를 밸브가 달린 통로로 보조 응축실에 보내 응축하고, 액체를 다시 조로 돌려보낸다.', 'new'),
+ ('US10966349B1', 'Immersion', '2017–2024', 'Bitfury → LiquidStack', '00100', '보조 응축기를 둔 증기 관리 계통', '액침조 증기를 밸브가 달린 통로로 보조 응축실에 보내 응축하고, 액체를 다시 조로 돌려보낸다.', 'new'),
  ('US10939581B1', 'Immersion', '2017–2024', 'Quanta', '00010', '슬라이드 탱크의 하중 지지', '슬라이드 레일과 바닥 바퀴 지지구조로 운전 중 액침 탱크를 인출.', 'V1'),
  ('US10609839B1', 'Immersion', '2017–2024', 'LiquidCool Solutions', '10100', '매니폴드·튜브로 부품별 국부 유동', '펌프·열교환기를 거친 냉각액을 내부 매니폴드와 튜브로 발열부품 위 트레이에 보내고 위어로 넘겨 돌린다.', 'new'),
  ('US10750637B1', 'Immersion', '2017–2024', 'Microsoft', '00000', '서버 슬롯형 펌프·필터 모듈', '액침 랙의 서버 슬롯과 같은 크기 슬롯에 펌프·필터 모듈을 넣어 서버처럼 설치한다.', 'new'),
@@ -56,6 +56,14 @@ gr = pd.concat([read_v2_grants(t) for t in ['dlc', 'imm']]).drop_duplicates('Len
 gr['pid'] = gr['Display Key'].str.replace(r'\W', '', regex=True)
 bc = {r.pid: any(c.strip().startswith(('E04B', 'E04F', 'E04H', 'F24F')) for c in str(cc).split(';;')) for r, cc in zip(gr.itertuples(), gr['CPC Classifications'])}
 d['building_CPC'] = d.patent.map(lambda p: 'Y' if bc.get(p) else 'N')
+# Google Patents 상태 표시(자동 추정, 법적 결론 아님). 새 14건 2026-11-21 확인, V1 6건은 V1 표(2026-11-17) 값
+ST = {'US7012807B2': 'Expired - Lifetime', 'US6807056B2': 'Expired - Fee Related', 'US9273906B2': 'Expired - Fee Related',
+      'US7106590B2': 'Expired - Fee Related', 'US11553627B1': 'Active', 'US11751359B2': 'Active', 'US11395443B2': 'Active',
+      'US10561040B1': 'Active', 'US8014150B2': 'Active', 'US10512192B2': 'Active', 'US10966349B1': 'Active',
+      'US10609839B1': 'Active', 'US10750637B1': 'Active', 'US11096313B2': 'Active'}
+v1st = pd.read_csv(ROOT/'data/results/final/US_claim1_review_20.csv').set_index('patent')['status_google_assumption_20261117'].to_dict()
+d['status_google'] = [ST.get(p, v1st.get(p, '')) for p in d.patent]
+assert (d.status_google != '').all()
 d['evidence_note'] = ['V1 청구항 원문 캐시(data/raw/patent_claims) 기준' if s == 'V1' else 'Google Patents 청구항 1을 웹 도구로 읽어 구성요소별로 정리(원문 캐시 없음)' for s in d.coded_from]
 d.to_csv(R/'US_claim1_review_v2.csv', index=False, encoding='utf-8-sig')
 v1 = pd.read_csv(ROOT/'data/results/final/US_claim1_review_20.csv')
@@ -82,7 +90,7 @@ for f_ in F:
     a = int(d[d.technology == 'DLC'][f_].sum()); b = int(d[d.technology == 'Immersion'][f_].sum()); c = int(v1[f_].sum())
     L.append(f'| {f_} | {a} | {b} | {a+b} ({c}) |')
 L += ['', f"시설 냉각수가 명시된 것은 **{', '.join(fac.patent)}**의 {len(fac)}건이다. 건물·공조 CPC(E04B/F/H·F24F)는 {', '.join(fac.patent + ' ' + fac.building_CPC)}이다. V1처럼, 건물·공조 CPC가 없어도 시설 인터페이스를 다룰 수 있다는 반례다.", '',
-      'Google Patents 상태 표시(자동 추정)는 Active 13건, 만료·수수료 소멸 7건이다. 실효 권리·라이선스 필요 여부를 확정하지 않는다.', '',
+      f"Google Patents 상태 표시(자동 추정, 새 14건 2026-11-21 확인)는 Active {(d.status_google == 'Active').sum()}건, 만료·수수료 소멸 {(d.status_google != 'Active').sum()}건이다. IBM 원출원은 DLC {((d.technology == 'DLC') & d.owner.str.startswith('IBM')).sum()}건(모두 만료·소멸 표기), 액침 {((d.technology == 'Immersion') & d.owner.str.startswith('IBM')).sum()}건(2건 소멸 표기)이다. 실효 권리·라이선스 필요 여부를 확정하지 않는다.", '',
       '## V1과 달라진 점', '',
       '- V1 20건 중 14건이 빠졌다. 검색 범위가 넓어져 피인용이 더 많은 IBM·Hitachi(2000년대), Amazon·NVIDIA·CoolIT·HPE(최근) 특허가 들어왔다.',
       '- 초록·청구항 확인으로 7건을 핵심특허에서 뺐다. 랙 후면·측면 공기-액체 열교환(3), 룸 공조(1), 시설 단위 허브(1), 랙 단위 배기열 냉매 흡수(1), 개인용 PC 액침(1)이다(`data/v2/results/core_candidates_v2.csv`).',
