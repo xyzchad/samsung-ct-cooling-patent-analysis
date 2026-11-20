@@ -45,7 +45,7 @@ def save(f, name, source):
 def style(ax): ax.set_axisbelow(True); ax.grid(axis='y', color='#e6eaf0', lw=.8)
 M = lambda v, t: A[f'{v}_{t}']['metrics']
 SRC = ('출처: Lens.org 미국 특허, Filed 2000–2024, simple family, 연도=최우선일. V2 = 키워드 검색식 A·B(2026.11.09) + 데이터센터 액체냉각 CPC 검색(2026.11.20) 합집합.\n'
-       f"V2 DLC {M('V2','DLC')['total']:,}·액침 {M('V2','액침')['total']}개 패밀리(중복 {A['overlap']['V2']}). CPC로만 들어온 특허는 제목·초록 규칙으로 판정, 표본 정확도 DLC 85%·액침 100%.")
+       f"V2 DLC {M('V2','DLC')['total']:,}·액침 {M('V2','액침')['total']}개 패밀리(중복 {A['overlap']['V2']}). CPC로만 들어온 특허는 제목·초록 규칙으로 판정, 표본 정확도 DLC 85%·액침 92%(170건).")
 NAME = {'HEBEI QINHUAI DATA CO LTD': 'Hebei Qinhuai Data', 'SUZHOU METABRAIN INTELLIGENT TECHNOLOGY CO LTD': 'Suzhou Metabrain', 'FOXCONN (HON HAI)': 'Foxconn',
         'INTEL CORP': 'Intel', 'FUJITSU LTD': 'Fujitsu', 'WIWYNN CORP': 'Wiwynn', 'EXASCALER INC': 'ExaScaler', 'AMULAIRE THERMAL TECH INC': 'Amulaire',
         'INVENTEC': 'Inventec', 'DELL': 'Dell', 'MICROSOFT': 'Microsoft', 'BAIDU': 'Baidu', 'QUANTA': 'Quanta', 'NVIDIA': 'NVIDIA', 'HPE': 'HPE', 'OVH': 'OVH',
