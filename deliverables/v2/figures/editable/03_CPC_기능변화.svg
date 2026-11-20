@@ -1,0 +1,457 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-20T22:04:44.421156</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 103.68 473.04 
+L 529.92 473.04 
+L 529.92 162 
+L 103.68 162 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="ma3b9f37a7e" d="M 0 0 
+L 0 3.5 
+" style="stroke: #405269; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#ma3b9f37a7e" x="202.832086" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #405269" x="202.832086" y="493.24" transform="rotate(-0 202.832086 493.24)">유체 순환·연결</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#ma3b9f37a7e" x="430.767914" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #405269" x="430.767914" y="493.24" transform="rotate(-0 430.767914 493.24)">열·유량 제어</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_3">
+      <path d="M 103.68 473.04 
+L 529.92 473.04 
+" clip-path="url(#pb81855015a)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_4">
+      <defs>
+       <path id="m8af93f438a" d="M 0 0 
+L -3.5 0 
+" style="stroke: #405269; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8af93f438a" x="103.68" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="96.68" y="480.08" transform="rotate(-0 96.68 480.08)">0</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_5">
+      <path d="M 103.68 405.422609 
+L 529.92 405.422609 
+" clip-path="url(#pb81855015a)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m8af93f438a" x="103.68" y="405.422609" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="96.68" y="412.462609" transform="rotate(-0 96.68 412.462609)">20</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_7">
+      <path d="M 103.68 337.805217 
+L 529.92 337.805217 
+" clip-path="url(#pb81855015a)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8af93f438a" x="103.68" y="337.805217" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="96.68" y="344.845217" transform="rotate(-0 96.68 344.845217)">40</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_9">
+      <path d="M 103.68 270.187826 
+L 529.92 270.187826 
+" clip-path="url(#pb81855015a)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m8af93f438a" x="103.68" y="270.187826" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="96.68" y="277.227826" transform="rotate(-0 96.68 277.227826)">60</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <path d="M 103.68 202.570435 
+L 529.92 202.570435 
+" clip-path="url(#pb81855015a)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8af93f438a" x="103.68" y="202.570435" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="96.68" y="209.610435" transform="rotate(-0 96.68 209.610435)">80</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 16px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #24344a" x="71.785" y="317.52" transform="rotate(-90 71.785 317.52)">분류 포함 패밀리 (%)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 123.054545 473.04 
+L 200.552727 473.04 
+L 200.552727 309.405913 
+L 123.054545 309.405913 
+z
+" clip-path="url(#pb81855015a)" style="fill: #c7d4ee"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 205.111444 473.04 
+L 282.609626 473.04 
+L 282.609626 243.478957 
+L 205.111444 243.478957 
+z
+" clip-path="url(#pb81855015a)" style="fill: #355cbb"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 350.990374 473.04 
+L 428.488556 473.04 
+L 428.488556 358.428522 
+L 350.990374 358.428522 
+z
+" clip-path="url(#pb81855015a)" style="fill: #c7d4ee"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 433.047273 473.04 
+L 510.545455 473.04 
+L 510.545455 336.114783 
+L 433.047273 336.114783 
+z
+" clip-path="url(#pb81855015a)" style="fill: #355cbb"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 103.68 473.04 
+L 103.68 162 
+" style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 103.68 473.04 
+L 529.92 473.04 
+" style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_9">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(143.904222 291.834609)">48.4%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(134.316332 304.334609)">(194/401)</text>
+   </g>
+   <g id="text_10">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(225.961121 225.907652)">67.9%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(216.37323 238.407652)">(651/959)</text>
+   </g>
+   <g id="text_11">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(371.840051 340.857217)">33.9%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(362.252161 353.357217)">(136/401)</text>
+   </g>
+   <g id="text_12">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(453.89695 318.543478)">40.5%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(444.309059 331.043478)">(388/959)</text>
+   </g>
+   <g id="text_13">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #172c48" x="316.8" y="147" transform="rotate(-0 316.8 147)">DLC</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_9">
+     <path d="M 115.38 185.14 
+L 141.38 185.14 
+L 141.38 176.04 
+L 115.38 176.04 
+z
+" style="fill: #c7d4ee"/>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="151.78" y="185.14" transform="rotate(-0 151.78 185.14)">2015–2019</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 115.38 204.64 
+L 141.38 204.64 
+L 141.38 195.54 
+L 115.38 195.54 
+z
+" style="fill: #355cbb"/>
+    </g>
+    <g id="text_15">
+     <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="151.78" y="204.64" transform="rotate(-0 151.78 204.64)">2020–2024</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_11">
+    <path d="M 633.6 473.04 
+L 1059.84 473.04 
+L 1059.84 162 
+L 633.6 162 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_3">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#ma3b9f37a7e" x="732.752086" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #405269" x="732.752086" y="493.24" transform="rotate(-0 732.752086 493.24)">유체 순환·연결</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#ma3b9f37a7e" x="960.687914" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 15px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #405269" x="960.687914" y="493.24" transform="rotate(-0 960.687914 493.24)">열·유량 제어</text>
+     </g>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_6">
+     <g id="line2d_15">
+      <path d="M 633.6 473.04 
+L 1059.84 473.04 
+" clip-path="url(#p7040a8bb71)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m8af93f438a" x="633.6" y="473.04" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="626.6" y="480.08" transform="rotate(-0 626.6 480.08)">0</text>
+     </g>
+    </g>
+    <g id="ytick_7">
+     <g id="line2d_17">
+      <path d="M 633.6 405.422609 
+L 1059.84 405.422609 
+" clip-path="url(#p7040a8bb71)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m8af93f438a" x="633.6" y="405.422609" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="626.6" y="412.462609" transform="rotate(-0 626.6 412.462609)">20</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_19">
+      <path d="M 633.6 337.805217 
+L 1059.84 337.805217 
+" clip-path="url(#p7040a8bb71)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m8af93f438a" x="633.6" y="337.805217" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="626.6" y="344.845217" transform="rotate(-0 626.6 344.845217)">40</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_21">
+      <path d="M 633.6 270.187826 
+L 1059.84 270.187826 
+" clip-path="url(#p7040a8bb71)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m8af93f438a" x="633.6" y="270.187826" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="626.6" y="277.227826" transform="rotate(-0 626.6 277.227826)">60</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_23">
+      <path d="M 633.6 202.570435 
+L 1059.84 202.570435 
+" clip-path="url(#p7040a8bb71)" style="fill: none; stroke: #e6eaf0; stroke-width: 0.8; stroke-linecap: square"/>
+     </g>
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m8af93f438a" x="633.6" y="202.570435" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="626.6" y="209.610435" transform="rotate(-0 626.6 209.610435)">80</text>
+     </g>
+    </g>
+    <g id="text_23">
+     <text style="font-size: 16px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #24344a" x="601.705" y="317.52" transform="rotate(-90 601.705 317.52)">분류 포함 패밀리 (%)</text>
+    </g>
+   </g>
+   <g id="patch_12">
+    <path d="M 652.974545 473.04 
+L 730.472727 473.04 
+L 730.472727 289.79687 
+L 652.974545 289.79687 
+z
+" clip-path="url(#p7040a8bb71)" style="fill: #bfe3de"/>
+   </g>
+   <g id="patch_13">
+    <path d="M 735.031444 473.04 
+L 812.529626 473.04 
+L 812.529626 261.735652 
+L 735.031444 261.735652 
+z
+" clip-path="url(#p7040a8bb71)" style="fill: #13857c"/>
+   </g>
+   <g id="patch_14">
+    <path d="M 880.910374 473.04 
+L 958.408556 473.04 
+L 958.408556 377.023304 
+L 880.910374 377.023304 
+z
+" clip-path="url(#p7040a8bb71)" style="fill: #bfe3de"/>
+   </g>
+   <g id="patch_15">
+    <path d="M 962.967273 473.04 
+L 1040.465455 473.04 
+L 1040.465455 387.504 
+L 962.967273 387.504 
+z
+" clip-path="url(#p7040a8bb71)" style="fill: #13857c"/>
+   </g>
+   <g id="patch_16">
+    <path d="M 633.6 473.04 
+L 633.6 162 
+" style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 633.6 473.04 
+L 1059.84 473.04 
+" style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_24">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(673.824222 272.225565)">54.2%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(667.705082 284.725565)">(84/155)</text>
+   </g>
+   <g id="text_25">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(755.881121 244.164348)">62.5%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(746.29323 256.664348)">(272/435)</text>
+   </g>
+   <g id="text_26">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(901.760051 359.452)">28.4%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(895.640911 371.952)">(44/155)</text>
+   </g>
+   <g id="text_27">
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(983.81695 369.932696)">25.3%</text>
+    <text style="font-size: 12.5px; font-family: 'Noto Sans CJK KR'; fill: #172c48" transform="translate(974.229059 382.432696)">(110/435)</text>
+   </g>
+   <g id="text_28">
+    <text style="font-weight: 700; font-size: 22px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #172c48" x="846.72" y="147" transform="rotate(-0 846.72 147)">액침</text>
+   </g>
+   <g id="legend_2">
+    <g id="patch_18">
+     <path d="M 645.3 185.14 
+L 671.3 185.14 
+L 671.3 176.04 
+L 645.3 176.04 
+z
+" style="fill: #bfe3de"/>
+    </g>
+    <g id="text_29">
+     <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="681.7" y="185.14" transform="rotate(-0 681.7 185.14)">2015–2019</text>
+    </g>
+    <g id="patch_19">
+     <path d="M 645.3 204.64 
+L 671.3 204.64 
+L 671.3 195.54 
+L 645.3 195.54 
+z
+" style="fill: #13857c"/>
+    </g>
+    <g id="text_30">
+     <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: start; fill: #172c48" x="681.7" y="204.64" transform="rotate(-0 681.7 204.64)">2020–2024</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_31">
+   <text style="font-weight: 700; font-size: 29px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="63.36" y="70.88" transform="rotate(-0 63.36 70.88)">미국 특허의 기능별 CPC 비중 변화</text>
+  </g>
+  <g id="text_32">
+   <text style="font-size: 16px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #59677a" x="63.36" y="108.04" transform="rotate(-0 63.36 108.04)">2015–2019 대비 2020–2024 · 한 특허에 여러 기능군이 붙을 수 있어 합계는 100%가 아님</text>
+  </g>
+  <g id="text_33">
+   <text style="font-size: 17px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="92.16" y="544.32" transform="rotate(-0 92.16 544.32)">V1 유체 순환·연결: DLC 46.2→67.6%, 액침 30.4→67.5%. 증가 방향은 같다.</text>
+  </g>
+  <g id="text_34">
+   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 596.65668)">출처: V2 데이터 + CPC 공식 분류표. 순환: H05K7/20272·7/20327, F04·F16L. 제어: H05K7/20281·7/20381·7/207·7/20836, G06F1/206, G05B·G05D.</text>
+   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 614.55625)">분류 포함 비중이며 기술 비중을 그대로 뜻하지 않음.</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pb81855015a">
+   <rect x="103.68" y="162" width="426.24" height="311.04"/>
+  </clipPath>
+  <clipPath id="p7040a8bb71">
+   <rect x="633.6" y="162" width="426.24" height="311.04"/>
+  </clipPath>
+ </defs>
+</svg>

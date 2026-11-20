@@ -1,0 +1,19 @@
+﻿version,competitor,n10,n3,dlc,imm
+V1,삼성물산,1,1,0,1
+V1,Trane (LiquidStack 포함),2,2,0,2
+V1,Vertiv (Liebert·CoolTera 포함),3,3,3,0
+V1,Ecolab (CoolIT 포함),0,0,0,0
+V1,Schneider (APC·Motivair 포함),2,1,2,1
+V1,LG전자,0,0,0,0
+V1,GRC,1,0,0,1
+V1,Baidu,83,8,61,24
+V1,NVIDIA,57,19,55,5
+V2,삼성물산,2,2,0,2
+V2,Trane (LiquidStack 포함),8,6,0,8
+V2,Vertiv (Liebert·CoolTera 포함),9,8,8,1
+V2,Ecolab (CoolIT 포함),5,3,5,0
+V2,Schneider (APC·Motivair 포함),8,3,7,2
+V2,LG전자,0,0,0,0
+V2,GRC,8,5,1,7
+V2,Baidu,204,18,163,44
+V2,NVIDIA,85,32,83,5
