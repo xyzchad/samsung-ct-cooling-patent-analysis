@@ -46,7 +46,13 @@ Q = {'US7012807B2': '서랍 도킹 시 냉각판 접촉 열저항과 정비 중 
      'US10750637B1': '펌프·필터를 서버처럼 교체하는 모듈화와 정비성', 'US11096313B2': '고발열 칩 국부 냉각과 침지 수위 관리'}
 v1q = pd.read_csv(ROOT/'data/results/final/US_claim1_review_20.csv').set_index('patent')['strategy_implication'].to_dict()
 d['project_question'] = [Q.get(p, v1q.get(p, '')) for p in d.patent]
-gr = pd.concat([pd.read_csv(ROOT/f'data/v2/processed/us_{t}_v2_granted.csv.xz') for t in ['dlc', 'imm']]).drop_duplicates('Lens ID')
+def read_v2_grants(tech):
+    base = ROOT/f'data/v2/processed/us_{tech}_v2_granted.csv'
+    # Prefer freshly generated CSVs; fall back to the compressed repository copy.
+    path = base if base.exists() else base.with_suffix(base.suffix + '.xz')
+    return pd.read_csv(path)
+
+gr = pd.concat([read_v2_grants(t) for t in ['dlc', 'imm']]).drop_duplicates('Lens ID')
 gr['pid'] = gr['Display Key'].str.replace(r'\W', '', regex=True)
 bc = {r.pid: any(c.strip().startswith(('E04B', 'E04F', 'E04H', 'F24F')) for c in str(cc).split(';;')) for r, cc in zip(gr.itertuples(), gr['CPC Classifications'])}
 d['building_CPC'] = d.patent.map(lambda p: 'Y' if bc.get(p) else 'N')
