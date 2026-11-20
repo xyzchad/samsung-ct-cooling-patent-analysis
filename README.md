@@ -10,7 +10,7 @@
 | 발표에 넣을 그래프·표 | **[도표 9개 미리보기](deliverables/figures/README.md)** |
 | 슬라이드별 설명과 예상 질문 | **[발표 대본](deliverables/발표대본.md)** |
 | 특허별 구성·원문 근거 | [미국 20건 청구항 분석](deliverables/미국특허_20건_청구항분석.md) |
-| 공동 작업 문서 | [Google Doc](https://docs.google.com/document/d/1gdqanemc4TsPONHaqhrfS12931u0uNu7egjQEBJruGs) |
+| 공동 작업 문서 | [Google Doc](https://docs.google.com/document/d/1ex7nN3dSboqUueEwZ7vztGPirsHuLw11Vhh6m74vhvo/edit)|
 
 결과팀은 인계서 → 도표 → 대본 순서로 읽으면 됩니다. 세부 계산이나 원자료가 필요할 때 아래 폴더를 확인하세요.
 
