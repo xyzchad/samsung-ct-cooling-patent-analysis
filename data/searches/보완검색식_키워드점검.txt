@@ -1,0 +1,44 @@
+삼성물산 냉각 특허분석 - 보완 검색식 (키워드 누락 점검용, 2026-11-20)
+각 검색식은 한 줄이다. 메모장 등에서 줄 전체를 복사해 Lens 검색창에 붙여넣는다.
+(채팅이나 PDF에서 복사하면 따옴표 모양이 바뀌어 오류가 날 수 있다.)
+
+[공통 필터]
+Jurisdiction = United States
+Date Range = Filed  (Published 아님!)
+결과 단위 = Simple Families
+다운로드 = Export > CSV (가능한 모든 열)
+
+==================================================
+검색식 A2 (DLC 빠진 단어 점검) - 기간 Filed 2000-01-01 ~ 2024-12-31
+뜻: 새 단어(coldplate, cooling plate, water cooled 등)로만 걸리고, 기존 검색식 A 단어로는 안 걸리는 특허만 찾는다.
+파일 이름: us_dlc_addterms.csv
+--------------------------------------------------
+(title:(coldplate OR coldplates OR "cooling plate" OR "cooling plates" OR "water cooled" OR "water-cooled" OR "water cooling" OR "liquid-cooling" OR "two-phase cold plate") OR abstract:(coldplate OR coldplates OR "cooling plate" OR "cooling plates" OR "water cooled" OR "water-cooled" OR "water cooling" OR "liquid-cooling" OR "two-phase cold plate")) AND (title:(server OR servers OR "data center" OR "data centre" OR datacenter OR rack) OR abstract:(server OR servers OR "data center" OR "data centre" OR datacenter OR rack)) NOT title:("cold plate" OR "cold plates" OR "direct liquid cooling" OR "direct-to-chip" OR "coolant distribution unit" OR "liquid cooling" OR "liquid cooled" OR "liquid-cooled") NOT abstract:("cold plate" OR "cold plates" OR "direct liquid cooling" OR "direct-to-chip" OR "coolant distribution unit" OR "liquid cooling" OR "liquid cooled" OR "liquid-cooled") NOT title:(immersion OR immersed OR vehicle OR battery OR inverter OR transformer)
+
+==================================================
+검색식 B2 (액침 빠진 단어 점검) - 기간 Filed 2000-01-01 ~ 2024-12-31
+뜻: 새 단어(submersion, immersive, dielectric coolant 등)로만 걸리고, 기존 검색식 B 단어로는 안 걸리는 특허만 찾는다.
+파일 이름: us_imm_addterms.csv
+--------------------------------------------------
+(title:(submersion OR submersed OR immersive OR "dielectric coolant" OR "dielectric coolants" OR "pool boiling") OR abstract:(submersion OR submersed OR immersive OR "dielectric coolant" OR "dielectric coolants" OR "pool boiling")) AND (title:cooling OR abstract:cooling) AND (title:(server OR servers OR "data center" OR "data centre" OR datacenter OR rack) OR abstract:(server OR servers OR "data center" OR "data centre" OR datacenter OR rack)) NOT title:(immersion OR immersed OR submerged OR "dielectric fluid" OR "dielectric liquid") NOT abstract:(immersion OR immersed OR submerged OR "dielectric fluid" OR "dielectric liquid") NOT title:(lithography OR vehicle OR battery OR transformer)
+
+==================================================
+검색식 D (경쟁자 회사 이름 검색, 서버 조건 없음) - 기간 Filed 2015-01-01 ~ 2024-12-31
+뜻: 경쟁자와 인수 회사가 낸 전자장비 액체냉각 특허를 서버·데이터센터 단어 없이 찾는다.
+파일 이름: us_competitors.csv
+--------------------------------------------------
+applicant.name:(Vertiv OR Liebert OR CoolTera OR Schneider OR "American Power Conversion" OR Motivair OR Trane OR LiquidStack OR Ecolab OR CoolIT OR "LG Electronics" OR "Green Revolution Cooling" OR "Samsung C&T") AND (title:("cold plate" OR coldplate OR "liquid cooling" OR "liquid cooled" OR "liquid-cooled" OR immersion OR immersed OR submersion OR submerged OR "coolant distribution" OR "dielectric fluid" OR "heat exchanger" OR coolant) OR abstract:("cold plate" OR coldplate OR "liquid cooling" OR "liquid cooled" OR "liquid-cooled" OR immersion OR immersed OR submersion OR submerged OR "coolant distribution" OR "dielectric fluid")) AND (title:(electronic OR electronics OR processor OR server OR computer OR computing OR chip OR rack OR "data center" OR datacenter OR "heat-generating" OR "IT equipment") OR abstract:(electronic OR electronics OR processor OR server OR computer OR computing OR chip OR rack OR "data center" OR datacenter OR "heat-generating" OR "IT equipment"))
+
+검색식 D에서 applicant.name 부분이 오류가 나면:
+- 앞의 applicant.name:( ... ) AND 부분을 지우고 나머지만 검색한 뒤,
+- 왼쪽 필터의 Applicant 칸에 회사 이름을 하나씩 넣어 걸러서 받는다.
+
+==================================================
+[결과 파일 3개를 받은 뒤]
+파일을 보내주면 Claude가 다음을 한다.
+1. 기존 데이터(DLC 447, 액침 163)와 패밀리 단위로 겹치는지 대조
+2. 새로 걸린 특허를 제목·초록으로 한 건씩 관련성 판정
+3. 관련 특허 수 / 기존 건수 = 누락 비율 계산
+   - 5% 미만: 한계에 한 줄 기록하고 본 분석은 유지
+   - 5% 이상: 결과를 보고 반영 여부를 다시 정함
+4. 경쟁자 표를 회사별 실제 냉각 특허 수로 보완
