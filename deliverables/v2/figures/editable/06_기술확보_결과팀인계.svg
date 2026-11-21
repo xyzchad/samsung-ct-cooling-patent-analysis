@@ -1,0 +1,184 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="1152pt" height="648pt" viewBox="0 0 1152 648" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-11-18T14:41:14.349573</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 648
+L 1152 648
+L 1152 0
+L 0 0
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="table_1">
+    <g id="patch_2">
+     <path d="M 63.36 218.7
+L 309.4272 218.7
+L 309.4272 116.64
+L 63.36 116.64
+z
+" style="fill: #edf2fb; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_1">
+     <text style="font-weight: 700; font-size: 18px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #214a8d" x="73.202688" y="174.266719" transform="rotate(-0 73.202688 174.266719)">대안</text>
+    </g>
+    <g id="patch_3">
+     <path d="M 309.4272 218.7
+L 658.0224 218.7
+L 658.0224 116.64
+L 309.4272 116.64
+z
+" style="fill: #edf2fb; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_2">
+     <text style="font-weight: 700; font-size: 18px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #214a8d" x="323.371008" y="174.266719" transform="rotate(-0 323.371008 174.266719)">현재 근거</text>
+    </g>
+    <g id="patch_4">
+     <path d="M 658.0224 218.7
+L 1088.64 218.7
+L 1088.64 116.64
+L 658.0224 116.64
+z
+" style="fill: #edf2fb; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_3">
+     <text style="font-weight: 700; font-size: 18px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #214a8d" x="675.247104" y="174.266719" transform="rotate(-0 675.247104 174.266719)">결과팀이 평가할 조건</text>
+    </g>
+    <g id="patch_5">
+     <path d="M 63.36 320.76
+L 309.4272 320.76
+L 309.4272 218.7
+L 63.36 218.7
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_4">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 260.676563)">액침 공동개발</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 291.978281)">+ 시설 통합</text>
+    </g>
+    <g id="patch_6">
+     <path d="M 309.4272 320.76
+L 658.0224 320.76
+L 658.0224 218.7
+L 309.4272 218.7
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_5">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 260.623125)">데이터빈 공동등록 2건</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 291.924844)">삼성물산 공식 개발 협력 설명</text>
+    </g>
+    <g id="patch_7">
+     <path d="M 658.0224 320.76
+L 1088.64 320.76
+L 1088.64 218.7
+L 658.0224 218.7
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_6">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 260.623125)">개선기술 귀속·설계변경 권한</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 291.988125)">부하 변화·누수·정비 실증 / 개발비</text>
+    </g>
+    <g id="patch_8">
+     <path d="M 63.36 422.82
+L 309.4272 422.82
+L 309.4272 320.76
+L 63.36 320.76
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 362.736562)">DLC·액침 조달</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 394.038281)">+ 통합 서비스</text>
+    </g>
+    <g id="patch_9">
+     <path d="M 309.4272 422.82
+L 658.0224 422.82
+L 658.0224 320.76
+L 309.4272 320.76
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 362.736562)">기술군별 다양한 출원인·설계</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 394.056562)">삼성물산–GRC 사업협약</text>
+    </g>
+    <g id="patch_10">
+     <path d="M 658.0224 422.82
+L 1088.64 422.82
+L 1088.64 320.76
+L 658.0224 320.76
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_9">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 362.745)">서버 호환성·납기·가격·유지보수</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 394.056562)">제어 인터페이스·운전 데이터 접근</text>
+    </g>
+    <g id="patch_11">
+     <path d="M 63.36 524.88
+L 309.4272 524.88
+L 309.4272 422.82
+L 63.36 422.82
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_10">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 464.743125)">독자 장비개발</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(73.202688 496.116562)">또는 지분투자</text>
+    </g>
+    <g id="patch_12">
+     <path d="M 309.4272 524.88
+L 658.0224 524.88
+L 658.0224 422.82
+L 309.4272 422.82
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_11">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 464.743125)">현재 특허만으로</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(323.371008 496.063125)">필요성·수익성 확정 불가</text>
+    </g>
+    <g id="patch_13">
+     <path d="M 658.0224 524.88
+L 1088.64 524.88
+L 1088.64 422.82
+L 658.0224 422.82
+z
+" style="fill: #ffffff; stroke: #d5dde7; stroke-width: 0.7; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_12">
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 464.724844)">협력·구매보다 추가로 얻는 통제권</text>
+     <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; fill: #172c48" transform="translate(675.247104 496.116562)">개발·투자비와 공급 의존도 비교</text>
+    </g>
+   </g>
+  </g>
+  <g id="text_13">
+   <text style="font-weight: 700; font-size: 29px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="63.36" y="71.46" transform="rotate(-0 63.36 71.46)">공동개발과 조달을 비교하고, 통합설계 역량을 축적</text>
+  </g>
+  <g id="text_14">
+   <text style="font-size: 11.5px; font-family: 'Apple SD Gothic Neo'; fill: #59677a" transform="translate(63.36 591.976719)">근거: KIPRIS 공동등록 / 삼성물산 Newsroom 2025.09.11 / GRC 공식 사업협약 2025.06.03. 표는 분석에 따른 비교 대안.</text>
+   <text style="font-size: 11.5px; font-family: 'Apple SD Gothic Neo'; fill: #59677a" transform="translate(63.36 612.647969)">GRC 투자 주체인 삼성벤처투자와 삼성물산을 구별. 특허 수로 AHP 점수·최종 순위를 대신하지 않음.</text>
+  </g>
+ </g>
+</svg>

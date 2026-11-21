@@ -1,0 +1,21 @@
+{
+  "patent": "US6807056B2",
+  "source_url": "https://patents.google.com/patent/US6807056B2/en#claims",
+  "retrieved": "2026-11-21",
+  "method": "Google Patents 페이지에서 청구항 1의 짧은 원문 구절(각 110자 미만)을 웹 도구로 추출했다. 전체 청구항 원문이 아니다. 문구 전체를 인용할 때는 source_url의 원문을 확인한다.",
+  "title": "Electronic equipment",
+  "claim1_preamble": "Electronic equipment",
+  "claim1_quotes": {
+    "유로·분배·순환": "a second fluid circulator for circulating the fluid through the second heat receiver",
+    "열교환·응축": "a first heat exchanger for discharging heat of the fluid"
+  },
+  "coding": {
+    "유로·분배·순환": 1,
+    "자동 제어": 0,
+    "열교환·응축": 1,
+    "연결·정비 기구": 0,
+    "시설 냉각수 명시": 0
+  },
+  "boundary_notes": {},
+  "other_independent_claims": "5, 10, 12, 16, 18, 23, 25, 29"
+}

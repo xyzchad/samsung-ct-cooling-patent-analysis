@@ -1,0 +1,20 @@
+{
+  "patent": "US10512192B2",
+  "source_url": "https://patents.google.com/patent/US10512192B2/en#claims",
+  "retrieved": "2026-11-21",
+  "method": "Google Patents 페이지에서 청구항 1의 짧은 원문 구절(각 110자 미만)을 웹 도구로 추출했다. 전체 청구항 원문이 아니다. 문구 전체를 인용할 때는 source_url의 원문을 확인한다.",
+  "title": "Immersion cooling system with low fluid loss",
+  "claim1_preamble": "A two-phase immersion cooling system, including",
+  "claim1_quotes": {
+    "열교환·응축": "a primary condenser in thermal communication with the condensing chamber"
+  },
+  "coding": {
+    "유로·분배·순환": 0,
+    "자동 제어": 0,
+    "열교환·응축": 1,
+    "연결·정비 기구": 0,
+    "시설 냉각수 명시": 0
+  },
+  "boundary_notes": {},
+  "other_independent_claims": "14"
+}

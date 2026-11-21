@@ -6,11 +6,11 @@
   <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
    <cc:Work>
     <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
-    <dc:date>2026-11-18T14:41:13.794922</dc:date>
+    <dc:date>2026-11-20T22:04:44.117026</dc:date>
     <dc:format>image/svg+xml</dc:format>
     <dc:creator>
      <cc:Agent>
-      <dc:title>Matplotlib v3.11.0, https://matplotlib.org/</dc:title>
+      <dc:title>Matplotlib v3.11.2, https://matplotlib.org/</dc:title>
      </cc:Agent>
     </dc:creator>
    </cc:Work>
@@ -21,472 +21,462 @@
  </defs>
  <g id="figure_1">
   <g id="patch_1">
-   <path d="M 0 648
-L 1152 648
-L 1152 0
-L 0 0
+   <path d="M 0 648 
+L 1152 648 
+L 1152 0 
+L 0 0 
 z
 " style="fill: #ffffff"/>
   </g>
   <g id="axes_1">
    <g id="patch_2">
-    <path d="M 253.44 466.56
-L 541.44 466.56
-L 541.44 149.04
-L 253.44 149.04
+    <path d="M 253.44 486 
+L 541.44 486 
+L 541.44 149.04 
+L 253.44 149.04 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_3">
-    <path d="M 253.44 163.472727
-L 446.494945 163.472727
-L 446.494945 195.317179
-L 253.44 195.317179
+    <path d="M 253.44 164.356364 
+L 476.16 164.356364 
+L 476.16 198.150476 
+L 253.44 198.150476 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="patch_4">
-    <path d="M 253.44 214.834746
-L 427.505934 214.834746
-L 427.505934 246.679198
-L 253.44 246.679198
+    <path d="M 253.44 218.862996 
+L 380.16 218.862996 
+L 380.16 252.657108 
+L 253.44 252.657108 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="patch_5">
-    <path d="M 253.44 266.196765
-L 342.055385 266.196765
-L 342.055385 298.041216
-L 253.44 298.041216
+    <path d="M 253.44 273.369628 
+L 366.72 273.369628 
+L 366.72 307.16374 
+L 253.44 307.16374 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="patch_6">
-    <path d="M 253.44 317.558784
-L 323.066374 317.558784
-L 323.066374 349.403235
-L 253.44 349.403235
+    <path d="M 253.44 327.87626 
+L 341.76 327.87626 
+L 341.76 361.670372 
+L 253.44 361.670372 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="patch_7">
-    <path d="M 253.44 368.920802
-L 310.407033 368.920802
-L 310.407033 400.765254
-L 253.44 400.765254
+    <path d="M 253.44 382.382892 
+L 322.56 382.382892 
+L 322.56 416.177004 
+L 253.44 416.177004 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="patch_8">
-    <path d="M 253.44 420.282821
-L 300.912527 420.282821
-L 300.912527 452.127273
-L 253.44 452.127273
+    <path d="M 253.44 436.889524 
+L 311.04 436.889524 
+L 311.04 470.683636 
+L 253.44 470.683636 
 z
-" clip-path="url(#p38c13f968c)" style="fill: #355cbb"/>
+" clip-path="url(#p7dd7fd49ec)" style="fill: #355cbb"/>
    </g>
    <g id="matplotlib.axis_1">
     <g id="xtick_1">
      <g id="line2d_1">
       <defs>
-       <path id="m8ae8f41600" d="M 0 0
-L 0 3.5
+       <path id="m45e6b7ff46" d="M 0 0 
+L 0 3.5 
 " style="stroke: #405269; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m8ae8f41600" x="253.44" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="253.44" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_1">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="253.44" y="487.96" transform="rotate(-0 253.44 487.96)">0</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="253.44" y="507.08" transform="rotate(-0 253.44 507.08)">0</text>
      </g>
     </g>
     <g id="xtick_2">
      <g id="line2d_2">
       <g>
-       <use xlink:href="#m8ae8f41600" x="311.04" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="349.44" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_2">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="311.04" y="487.96" transform="rotate(-0 311.04 487.96)">5</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="349.44" y="507.08" transform="rotate(-0 349.44 507.08)">5</text>
      </g>
     </g>
     <g id="xtick_3">
      <g id="line2d_3">
       <g>
-       <use xlink:href="#m8ae8f41600" x="368.64" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="445.44" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_3">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="368.64" y="487.96" transform="rotate(-0 368.64 487.96)">10</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="445.44" y="507.08" transform="rotate(-0 445.44 507.08)">10</text>
      </g>
     </g>
     <g id="xtick_4">
      <g id="line2d_4">
       <g>
-       <use xlink:href="#m8ae8f41600" x="426.24" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="541.44" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_4">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="426.24" y="487.96" transform="rotate(-0 426.24 487.96)">15</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="541.44" y="507.08" transform="rotate(-0 541.44 507.08)">15</text>
      </g>
     </g>
-    <g id="xtick_5">
-     <g id="line2d_5">
-      <g>
-       <use xlink:href="#m8ae8f41600" x="483.84" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_5">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="483.84" y="487.96" transform="rotate(-0 483.84 487.96)">20</text>
-     </g>
-    </g>
-    <g id="xtick_6">
-     <g id="line2d_6">
-      <g>
-       <use xlink:href="#m8ae8f41600" x="541.44" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_6">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="541.44" y="487.96" transform="rotate(-0 541.44 487.96)">25</text>
-     </g>
-    </g>
-    <g id="text_7">
-     <text style="font-size: 14px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #24344a" x="397.44" y="509.36" transform="rotate(-0 397.44 509.36)">출원인–패밀리 쌍 비중 (%)</text>
+    <g id="text_5">
+     <text style="font-size: 14px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #24344a" x="397.44" y="525.32" transform="rotate(-0 397.44 525.32)">출원인–패밀리 쌍 비중 (%)</text>
     </g>
    </g>
    <g id="matplotlib.axis_2">
     <g id="ytick_1">
-     <g id="line2d_7">
+     <g id="line2d_5">
       <defs>
-       <path id="m6754646895" d="M 0 0
-L -3.5 0
+       <path id="mb40134016e" d="M 0 0 
+L -3.5 0 
 " style="stroke: #405269; stroke-width: 0.8"/>
       </defs>
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="179.394953" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="181.25342" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_8">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="185.244953" transform="rotate(-0 246.44 185.244953)">BAIDU</text>
+     <g id="text_6">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="186.97342" transform="rotate(-0 246.44 186.97342)">Baidu</text>
      </g>
     </g>
     <g id="ytick_2">
-     <g id="line2d_8">
+     <g id="line2d_6">
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="230.756972" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="235.760052" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_9">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="236.606972" transform="rotate(-0 246.44 236.606972)">NVIDIA</text>
+     <g id="text_7">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="241.480052" transform="rotate(-0 246.44 241.480052)">Dell</text>
      </g>
     </g>
     <g id="ytick_3">
-     <g id="line2d_9">
+     <g id="line2d_7">
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="282.118991" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="290.266684" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_10">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="287.968991" transform="rotate(-0 246.44 287.968991)">DELL</text>
+     <g id="text_8">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="295.986684" transform="rotate(-0 246.44 295.986684)">NVIDIA</text>
      </g>
     </g>
     <g id="ytick_4">
-     <g id="line2d_10">
+     <g id="line2d_8">
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="333.481009" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="344.773316" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_11">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="339.331009" transform="rotate(-0 246.44 339.331009)">Hebei Qinhuai CO LTD</text>
+     <g id="text_9">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="350.493316" transform="rotate(-0 246.44 350.493316)">HPE</text>
      </g>
     </g>
     <g id="ytick_5">
-     <g id="line2d_11">
+     <g id="line2d_9">
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="384.843028" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="399.279948" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_12">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="390.693028" transform="rotate(-0 246.44 390.693028)">INVENTEC</text>
+     <g id="text_10">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="404.999948" transform="rotate(-0 246.44 404.999948)">Inventec</text>
      </g>
     </g>
     <g id="ytick_6">
-     <g id="line2d_12">
+     <g id="line2d_10">
       <g>
-       <use xlink:href="#m6754646895" x="253.44" y="436.205047" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="253.44" y="453.78658" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_13">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="246.44" y="442.055047" transform="rotate(-0 246.44 442.055047)">OVH</text>
+     <g id="text_11">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="246.44" y="459.50658" transform="rotate(-0 246.44 459.50658)">Quanta</text>
      </g>
     </g>
    </g>
    <g id="patch_9">
-    <path d="M 253.44 466.56
-L 253.44 149.04
+    <path d="M 253.44 486 
+L 253.44 149.04 
 " style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_10">
-    <path d="M 253.44 466.56
-L 541.44 466.56
+    <path d="M 253.44 486 
+L 541.44 486 
 " style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
+   <g id="text_12">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="481.92" y="185.81342" transform="rotate(-0 481.92 185.81342)">11.6% · 163건</text>
+   </g>
+   <g id="text_13">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="385.92" y="240.320052" transform="rotate(-0 385.92 240.320052)">6.6% · 93건</text>
+   </g>
    <g id="text_14">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="451.678945" y="182.994953" transform="rotate(-0 451.678945 182.994953)">16.8% · 61건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="372.48" y="294.826684" transform="rotate(-0 372.48 294.826684)">5.9% · 83건</text>
    </g>
    <g id="text_15">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="432.689934" y="234.356972" transform="rotate(-0 432.689934 234.356972)">15.1% · 55건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="347.52" y="349.333316" transform="rotate(-0 347.52 349.333316)">4.6% · 64건</text>
    </g>
    <g id="text_16">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="347.239385" y="285.718991" transform="rotate(-0 347.239385 285.718991)">7.7% · 28건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="328.32" y="403.839948" transform="rotate(-0 328.32 403.839948)">3.6% · 51건</text>
    </g>
    <g id="text_17">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="328.250374" y="337.081009" transform="rotate(-0 328.250374 337.081009)">6.0% · 22건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="316.8" y="458.34658" transform="rotate(-0 316.8 458.34658)">3.0% · 42건</text>
    </g>
    <g id="text_18">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="315.591033" y="388.443028" transform="rotate(-0 315.591033 388.443028)">4.9% · 18건</text>
-   </g>
-   <g id="text_19">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="306.096527" y="439.805047" transform="rotate(-0 306.096527 439.805047)">4.1% · 15건</text>
-   </g>
-   <g id="text_20">
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #172c48" x="397.44" y="122.04" transform="rotate(-0 397.44 122.04)">DLC  HHI 0.070  |  CR4 45.6%</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #172c48" x="397.44" y="122.04" transform="rotate(-0 397.44 122.04)">DLC  HHI 0.032  |  CR4 28.7%</text>
    </g>
   </g>
   <g id="axes_2">
    <g id="patch_11">
-    <path d="M 794.88 466.56
-L 1082.88 466.56
-L 1082.88 149.04
-L 794.88 149.04
+    <path d="M 794.88 486 
+L 1082.88 486 
+L 1082.88 149.04 
+L 794.88 149.04 
 z
 " style="fill: #ffffff"/>
    </g>
    <g id="patch_12">
-    <path d="M 794.88 163.472727
-L 980.437047 163.472727
-L 980.437047 195.317179
-L 794.88 195.317179
+    <path d="M 794.88 164.356364 
+L 933.12 164.356364 
+L 933.12 198.150476 
+L 794.88 198.150476 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="patch_13">
-    <path d="M 794.88 214.834746
-L 934.047785 214.834746
-L 934.047785 246.679198
-L 794.88 246.679198
+    <path d="M 794.88 218.862996 
+L 913.92 218.862996 
+L 913.92 252.657108 
+L 794.88 252.657108 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="patch_14">
-    <path d="M 794.88 266.196765
-L 872.195436 266.196765
-L 872.195436 298.041216
-L 794.88 298.041216
+    <path d="M 794.88 273.369628 
+L 910.08 273.369628 
+L 910.08 307.16374 
+L 794.88 307.16374 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="patch_15">
-    <path d="M 794.88 317.558784
-L 841.269262 317.558784
-L 841.269262 349.403235
-L 794.88 349.403235
+    <path d="M 794.88 327.87626 
+L 865.92 327.87626 
+L 865.92 361.670372 
+L 794.88 361.670372 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="patch_16">
-    <path d="M 794.88 368.920802
-L 841.269262 368.920802
-L 841.269262 400.765254
-L 794.88 400.765254
+    <path d="M 794.88 382.382892 
+L 865.92 382.382892 
+L 865.92 416.177004 
+L 794.88 416.177004 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="patch_17">
-    <path d="M 794.88 420.282821
-L 833.537718 420.282821
-L 833.537718 452.127273
-L 794.88 452.127273
+    <path d="M 794.88 436.889524 
+L 864 436.889524 
+L 864 470.683636 
+L 794.88 470.683636 
 z
-" clip-path="url(#p82d3d3a4be)" style="fill: #13857c"/>
+" clip-path="url(#pb6454daeb3)" style="fill: #13857c"/>
    </g>
    <g id="matplotlib.axis_3">
+    <g id="xtick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m45e6b7ff46" x="794.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="794.88" y="507.08" transform="rotate(-0 794.88 507.08)">0.0</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m45e6b7ff46" x="842.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="842.88" y="507.08" transform="rotate(-0 842.88 507.08)">2.5</text>
+     </g>
+    </g>
     <g id="xtick_7">
      <g id="line2d_13">
       <g>
-       <use xlink:href="#m8ae8f41600" x="794.88" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="890.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_21">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="794.88" y="487.96" transform="rotate(-0 794.88 487.96)">0</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="890.88" y="507.08" transform="rotate(-0 890.88 507.08)">5.0</text>
      </g>
     </g>
     <g id="xtick_8">
      <g id="line2d_14">
       <g>
-       <use xlink:href="#m8ae8f41600" x="852.48" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="938.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_22">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="852.48" y="487.96" transform="rotate(-0 852.48 487.96)">5</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="938.88" y="507.08" transform="rotate(-0 938.88 507.08)">7.5</text>
      </g>
     </g>
     <g id="xtick_9">
      <g id="line2d_15">
       <g>
-       <use xlink:href="#m8ae8f41600" x="910.08" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="986.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_23">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="910.08" y="487.96" transform="rotate(-0 910.08 487.96)">10</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="986.88" y="507.08" transform="rotate(-0 986.88 507.08)">10.0</text>
      </g>
     </g>
     <g id="xtick_10">
      <g id="line2d_16">
       <g>
-       <use xlink:href="#m8ae8f41600" x="967.68" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="1034.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_24">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="967.68" y="487.96" transform="rotate(-0 967.68 487.96)">15</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="1034.88" y="507.08" transform="rotate(-0 1034.88 507.08)">12.5</text>
      </g>
     </g>
     <g id="xtick_11">
      <g id="line2d_17">
       <g>
-       <use xlink:href="#m8ae8f41600" x="1025.28" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#m45e6b7ff46" x="1082.88" y="486" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
      <g id="text_25">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="1025.28" y="487.96" transform="rotate(-0 1025.28 487.96)">20</text>
+      <text style="font-size: 16px; font-family: 'Noto Sans CJK KR'; text-anchor: middle; fill: #405269" x="1082.88" y="507.08" transform="rotate(-0 1082.88 507.08)">15.0</text>
      </g>
     </g>
-    <g id="xtick_12">
-     <g id="line2d_18">
-      <g>
-       <use xlink:href="#m8ae8f41600" x="1082.88" y="466.56" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
-      </g>
-     </g>
-     <g id="text_26">
-      <text style="font-size: 16px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #405269" x="1082.88" y="487.96" transform="rotate(-0 1082.88 487.96)">25</text>
-     </g>
-    </g>
-    <g id="text_27">
-     <text style="font-size: 14px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #24344a" x="938.88" y="509.36" transform="rotate(-0 938.88 509.36)">출원인–패밀리 쌍 비중 (%)</text>
+    <g id="text_26">
+     <text style="font-size: 14px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #24344a" x="938.88" y="525.32" transform="rotate(-0 938.88 525.32)">출원인–패밀리 쌍 비중 (%)</text>
     </g>
    </g>
    <g id="matplotlib.axis_4">
     <g id="ytick_7">
-     <g id="line2d_19">
+     <g id="line2d_18">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="179.394953" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="181.25342" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_28">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="185.244953" transform="rotate(-0 787.88 185.244953)">BAIDU</text>
+     <g id="text_27">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="186.97342" transform="rotate(-0 787.88 186.97342)">Baidu</text>
      </g>
     </g>
     <g id="ytick_8">
-     <g id="line2d_20">
+     <g id="line2d_19">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="230.756972" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="235.760052" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_29">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="236.606972" transform="rotate(-0 787.88 236.606972)">MICROSOFT</text>
+     <g id="text_28">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="241.480052" transform="rotate(-0 787.88 241.480052)">Microsoft</text>
      </g>
     </g>
     <g id="ytick_9">
-     <g id="line2d_21">
+     <g id="line2d_20">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="282.118991" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="290.266684" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_30">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="287.968991" transform="rotate(-0 787.88 287.968991)">OVH</text>
+     <g id="text_29">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="295.986684" transform="rotate(-0 787.88 295.986684)">Fujitsu</text>
      </g>
     </g>
     <g id="ytick_10">
-     <g id="line2d_22">
+     <g id="line2d_21">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="333.481009" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="344.773316" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_31">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="339.331009" transform="rotate(-0 787.88 339.331009)">FOXCONN (HON HAI)</text>
+     <g id="text_30">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="350.493316" transform="rotate(-0 787.88 350.493316)">Foxconn</text>
      </g>
     </g>
     <g id="ytick_11">
-     <g id="line2d_23">
+     <g id="line2d_22">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="384.843028" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="399.279948" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_32">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="390.693028" transform="rotate(-0 787.88 390.693028)">INVENTEC</text>
+     <g id="text_31">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="404.999948" transform="rotate(-0 787.88 404.999948)">Intel</text>
      </g>
     </g>
     <g id="ytick_12">
-     <g id="line2d_24">
+     <g id="line2d_23">
       <g>
-       <use xlink:href="#m6754646895" x="794.88" y="436.205047" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
+       <use xlink:href="#mb40134016e" x="794.88" y="453.78658" style="fill: #405269; stroke: #405269; stroke-width: 0.8"/>
       </g>
      </g>
-     <g id="text_33">
-      <text style="font-size: 13px; font-family: 'Apple SD Gothic Neo'; text-anchor: end; fill: #405269" x="787.88" y="442.055047" transform="rotate(-0 787.88 442.055047)">NVIDIA</text>
+     <g id="text_32">
+      <text style="font-size: 13px; font-family: 'Noto Sans CJK KR'; text-anchor: end; fill: #405269" x="787.88" y="459.50658" transform="rotate(-0 787.88 459.50658)">Wiwynn</text>
      </g>
     </g>
    </g>
    <g id="patch_18">
-    <path d="M 794.88 466.56
-L 794.88 149.04
+    <path d="M 794.88 486 
+L 794.88 149.04 
 " style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
    <g id="patch_19">
-    <path d="M 794.88 466.56
-L 1082.88 466.56
+    <path d="M 794.88 486 
+L 1082.88 486 
 " style="fill: none; stroke: #b4bfcc; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
    </g>
+   <g id="text_33">
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="938.88" y="185.81342" transform="rotate(-0 938.88 185.81342)">7.2% · 44건</text>
+   </g>
    <g id="text_34">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="985.621047" y="182.994953" transform="rotate(-0 985.621047 182.994953)">16.1% · 24건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="919.68" y="240.320052" transform="rotate(-0 919.68 240.320052)">6.2% · 38건</text>
    </g>
    <g id="text_35">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="939.231785" y="234.356972" transform="rotate(-0 939.231785 234.356972)">12.1% · 18건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="915.84" y="294.826684" transform="rotate(-0 915.84 294.826684)">6.0% · 37건</text>
    </g>
    <g id="text_36">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="877.379436" y="285.718991" transform="rotate(-0 877.379436 285.718991)">6.7% · 10건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="871.68" y="349.333316" transform="rotate(-0 871.68 349.333316)">3.7% · 23건</text>
    </g>
    <g id="text_37">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="846.453262" y="337.081009" transform="rotate(-0 846.453262 337.081009)">4.0% · 6건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="871.68" y="403.839948" transform="rotate(-0 871.68 403.839948)">3.7% · 23건</text>
    </g>
    <g id="text_38">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="846.453262" y="388.443028" transform="rotate(-0 846.453262 388.443028)">4.0% · 6건</text>
+    <text style="font-size: 12px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="869.76" y="458.34658" transform="rotate(-0 869.76 458.34658)">3.6% · 22건</text>
    </g>
    <g id="text_39">
-    <text style="font-size: 12px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="838.721718" y="439.805047" transform="rotate(-0 838.721718 439.805047)">3.4% · 5건</text>
+    <text style="font-weight: 700; font-size: 20px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: middle; fill: #172c48" x="938.88" y="122.04" transform="rotate(-0 938.88 122.04)">액침  HHI 0.024  |  CR4 23.1%</text>
    </g>
-   <g id="text_40">
-    <text style="font-weight: 700; font-size: 20px; font-family: 'Apple SD Gothic Neo'; text-anchor: middle; fill: #172c48" x="938.88" y="122.04" transform="rotate(-0 938.88 122.04)">액침  HHI 0.058  |  CR4 38.9%</text>
-   </g>
+  </g>
+  <g id="text_40">
+   <text style="font-weight: 700; font-size: 29px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="63.36" y="70.88" transform="rotate(-0 63.36 70.88)">출원인 분포는 분산되어 있으나, 권리 장벽은 별도 검토</text>
   </g>
   <g id="text_41">
-   <text style="font-weight: 700; font-size: 29px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="63.36" y="71.46" transform="rotate(-0 63.36 71.46)">출원인 분포는 분산되어 있으나, 권리 장벽은 별도 검토</text>
+   <text style="font-size: 17px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; text-anchor: start; fill: #172c48" x="92.16" y="550.8" transform="rotate(-0 92.16 550.8)">V1(키워드만) HHI는 DLC 0.071·액침 0.058. 범위를 넓히면 더 분산된다. 특허 수의 분산 ≠ 자유실시 가능.</text>
   </g>
   <g id="text_42">
-   <text style="font-size: 18px; font-family: 'Apple SD Gothic Neo'; text-anchor: start; fill: #172c48" x="92.16" y="550.8" transform="rotate(-0 92.16 550.8)">특허 수의 분산 ≠ 자유실시 가능. 적은 수의 핵심 청구항도 특정 설계를 제약할 수 있다.</text>
-  </g>
-  <g id="text_43">
-   <text style="font-size: 11.5px; font-family: 'Apple SD Gothic Neo'; fill: #59677a" transform="translate(63.36 591.907539)">출처: Lens 재검토 표본, 최우선 2015–2024 / DLC 352·액침 140 패밀리. 완전계수 분모: 364·149 출원인–패밀리 쌍.</text>
-   <text style="font-size: 11.5px; font-family: 'Apple SD Gothic Neo'; fill: #59677a" transform="translate(63.36 612.676719)">HHI = Σ비중². 매출 시장집중도가 아님. 분할계수 HHI 0.073·0.063; 공동출원·정규화 기준은 계산 CSV에 수록.</text>
+   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 596.65668)">출처: V2 데이터, 최우선 2015–2024 / DLC 1,360·액침 590 패밀리. 완전계수 분모: 1,402·614 출원인–패밀리 쌍.</text>
+   <text style="font-size: 11.5px; font-family: 'Noto Sans CJK KR', 'Noto Sans CJK JP'; fill: #59677a" transform="translate(63.36 613.992031)">HHI = Σ비중². 매출 시장집중도가 아님. 분할계수 HHI 0.033·0.026. 같은 회사의 다른 표기는 합쳐 셈(src/v2/analyze_v2.py ALIAS).</text>
   </g>
  </g>
  <defs>
-  <clipPath id="p38c13f968c">
-   <rect x="253.44" y="149.04" width="288" height="317.52"/>
+  <clipPath id="p7dd7fd49ec">
+   <rect x="253.44" y="149.04" width="288" height="336.96"/>
   </clipPath>
-  <clipPath id="p82d3d3a4be">
-   <rect x="794.88" y="149.04" width="288" height="317.52"/>
+  <clipPath id="pb6454daeb3">
+   <rect x="794.88" y="149.04" width="288" height="336.96"/>
   </clipPath>
  </defs>
 </svg>
